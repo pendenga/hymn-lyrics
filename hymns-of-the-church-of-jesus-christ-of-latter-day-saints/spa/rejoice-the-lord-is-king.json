@@ -1,0 +1,41 @@
+{
+  "number": 30,
+  "title": "A Cristo Rey Jes\u00fas",
+  "marking": "Con entusiasmo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "A Cristo Rey Jes\u00fas con gozo adorad.",
+        "Regocijaos y a \u00c9l loor cantad.",
+        "Alzad la voz y alabad, cantad al Rey, loor cantad.",
+        "Alzad la voz y alabad, cantad al Rey, loor cantad."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Ya reina el Se\u00f1or, el Dios de salvaci\u00f3n;",
+        "Su trono \u00c9l tom\u00f3 cumplida Su misi\u00f3n.",
+        "Alzad la voz y alabad, cantad al Rey, loor cantad.",
+        "Alzad la voz y alabad, cantad al Rey, loor cantad."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Su reino durar\u00e1; de todo es Se\u00f1or.",
+        "Sobre la muerte y el infierno \u00c9l triunf\u00f3.",
+        "Alzad la voz y alabad, cantad al Rey, loor cantad.",
+        "Alzad la voz y alabad, cantad al Rey, loor cantad."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Charles Wesley, 1707\u20131788.",
+    "M\u00fasica: Horatio Parker, 1863\u20131919."
+  ],
+  "slug": "rejoice-the-lord-is-king",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rejoice-the-lord-is-king?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/rejoice-the-lord-is-king.json"
+}

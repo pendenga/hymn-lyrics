@@ -1,0 +1,95 @@
+{
+  "number": 42,
+  "title": "Que Firme Alicerce",
+  "marking": "Com dignidade",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Que firme alicerce, \u00f3 santos do Senhor,",
+        "Tereis pela f\u00e9 em Jesus, o Salvador!",
+        "O Mestre querido vos h\u00e1 de guiar,",
+        "\u00d3 v\u00f3s que por Cristo,",
+        "\u00d3 v\u00f3s que por Cristo,",
+        "\u00d3 v\u00f3s que por Cristo viveis a lutar."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Na vida ou na morte, no fausto ou na dor,",
+        "Quer pobres ou ricos, tereis o seu amor.",
+        "No mar ou na terra, em todo lugar,",
+        "De todo o perigo,",
+        "De todo o perigo,",
+        "De todo o perigo vos h\u00e1 de livrar."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Se Deus \u00e9 convosco, a quem temereis?",
+        "Ele \u00e9 vosso Deus, seu aux\u00edlio tereis.",
+        "Se o mundo vos tenta, se o mal faz tremer,",
+        "Com m\u00e3o poderosa,",
+        "Com m\u00e3o poderosa,",
+        "Com m\u00e3o poderosa vos h\u00e1 de suster."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "E quando torrentes tiverdes que passar,",
+        "O rio do mal n\u00e3o vos poder\u00e1 tragar,",
+        "Pois ele, que pode a tormenta acalmar,",
+        "Seus santos queridos,",
+        "Seus santos queridos,",
+        "Seus santos queridos vir\u00e1 resgatar."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Se provas de fogo tiverdes que passar,",
+        "Tereis sua gra\u00e7a a vos amparar.",
+        "A chama n\u00e3o pode o fiel consumir",
+        "Mas queima a esc\u00f3ria,",
+        "Mas queima a esc\u00f3ria,",
+        "Mas queima a esc\u00f3ria e o ouro faz surgir."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Passando-se os anos, v\u00f3s santos, provareis",
+        "O amor soberano do grande Rei dos Reis",
+        "E quando, enfim, esta vida findar,",
+        "Bem junto a Cristo,",
+        "Bem junto a Cristo,",
+        "Bem junto a Cristo ireis habitar."
+      ],
+      "optional": true
+    },
+    {
+      "number": 7,
+      "lines": [
+        "A alma que em Cristo confiante repousar,",
+        "A seus inimigos n\u00e3o h\u00e1 de se entregar.",
+        "Embora o inferno a queira destruir,",
+        "Deus nunca, oh, nunca,",
+        "Deus nunca, oh, nunca,",
+        "Deus nunca, oh, nunca, o h\u00e1 de permitir."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Atr. a Robert Keen, aprox. 1787",
+    "M\u00fasica: Atr. a J. Ellis, ca. 1889"
+  ],
+  "slug": "how-firm-a-foundation",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-firm-a-foundation?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/how-firm-a-foundation.json"
+}

@@ -1,0 +1,41 @@
+{
+  "number": 38,
+  "title": "Santos, avanzad",
+  "marking": "Con resoluci\u00f3n",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Santos, avanzad con fe en el Se\u00f1or,",
+        "con esperanza en el coraz\u00f3n.",
+        "Amad a Dios y a la humanidad.",
+        "\u00a1Aleluya, aleluya, aleluya!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "En la palabra de Jes\u00fas gozad.",
+        "Su nombre recibid y alabad.",
+        "La luz eterna \u00c9l a todos da.",
+        "\u00a1Aleluya, aleluya, aleluya!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Sed firmes en las v\u00edas del Se\u00f1or.",
+        "Perseverad, pues \u00c9l os da Su amor.",
+        "La vida eterna \u00c9l nos brindar\u00e1.",
+        "\u00a1Aleluya, aleluya, aleluya!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Marvin K. Gardner, n. 1952; basada en 2 Nefi 31:20. \u00a9 1985 IRI",
+    "M\u00fasica: Vanya Y. Watkins, n. 1938. \u00a9 1985 IRI"
+  ],
+  "slug": "press-forward-saints",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/press-forward-saints?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/press-forward-saints.json"
+}

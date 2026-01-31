@@ -1,0 +1,53 @@
+{
+  "number": 207,
+  "title": "It Came upon the Midnight Clear",
+  "marking": "Brightly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "It came upon the midnight clear,",
+        "That glorious song of old,",
+        "From angels bending near the earth",
+        "To touch their harps of gold:",
+        "\u201cPeace on the earth, good will to men",
+        "From heav\u2019n\u2019s all-gracious King.\u201d",
+        "The world in solemn stillness lay",
+        "To hear the angels sing."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Still thru the cloven skies they come",
+        "With peaceful wings unfurled,",
+        "And still their heav\u2019nly music floats",
+        "O\u2019er all the weary world.",
+        "Above its sad and lowly plains",
+        "They bend on hov\u2019ring wing,",
+        "And ever o\u2019er its babel sounds",
+        "The blessed angels sing."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "For lo! the days are hast\u2019ning on,",
+        "By prophets seen of old,",
+        "When with the ever-circling years",
+        "Shall come the time foretold,",
+        "When the new heav\u2019n and earth shall own",
+        "The Prince of Peace their King,",
+        "And the whole world send back the song",
+        "Which now the angels sing."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Edmund H. Sears, 1810\u20131876",
+    "Music: Richard S. Willis, 1819\u20131900"
+  ],
+  "slug": "it-came-upon-the-midnight-clear",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/it-came-upon-the-midnight-clear?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/it-came-upon-the-midnight-clear.json"
+}

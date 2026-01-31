@@ -1,0 +1,50 @@
+{
+  "number": 119,
+  "title": "Come We That Love the Lord",
+  "marking": "Joyfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Come, we that love the Lord,",
+        "And let our joys be known.",
+        "Join in a song with sweet accord,",
+        "And worship at his throne."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Let those refuse to sing",
+        "Who never knew our God,",
+        "But servants of the heav\u2019nly King",
+        "May speak their joys abroad."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "The God who rules on high",
+        "And all the earth surveys\u2014",
+        "Who rides upon the stormy sky",
+        "And calms the roaring seas\u2014"
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "This mighty God is ours,",
+        "Our Father and our Love.",
+        "He will send down his heav\u2019nly pow\u2019rs",
+        "To carry us above."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Isaac Watts, 1674\u20131748",
+    "Music: Aaron Williams, 1731\u20131776"
+  ],
+  "slug": "come-we-that-love-the-lord",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-we-that-love-the-lord?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-we-that-love-the-lord.json"
+}

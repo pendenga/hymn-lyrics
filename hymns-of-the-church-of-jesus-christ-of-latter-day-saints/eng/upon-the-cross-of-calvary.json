@@ -1,0 +1,41 @@
+{
+  "number": 184,
+  "title": "Upon the Cross of Calvary",
+  "marking": "Solemnly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Upon the cross of Calvary",
+        "They crucified our Lord",
+        "And sealed with blood the sacrifice",
+        "That sanctified his word."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Upon the cross he meekly died",
+        "For all mankind to see",
+        "That death unlocks the passageway",
+        "Into eternity."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Upon the cross our Savior died,",
+        "But, dying, brought new birth",
+        "Through resurrection\u2019s miracle",
+        "To all the sons of earth."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Vilate Raile, 1890\u20131954. \u00a9 1948 IRI",
+    "Music: Leroy J. Robertson, 1896\u20131971. \u00a9 1948 IRI"
+  ],
+  "slug": "upon-the-cross-of-calvary",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/upon-the-cross-of-calvary?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/upon-the-cross-of-calvary.json"
+}

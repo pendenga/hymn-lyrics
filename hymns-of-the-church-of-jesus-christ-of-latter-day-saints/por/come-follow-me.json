@@ -1,0 +1,70 @@
+{
+  "number": 68,
+  "title": "Vinde a Mim",
+  "marking": "Reverente",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "\u201cVinde a mim\u201d, Jesus falou",
+        "E seu exemplo nos deixou",
+        "Para podermos nos guiar",
+        "E em seus passos caminhar."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "\u201cVinde a mim\u201d, falou Jesus",
+        "Mostrando a senda que conduz",
+        "O oprimido cora\u00e7\u00e3o",
+        "Pelas veredas do perd\u00e3o."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Basta, ent\u00e3o, somente ouvir,",
+        "Fazer conv\u00eanios sem cumprir?",
+        "N\u00e3o, pois nos rege um dever",
+        "Ao qual fi\u00e9is devemos ser."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "N\u00e3o s\u00f3 devemos imitar",
+        "A sua vida exemplar",
+        "Neste estado terreal",
+        "Mas, sim, tamb\u00e9m no imortal."
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Vamos em frente prosseguir",
+        "Pela estrada do porvir",
+        "Seguindo os passos do Senhor",
+        "Seja em que estera for."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Tronos, dom\u00ednios e poder",
+        "Gl\u00f3ria eterna vamos ter",
+        "Sempre ouvindo at\u00e9 o fim",
+        "Ao seu chamado: \u201cVinde a mim\u201d."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: John Nicholson, 1839\u20131909",
+    "M\u00fasica: Samuel McBurney, n. 1847"
+  ],
+  "slug": "come-follow-me",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-follow-me?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/come-follow-me.json"
+}

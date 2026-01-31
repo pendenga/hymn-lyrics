@@ -1,0 +1,88 @@
+{
+  "number": 63,
+  "title": "Aunque colmados de pesar",
+  "marking": "Con alegr\u00eda",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Aunque colmados de pesar,",
+        "seguid, oh santos; avanzad.",
+        "Ya pronto la resurrecci\u00f3n",
+        "su luz eterna mostrar\u00e1,",
+        "su luz eterna mostrar\u00e1."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Aunque aqu\u00ed el mal prob\u00e1is,",
+        "el tiempo presto pasar\u00e1",
+        "y Cristo, con la hueste fiel,",
+        "al mundo pronto bajar\u00e1,",
+        "al mundo pronto bajar\u00e1."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Alzad con gozo el coraz\u00f3n;",
+        "cantad a Dios con fe y fervor.",
+        "Reposo hallar\u00e9is en El",
+        "por m\u00e1s que reine el error,",
+        "por m\u00e1s que reine el error."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Aunque haya gran persecuci\u00f3n",
+        "y os despojen con furor,",
+        "ten\u00e9is promesa de Jehov\u00e1;",
+        "todo Su plan se cumplir\u00e1.",
+        "Todo Su plan se cumplir\u00e1."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "La obra se extender\u00e1;",
+        "el evangelio avanzar\u00e1.",
+        "La piedra est\u00e1 cortada ya",
+        "y todo el mundo llenar\u00e1;",
+        "y todo el mundo llenar\u00e1."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Aunque se oponga Satan\u00e1s,",
+        "las profec\u00edas de ayer",
+        "no se revocar\u00e1n jam\u00e1s;",
+        "su cumplimiento se ha de ver.",
+        "Su cumplimiento se ha de ver"
+      ],
+      "optional": true
+    },
+    {
+      "number": 7,
+      "lines": [
+        "Glorias alzad a nuestro Dios;",
+        "El a Sus siervos manda ya",
+        "a proclamar la salvaci\u00f3n",
+        "que a los hombres paz dar\u00e1;",
+        "que a los hombres paz dar\u00e1."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Eliza R. Snow, 1804\u20131887.",
+    "M\u00fasica: George Careless, 1839\u20131932."
+  ],
+  "slug": "though-deepening-trials",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/though-deepening-trials?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/though-deepening-trials.json"
+}

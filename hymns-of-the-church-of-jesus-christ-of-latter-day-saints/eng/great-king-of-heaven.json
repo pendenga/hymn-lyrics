@@ -1,0 +1,32 @@
+{
+  "number": 63,
+  "title": "Great King of Heaven",
+  "marking": "Majestically",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Great King of heav\u2019n, our hearts we raise",
+        "To thee in prayer, to thee in praise.",
+        "The vales exult, the hills acclaim,",
+        "And all thy works revere thy name."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "O Israel\u2019s God! Thine arm is strong.",
+        "To thee all earth and skies belong,",
+        "And with one voice in one glad chord,",
+        "With myriad echoes, praise the Lord."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Carrie Stockdale Thomas, 1848\u20131931. \u00a9 1948 IRI",
+    "Music: Leroy J. Robertson, 1896\u20131971. \u00a9 1948 IRI"
+  ],
+  "slug": "great-king-of-heaven",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/great-king-of-heaven?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/great-king-of-heaven.json"
+}

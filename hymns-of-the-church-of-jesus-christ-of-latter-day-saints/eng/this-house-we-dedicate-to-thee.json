@@ -1,0 +1,41 @@
+{
+  "number": 245,
+  "title": "This House We Dedicate to Thee",
+  "marking": "Prayerfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "This house we dedicate to thee,",
+        "Our God, our fathers\u2019 God.",
+        "Wilt thou accept and deign to bless",
+        "The path our feet have trod?"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Wilt thou thy servants here inspire",
+        "When in thy name they speak?",
+        "And wilt thou bless each contrite soul",
+        "Who here thy face doth seek?"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Here may our sons and daughters come",
+        "And find that peace which swells",
+        "From grateful hearts, when touched by thee,",
+        "Wherein thy Spirit dwells!"
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Henry W. Naisbitt, 1826\u20131908",
+    "Music: Frank W. Asper, 1892\u20131973. \u00a9 1948 IRI"
+  ],
+  "slug": "this-house-we-dedicate-to-thee",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/this-house-we-dedicate-to-thee?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/this-house-we-dedicate-to-thee.json"
+}

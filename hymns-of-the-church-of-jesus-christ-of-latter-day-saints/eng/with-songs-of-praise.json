@@ -1,0 +1,53 @@
+{
+  "number": 71,
+  "title": "With Songs of Praise",
+  "marking": "Joyfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "With songs of praise and gratitude",
+        "We worship God above,",
+        "In words and music give our thanks",
+        "For his redeeming love.",
+        "Then come before God\u2019s presence!",
+        "With singing worship him!",
+        "Express the heart too full to speak",
+        "In one exultant hymn."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "The Lord has said a heartfelt song",
+        "By righteous ones is prayer;",
+        "A hymn unites us and invites",
+        "The Spirit to be there.",
+        "Then come before God\u2019s presence!",
+        "With singing worship him!",
+        "Express the heart too full to speak",
+        "In one exultant hymn."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "In former days glad hymns were sung",
+        "By seed of Abraham;",
+        "The Saints shall sing, when Christ shall come,",
+        "The new song of the Lamb.",
+        "Then come before God\u2019s presence!",
+        "With singing worship him!",
+        "Express the heart too full to speak",
+        "In one exultant hymn."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Penelope Moody Allen, b. 1939. \u00a9 1985 IRI",
+    "Music: Newel Kay Brown, b. 1932. \u00a9 1985 IRI"
+  ],
+  "slug": "with-songs-of-praise",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/with-songs-of-praise?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/with-songs-of-praise.json"
+}

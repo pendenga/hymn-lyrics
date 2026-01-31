@@ -1,0 +1,41 @@
+{
+  "number": 57,
+  "title": "El amor del Salvador",
+  "marking": "Con reverencia",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Tal como el sol es el amor del Salvador.",
+        "Su luz penetra nubes de dolor.",
+        "Alumbra nuestra v\u00eda hacia Su hogar,",
+        "y en Su mansi\u00f3n podremos descansar."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Nos habla Su Esp\u00edritu al coraz\u00f3n;",
+        "es nuestro gu\u00eda en la aflicci\u00f3n.",
+        "Da esperanza ante dudas y temor;",
+        "nos une a Dios con lazos de amor."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Escucha, Padre, nuestra humilde oraci\u00f3n.",
+        "Te damos gracias por la Redenci\u00f3n.",
+        "Acataremos, Dios, tu sempiterna ley,",
+        "con gran amor por Cristo, nuestro Rey."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Edward L. Hart, 1916\u20132008. \u00a9 1977 IRI",
+    "M\u00fasica: Crawford Gates, 1921\u20132018. \u00a9 1977 IRI"
+  ],
+  "slug": "our-saviors-love",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/our-saviors-love?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/our-saviors-love.json"
+}

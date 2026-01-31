@@ -1,0 +1,46 @@
+{
+  "number": 190,
+  "title": "Hay un hogar eterno",
+  "marking": "Con suavidad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Hay un hogar eterno, lleno de amor,",
+        "donde todos cantan, donde no hay dolor.",
+        "\u00c1ngeles all\u00e1 cantan, dando a Dios gran loor.",
+        "Alg\u00fan d\u00eda veremos nuestro hogar de amor.",
+        "Oh, dulce hogar, oh bello hogar;",
+        "morada de Cristo, oh bello hogar."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Miles de flores crecen en aquel hogar,",
+        "do los ni\u00f1os suelen al Salvador honrar,",
+        "y le cantan, gozosos, himnos de grande loor.",
+        "Alg\u00fan d\u00eda veremos nuestro hogar de amor.",
+        "Oh, dulce hogar, oh bello hogar;",
+        "morada de Cristo, oh bello hogar."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Pronto tendr\u00e9 la dicha de morar all\u00e1.",
+        "Rescat\u00f3me Cristo; mi protecci\u00f3n ser\u00e1.",
+        "Lo ver\u00e9 ya muy pronto, en Su mansi\u00f3n celestial.",
+        "Ese d\u00eda veremos nuestro hogar de amor.",
+        "Oh, dulce hogar, oh bello hogar;",
+        "morada de Cristo, oh bello hogar."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra y M\u00fasica: H. R. Palmer, 1834\u20131907."
+  ],
+  "slug": "beautiful-home",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/beautiful-home?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/beautiful-home.json"
+}

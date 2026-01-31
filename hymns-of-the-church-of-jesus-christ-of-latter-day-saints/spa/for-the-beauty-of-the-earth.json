@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "title": "Por la belleza terrenal",
+  "marking": "Con alegr\u00eda",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Por la belleza terrenal,",
+        "por el cielo y su fulgor;",
+        "por la protecci\u00f3n del mal",
+        "que nos das con tanto amor,",
+        "gratitud y gran loor",
+        "te rendimos, oh Se\u00f1or."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Por la noche y su paz,",
+        "por el d\u00eda y su primor,",
+        "por el orbe celestial,",
+        "por el \u00e1rbol y la flor,",
+        "gratitud y gran loor",
+        "te rendimos, oh Se\u00f1or."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Por los lazos del amor",
+        "que en familia y amistad",
+        "nos acercan hoy aqu\u00ed",
+        "y a los que partieron ya,",
+        "gratitud y gran loor",
+        "te rendimos, oh Se\u00f1or."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Folliott S. Pierpoint, 1835\u20131917. Traducci\u00f3n de la tercera estrofa, F. J. Pagura, \u00a9 1962, Methopress Ltd. Usado con permiso de Asociaci\u00f3n Ediciones La Aurora, Buenos Aires, Argentina.",
+    "M\u00fasica: Conrad Kocher, 1786\u20131872."
+  ],
+  "slug": "for-the-beauty-of-the-earth",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/for-the-beauty-of-the-earth?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/for-the-beauty-of-the-earth.json"
+}

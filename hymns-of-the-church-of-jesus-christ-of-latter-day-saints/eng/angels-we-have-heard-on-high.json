@@ -1,0 +1,47 @@
+{
+  "number": 203,
+  "title": "Angels We Have Heard on High",
+  "marking": "Joyfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Angels we have heard on high",
+        "Sweetly singing o\u2019er the plains,",
+        "And the mountains in reply",
+        "Echoing their joyous strains.",
+        "Gloria in excelsis Deo.",
+        "Gloria in excelsis Deo."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Shepherds, why this jubilee?",
+        "Why your joyous strains prolong?",
+        "What the gladsome tidings be",
+        "Which inspire your heav\u2019nly song?",
+        "Gloria in excelsis Deo.",
+        "Gloria in excelsis Deo."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Come to Bethlehem and see",
+        "Him whose birth the angels sing;",
+        "Come, adore on bended knee",
+        "Christ the Lord, the newborn King.",
+        "Gloria in excelsis Deo.",
+        "Gloria in excelsis Deo."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: French carol, ca. 1862",
+    "Music: French carol"
+  ],
+  "slug": "angels-we-have-heard-on-high",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/angels-we-have-heard-on-high?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/angels-we-have-heard-on-high.json"
+}

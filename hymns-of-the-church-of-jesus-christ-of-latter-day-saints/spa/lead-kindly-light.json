@@ -1,0 +1,41 @@
+{
+  "number": 48,
+  "title": "Divina Luz",
+  "marking": "Con humildad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Divina Luz, con esplendor benigno, al\u00fambrame.",
+        "Oscuras son la noche y la senda; mi Gu\u00eda s\u00e9.",
+        "Muy lejos de Tu pabell\u00f3n estoy,",
+        "y al hogar de las alturas voy."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Momentos hubo en que Tu ayuda no supliqu\u00e9,",
+        "confiando en mi propia experiencia; no tuve fe.",
+        "Mas hoy deploro esa ceguedad;",
+        "pr\u00e9stame, Dios, Tu grata claridad."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Guiando T\u00fa, la noche resplandece, y cruzar\u00e9",
+        "los valles, montes, riscos y torrentes con firme pie.",
+        "Ver\u00e9 despu\u00e9s el d\u00eda despertar,",
+        "y me guiar\u00e1s de vuelta a mi hogar."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: John Henry Newman, 1801\u20131890.",
+    "M\u00fasica: John B. Dykes, 1823\u20131876."
+  ],
+  "slug": "lead-kindly-light",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lead-kindly-light?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/lead-kindly-light.json"
+}

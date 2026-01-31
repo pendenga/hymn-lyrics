@@ -1,0 +1,40 @@
+{
+  "number": 105,
+  "title": "Jes\u00fas de Nazaret",
+  "marking": "Con devoci\u00f3n",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "\u00a1Jes\u00fas de Nazaret, Rey, Salvador!",
+        "Sobre la muerte \u00c9l es triunfador.",
+        "Del celestial hogar \u00c9l descendi\u00f3.",
+        "Cumpli\u00f3 Su gran misi\u00f3n; Su vida dio."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Comemos este pan con humildad,",
+        "pensando en el Se\u00f1or y en Su bondad.",
+        "Por la humanidad \u00c9l padeci\u00f3;",
+        "de muerte y dolor nos rescat\u00f3."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Bebiendo el agua hoy, con gratitud,",
+        "reverenciamos a Cristo Jes\u00fas.",
+        "En nuestra vida \u00c9l nos guiar\u00e1,",
+        "y al fin, en Su hogar nos recibir\u00e1."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra y M\u00fasica: Hugh W. Dougall, 1872\u20131963."
+  ],
+  "slug": "jesus-of-nazareth-savior-and-king",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-of-nazareth-savior-and-king?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/jesus-of-nazareth-savior-and-king.json"
+}

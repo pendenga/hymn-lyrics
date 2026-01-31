@@ -1,0 +1,41 @@
+{
+  "number": 67,
+  "title": "Vive o Redentor",
+  "marking": "Com alegria",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Eu sei que vive o Redentor,",
+        "O triunfante Salvador,",
+        "A morte e a dor sobrepujou,",
+        "Meu Rei, meu L\u00edder, meu Senhor!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "\u00c9 a raz\u00e3o de minha f\u00e9",
+        "E esperan\u00e7a no porvir,",
+        "A luz que o rumo vem mostrar",
+        "E para o bem me conduzir."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Oh, d\u00e1-me aquela doce paz",
+        "Que s\u00f3 em ti posso encontrar",
+        "Oh, fortalece minha f\u00e9,",
+        "No teu caminho faz-me andar."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Gordon B. Hinckley, 1910\u20132008. \u00a9 1985 IRI",
+    "M\u00fasica: G. Homer Durham, 1911\u20131985. \u00a9 1985 IRI"
+  ],
+  "slug": "my-redeemer-lives",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/my-redeemer-lives?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/my-redeemer-lives.json"
+}

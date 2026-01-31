@@ -1,0 +1,52 @@
+{
+  "number": 144,
+  "title": "A la gloria marcharemos",
+  "marking": "Con entusiasmo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "A la gloria marcharemos",
+        "con las armas de virtud;",
+        "nuestra salvaci\u00f3n labraremos",
+        "al lado de Jes\u00fas.",
+        "Marchemos, s\u00ed, marchemos",
+        "a celestial mansi\u00f3n.",
+        "Por la salvaci\u00f3n obramos;",
+        "es nuestra ambici\u00f3n."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "El sendero seguiremos",
+        "de victoria y verdad.",
+        "Nos acercan las buenas obras",
+        "al reino celestial.",
+        "Marchemos, s\u00ed, marchemos",
+        "a celestial mansi\u00f3n.",
+        "Por la salvaci\u00f3n obramos;",
+        "es nuestra ambici\u00f3n."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Con los santos viviremos",
+        "en la celestial mansi\u00f3n.",
+        "Al Mes\u00edas entonaremos",
+        "canciones de loor.",
+        "Marchemos, s\u00ed, marchemos",
+        "a celestial mansi\u00f3n.",
+        "Por la salvaci\u00f3n obramos;",
+        "es nuestra ambici\u00f3n."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra y M\u00fasica: John M. Chamberlain, 1844\u20131930."
+  ],
+  "slug": "we-are-marching-on-to-glory",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-are-marching-on-to-glory?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/we-are-marching-on-to-glory.json"
+}

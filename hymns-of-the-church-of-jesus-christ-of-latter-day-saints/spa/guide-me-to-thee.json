@@ -1,0 +1,49 @@
+{
+  "number": 52,
+  "title": "Gu\u00edame a Ti",
+  "marking": "Con fervor",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Cristo, mi Salvador, gu\u00edame a Ti.",
+        "Dame tu gran amor; gu\u00edame a Ti.",
+        "En la profundidad de la obscuridad,",
+        "Oh faro de verdad, gu\u00edame a Ti."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Del mundo de dolor, gu\u00edame a Ti.",
+        "Mi vida haz mejor; gu\u00edame a Ti.",
+        "Deja tu gran poder mi alma proteger,",
+        "mi fortaleza ser; gu\u00edame a Ti."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Cuando en tentaci\u00f3n, gu\u00edame a Ti.",
+        "Cuando en aflicci\u00f3n, gu\u00edame a Ti.",
+        "Mi alma morir\u00e1 y gozo no habr\u00e1",
+        "si no me gu\u00edas ya; gu\u00edame a Ti."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "La muerte viene ya; gu\u00edame a Ti.",
+        "Consuelo me dar\u00e1s; gu\u00edame a Ti.",
+        "Deja tu gran piedad, amor y caridad",
+        "guiarme con verdad; gu\u00edame a Ti."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra y M\u00fasica: Orson Pratt Huish, 1851\u20131932."
+  ],
+  "slug": "guide-me-to-thee",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/guide-me-to-thee?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/guide-me-to-thee.json"
+}

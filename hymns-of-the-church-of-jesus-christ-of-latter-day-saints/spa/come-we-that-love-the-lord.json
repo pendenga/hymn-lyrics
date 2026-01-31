@@ -1,0 +1,50 @@
+{
+  "number": 64,
+  "title": "Venid, los que a Dios am\u00e1is",
+  "marking": "Con entusiasmo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Venid, los que a Dios",
+        "am\u00e1is en santidad.",
+        "Loor cantad con grata voz;",
+        "Su nombre adorad."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "No cantar\u00e1 aquel",
+        "que niega al Se\u00f1or,",
+        "mas el que es un siervo fiel",
+        "proclama Su amor."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Del Dios del cielo es",
+        "el mundo que form\u00f3.",
+        "Las nubes puso a Sus pies;",
+        "el mar Su voz oy\u00f3."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Es \u00e9ste nuestro Dios,",
+        "El Padre y Se\u00f1or,",
+        "a quien la fuerza de Su voz",
+        "nos lleva con amor."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Isaac Watts, 1674\u20131748.",
+    "M\u00fasica: Aaron Williams, 1731\u20131776."
+  ],
+  "slug": "come-we-that-love-the-lord",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-we-that-love-the-lord?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/come-we-that-love-the-lord.json"
+}

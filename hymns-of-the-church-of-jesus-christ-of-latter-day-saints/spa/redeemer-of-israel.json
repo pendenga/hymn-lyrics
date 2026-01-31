@@ -1,0 +1,50 @@
+{
+  "number": 5,
+  "title": "Oh Dios de Israel",
+  "marking": "Con \u00e1nimo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Oh Dios de Israel, te rendimos loor",
+        "a ti, nuestro gran Redentor,",
+        "de d\u00eda la sombra, de noche la luz,",
+        "del mundo eres Rey y Se\u00f1or."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Sabemos que vienes tu grey a juntar,",
+        "la cual has de guiar a Si\u00f3n.",
+        "En valle de muerte no nos dejar\u00e1s,",
+        "ni en la vasta desolaci\u00f3n."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Hemos errado mucho, clamando a ti,",
+        "extra\u00f1os, en yermos del mal.",
+        "Los malos se gozan de nuestro pesar,",
+        "mas libre Israel quedar\u00e1."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Nos regocijamos, oh hijos de Dios;",
+        "las se\u00f1as presentes est\u00e1n.",
+        "Seamos valientes y fieles al Rey;",
+        "se vislumbra la gran redenci\u00f3n."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: William W. Phelps, 1792\u20131872; adaptaci\u00f3n de Joseph Swain, 1761\u20131796.",
+    "M\u00fasica: Freeman Lewis, 1780\u20131859."
+  ],
+  "slug": "redeemer-of-israel",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/redeemer-of-israel?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/redeemer-of-israel.json"
+}

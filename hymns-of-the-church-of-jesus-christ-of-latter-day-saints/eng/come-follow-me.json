@@ -1,0 +1,70 @@
+{
+  "number": 116,
+  "title": "Come Follow Me",
+  "marking": "Humbly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "\u201cCome, follow me,\u201d the Savior said.",
+        "Then let us in his footsteps tread,",
+        "For thus alone can we be one",
+        "With God\u2019s own loved, begotten Son."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "\u201cCome, follow me,\u201d a simple phrase,",
+        "Yet truth\u2019s sublime, effulgent rays",
+        "Are in these simple words combined",
+        "To urge, inspire the human mind."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Is it enough alone to know",
+        "That we must follow him below,",
+        "While trav\u2019ling thru this vale of tears?",
+        "No, this extends to holier spheres."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Not only shall we emulate",
+        "His course while in this earthly state,",
+        "But when we\u2019re freed from present cares,",
+        "If with our Lord we would be heirs."
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "We must the onward path pursue",
+        "As wider fields expand to view,",
+        "And follow him unceasingly,",
+        "Whate\u2019er our lot or sphere may be."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "For thrones, dominions, kingdoms, pow\u2019rs,",
+        "And glory great and bliss are ours,",
+        "If we, throughout eternity,",
+        "Obey his words, \u201cCome, follow me.\u201d"
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Text: John Nicholson, 1839\u20131909",
+    "Music: Samuel McBurney, 1847-1909"
+  ],
+  "slug": "come-follow-me",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-follow-me?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-follow-me.json"
+}

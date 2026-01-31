@@ -1,0 +1,80 @@
+{
+  "number": 74,
+  "title": "Praise Ye the Lord",
+  "marking": "Resolutely",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Praise ye the Lord! My heart shall join",
+        "In work so pleasant, so divine,",
+        "Now, while the flesh is my abode,",
+        "And when my soul ascends to God."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Praise shall employ my noblest pow\u2019rs",
+        "While immortality endures;",
+        "My days of praise shall ne\u2019er be past",
+        "While life and thought and being last."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Why should I make a man my trust?",
+        "Princes must die and turn to dust.",
+        "Their breath departs; their pomp and pow\u2019r",
+        "And thoughts all vanish in an hour."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Happy the man whose hopes rely",
+        "On Israel\u2019s God! He made the sky",
+        "And earth and seas with all their train,",
+        "And none shall find his promise vain."
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "His truth forever stands secure.",
+        "He saves th\u2019oppressed; he feeds the poor;",
+        "He sends the troubled conscience peace",
+        "And grants the captive sweet release."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "The Lord gives eyesight to the blind;",
+        "The Lord supports the sinking mind.",
+        "He helps the stranger in distress,",
+        "The widow, and the fatherless."
+      ],
+      "optional": true
+    },
+    {
+      "number": 7,
+      "lines": [
+        "He loves the Saints\u2014he knows them well\u2014",
+        "But turns the wicked down to hell.",
+        "Thy God, O Zion, ever reigns;",
+        "Praise him in everlasting strains."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Text: Isaac Watts, 1674\u20131748; based on Psalm 146",
+    "Music: Evan Stephens, 1854\u20131930"
+  ],
+  "slug": "praise-ye-the-lord",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/praise-ye-the-lord?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/praise-ye-the-lord.json"
+}

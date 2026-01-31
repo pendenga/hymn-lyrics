@@ -1,0 +1,54 @@
+{
+  "number": 196,
+  "title": "Jesus Once of Humble Birth",
+  "marking": "Solemnly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Jesus, once of humble birth,",
+        "Now in glory comes to earth.",
+        "Once he suffered grief and pain;",
+        "Now he comes on earth to reign.",
+        "Now he comes on earth to reign."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Once a meek and lowly Lamb,",
+        "Now the Lord, the great I Am.",
+        "Once upon the cross he bowed;",
+        "Now his chariot is the cloud.",
+        "Now his chariot is the cloud."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Once he groaned in blood and tears;",
+        "Now in glory he appears.",
+        "Once rejected by his own,",
+        "Now their King he shall be known.",
+        "Now their King he shall be known."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Once forsaken, left alone,",
+        "Now exalted to a throne.",
+        "Once all things he meekly bore,",
+        "But he now will bear no more.",
+        "But he now will bear no more."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Parley P. Pratt, 1807\u20131857",
+    "Music: Giacomo Meyerbeer, 1791\u20131864, adapted"
+  ],
+  "slug": "jesus-once-of-humble-birth",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-once-of-humble-birth?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-once-of-humble-birth.json"
+}

@@ -1,0 +1,47 @@
+{
+  "number": 124,
+  "title": "Anjos Descem a Cantar",
+  "marking": "Com j\u00fabilo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Anjos descem a cantar:",
+        "\u201cPaz na terra, gl\u00f3ria a Deus\u201d.",
+        "Nas montanhas, a ecoar.",
+        "Escutai os cantos seus:",
+        "\u201cGl\u00f3ria, gl\u00f3ria a Deus nas alturas!",
+        "Gl\u00f3ria Gl\u00f3ria a Deus nas alturas!\u201d"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Os pastores l\u00e1 se v\u00e3o",
+        "Ver o infante celestial,",
+        "Repetindo o refr\u00e3o",
+        "Do louvor angelical:",
+        "\u201cGl\u00f3ria, gl\u00f3ria a Deus nas alturas!",
+        "Gl\u00f3ria Gl\u00f3ria a Deus nas alturas!\u201d"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "A Bel\u00e9m vinde adorar",
+        "Cristo, Salvador e Rei",
+        "Adorai-o a cantar",
+        "O refr\u00e3o da excelsa grei:",
+        "\u201cGl\u00f3ria, gl\u00f3ria a Deus nas alturas!",
+        "Gl\u00f3ria Gl\u00f3ria a Deus nas alturas!\u201d"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Can\u00e7\u00e3o Natalina Francesa, aprox. 1862",
+    "M\u00fasica: Can\u00e7\u00e3o Natalina Francesa"
+  ],
+  "slug": "angels-we-have-heard-on-high",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/angels-we-have-heard-on-high?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/angels-we-have-heard-on-high.json"
+}

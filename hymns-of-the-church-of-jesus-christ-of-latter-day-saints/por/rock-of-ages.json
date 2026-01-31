@@ -1,0 +1,47 @@
+{
+  "number": 76,
+  "title": "Rocha Eterna",
+  "marking": "Com fervor religioso",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Rocha eterna, foi na cruz",
+        "Que morreste, meu Jesus.",
+        "Vem de ti virtude tal",
+        "Que liberta-nos do mal;",
+        "Traz as b\u00ean\u00e7\u00e3os do perd\u00e3o,",
+        "Gra\u00e7a e paz e salva\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Nem trabalho, nem penar,",
+        "Pode o pecador salvar;",
+        "S\u00f3 tu podes meu Jesus,",
+        "Dar-me vida, paz e luz.",
+        "S\u00f3 tu podes perdoar",
+        "E os pecados expiar."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Eis que em morte se desfaz",
+        "Esta vida t\u00e3o fugaz.",
+        "Quando ao meu lar subir",
+        "E teu rosto em gl\u00f3ria vir,",
+        "Rocha eterna, que prazer,",
+        "Eu terei de em ti viver!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Augustus M. Toplady, 1740\u20131778",
+    "M\u00fasica: Thomas Hastings, 1784\u20131872"
+  ],
+  "slug": "rock-of-ages",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rock-of-ages?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/rock-of-ages.json"
+}

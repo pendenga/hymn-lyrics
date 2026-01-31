@@ -1,0 +1,41 @@
+{
+  "number": 118,
+  "title": "Manh\u00e3 da Ressurrei\u00e7\u00e3o",
+  "marking": "Brilhante",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Raia a aurora na imensid\u00e3o,",
+        "Desaparece a escurid\u00e3o;",
+        "O triste mundo se enche de luz,",
+        "Pois da morte eterna nos livra Jesus."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Ressuscitado Jesus despertou",
+        "E a influ\u00eancia da tumba cessou;",
+        "Do Pai Eterno o Reino herdar\u00e1.",
+        "E sua coroa de gl\u00f3ria ser\u00e1."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Dia bendito de luz e de paz,",
+        "A felicidade \u00e0s almas nos traz;",
+        "Em Cristo vida e gl\u00f3ria haver\u00e1,",
+        "Pois do sepulcro nos resgatar\u00e1."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Cevilla Durfee Martin, 1866\u20131948",
+    "M\u00fasica: William J. C. Thiel"
+  ],
+  "slug": "easter-morning",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/easter-morning?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/easter-morning.json"
+}

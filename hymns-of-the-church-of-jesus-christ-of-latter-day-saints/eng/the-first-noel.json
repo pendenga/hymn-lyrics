@@ -1,0 +1,35 @@
+{
+  "number": 213,
+  "title": "The First Noel",
+  "marking": "Jubilantly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "The first Noel the angel did say",
+        "Was to certain poor shepherds in fields as they lay,",
+        "In fields where they lay keeping their sheep",
+        "On a cold winter\u2019s night that was so deep.",
+        "Noel, Noel, Noel, Noel!",
+        "Born is the King of Israel!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "They looked up and saw a star",
+        "Shining in the East beyond them far,",
+        "And to the earth it gave great light,",
+        "And so it continued both day and night.",
+        "Noel, Noel, Noel, Noel!",
+        "Born is the King of Israel!"
+      ]
+    }
+  ],
+  "credits": [
+    "Text and music: Traditional English carol, ca. 17th century"
+  ],
+  "slug": "the-first-noel",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-first-noel?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-first-noel.json"
+}

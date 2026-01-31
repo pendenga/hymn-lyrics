@@ -1,0 +1,41 @@
+{
+  "number": 45,
+  "title": "Oraci\u00f3n de gratitud",
+  "marking": "Con \u00e1nimo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Hoy agradecidos a Dios suplicamos",
+        "Sus santos decretos nos d\u00e9 a saber;",
+        "que nos haga fuertes en las aflicciones",
+        "y libres nos mantenga con Su gran poder."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Si s\u00f3lo tenemos, oh Dios, Tu ayuda,",
+        "Tu reino divino podremos fundar.",
+        "Es por Tu bondad que la lucha se gana;",
+        "rogamos que te dignes Tu gracia enviar."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Tu nombre alabamos, eterno Dios nuestro.",
+        "Ampara a Tus santos, oh gran Defensor.",
+        "Prot\u00e9genos siempre en tribulaciones;",
+        "la gloria sea tuya, y tambi\u00e9n el honor."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: An\u00f3nimo; de Holanda, apr. 1626.",
+    "M\u00fasica: An\u00f3nimo; de Holanda, apr. 1625; arreglo de Edward Kremser, 1838\u20131914."
+  ],
+  "slug": "prayer-of-thanksgiving",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/prayer-of-thanksgiving?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/prayer-of-thanksgiving.json"
+}

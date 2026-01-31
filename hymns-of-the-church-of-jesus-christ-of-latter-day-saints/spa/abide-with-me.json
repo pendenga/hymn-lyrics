@@ -1,0 +1,41 @@
+{
+  "number": 99,
+  "title": "Acomp\u00e1\u00f1ame",
+  "marking": "Con reverencia",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Ven, oh Se\u00f1or; la noche viene ya.",
+        "Todo es oscuro y temor me da.",
+        "No hay amparo; gran maldad se ve.",
+        "En las tinieblas acomp\u00e1\u00f1ame."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Veloz se va la vida con su af\u00e1n.",
+        "Su gloria, sus ensue\u00f1os pasar\u00e1n.",
+        "Gran decadencia por doquier se ve.",
+        "Ven, oh Se\u00f1or, y acomp\u00e1\u00f1ame."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Siempre Tu gracia quiero yo tener.",
+        "\u00bfQui\u00e9n m\u00e1s podr\u00e1 a Satan\u00e1s vencer?",
+        "S\u00f3lo en Ti mi gu\u00eda hallar\u00e9.",
+        "En sol y sombra, acomp\u00e1\u00f1ame."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Henry F. Lyte, 1793\u20131847.",
+    "M\u00fasica: William H. Monk, 1823\u20131889."
+  ],
+  "slug": "abide-with-me",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/abide-with-me?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/abide-with-me.json"
+}

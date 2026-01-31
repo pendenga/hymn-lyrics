@@ -1,0 +1,47 @@
+{
+  "number": 127,
+  "title": "Noche de luz",
+  "marking": "Con calma",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Noche de luz, noche de paz;",
+        "reina ya gran solaz",
+        "do el ni\u00f1o dormido est\u00e1,",
+        "mensajero del Dios de verdad.",
+        "Duerme, ni\u00f1o, en paz;",
+        "duerme, ni\u00f1o, en paz."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Noche de luz, noche de paz;",
+        "al pastor mostrar\u00e1s",
+        "luz celeste en gran plenitud,",
+        "santos coros que cantan salud.",
+        "Hoy naci\u00f3 el Se\u00f1or;",
+        "hoy naci\u00f3 el Se\u00f1or."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Noche de luz, noche de paz;",
+        "Ved la luz de Su faz.",
+        "Es el alba de la redenci\u00f3n;",
+        "Dios, por \u00c9l, nos dar\u00e1 salvaci\u00f3n.",
+        "\u00a1Oh bendito Jes\u00fas!",
+        "\u00a1Oh bendito Jes\u00fas!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Joseph Mohr, 1792\u20131848.",
+    "M\u00fasica: Franz Xaver Gruber, 1787\u20131863."
+  ],
+  "slug": "silent-night",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/silent-night?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/silent-night.json"
+}

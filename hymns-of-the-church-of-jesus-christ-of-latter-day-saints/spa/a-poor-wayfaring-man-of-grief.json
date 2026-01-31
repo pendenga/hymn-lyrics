@@ -1,0 +1,110 @@
+{
+  "number": 16,
+  "title": "Un pobre forastero",
+  "marking": "Con calma",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Un pobre forastero vi",
+        "por mi camino al pasar;",
+        "\u00e9l me rog\u00f3 con tanto af\u00e1n",
+        "que no lo pude rechazar.",
+        "Su nombre, su destinaci\u00f3n,",
+        "su origen no le pregunt\u00e9,",
+        "mas cuando su mirada vi,",
+        "le di mi amor; no s\u00e9 por qu\u00e9."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "El pan, escaso para m\u00ed,",
+        "com\u00eda cuando \u00e9l lleg\u00f3,",
+        "mas vi su hambre y se lo di;",
+        "\u00e9l lo bendijo y lo parti\u00f3.",
+        "Los dos comimos de ese pan,",
+        "que en manjar se convirti\u00f3,",
+        "pues al comerlo con af\u00e1n",
+        "man\u00e1 a m\u00ed me pareci\u00f3."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Al acercarme al manantial,",
+        "sediento y d\u00e9bil lo hall\u00e9;",
+        "el agua clara no alcanz\u00f3,",
+        "y pareci\u00f3 burlar su sed.",
+        "Corr\u00ed, mi copa le acerqu\u00e9;",
+        "bebi\u00f3, tres veces la vaci\u00f3.",
+        "Despu\u00e9s, me la llen\u00f3 y dio,",
+        "y para siempre mi sed saci\u00f3."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Cay\u00f3 la noche invernal",
+        "con espantosa tempestad.",
+        "Su voz en la tormenta o\u00ed,",
+        "y lo acog\u00ed en mi hogar.",
+        "Le atend\u00ed, lo confort\u00e9,",
+        "mi propio lecho le ofrec\u00ed.",
+        "En duro suelo me acost\u00e9,",
+        "mas en Ed\u00e9n cre\u00ed dormir."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "En el camino lo hall\u00e9",
+        "golpeado, herido, por morir.",
+        "Sus llagas con amor vend\u00e9,",
+        "su aliento hice recobrar.",
+        "San\u00e9 su cuerpo y ocult\u00e9",
+        "la herida que ten\u00eda yo,",
+        "y desde entonces la olvid\u00e9;",
+        "la paz mi coraz\u00f3n llen\u00f3."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Lo vi esperando en prisi\u00f3n",
+        "la muerte como un vil traidor.",
+        "De la calumnia defend\u00ed",
+        "a mi amigo con valor.",
+        "En prueba de mi amistad",
+        "me suplic\u00f3 por \u00e9l morir;",
+        "la carne quiso rehusar,",
+        "mas mi alma libre dijo \u201c\u00a1S\u00ed!\u201d"
+      ],
+      "optional": true
+    },
+    {
+      "number": 7,
+      "lines": [
+        "Al forastero vi ante m\u00ed;",
+        "Su identidad \u00c9l revel\u00f3;",
+        "las marcas en Sus manos vi:",
+        "reconoc\u00ed al Salvador.",
+        "Me dijo: \u201cTe recordar\u00e9\u201d,",
+        "y por mi nombre me llam\u00f3.",
+        "\u201cA tu pr\u00f3jimo ayudaste y",
+        "as\u00ed serviste a tu Se\u00f1or\u201d."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: James Montgomery, 1771\u20131854.",
+    "M\u00fasica: George Coles, 1792\u20131858; arreglo musical.",
+    "Himno cantado a pedido del profeta Jos\u00e9 Smith pocas horas antes de ser asesinado. V\u00e9ase Elementos de la historia de la Iglesia, p\u00e1g. 403."
+  ],
+  "slug": "a-poor-wayfaring-man-of-grief",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/a-poor-wayfaring-man-of-grief?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/a-poor-wayfaring-man-of-grief.json"
+}

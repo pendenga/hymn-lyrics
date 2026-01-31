@@ -1,0 +1,50 @@
+{
+  "number": 77,
+  "title": "Great Is the Lord",
+  "marking": "With dignity",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Great is the Lord; \u2019tis good to praise",
+        "His high and holy name.",
+        "Well may the Saints in latter days",
+        "His wondrous love proclaim."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "The Comforter is sent again,",
+        "His pow\u2019r the Church attends,",
+        "And with the faithful will remain",
+        "Till Jesus Christ descends."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "We\u2019ll praise him for a prophet\u2019s voice,",
+        "His people\u2019s steps to guide;",
+        "In this we do and will rejoice,",
+        "Tho all the world deride."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "To praise him let us all engage,",
+        "For unto us is giv\u2019n",
+        "To live in this momentous age",
+        "And share the light of heav\u2019n."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Eliza R. Snow, 1804\u20131887",
+    "Music: Ebenezer Beesley, 1840\u20131906"
+  ],
+  "slug": "great-is-the-lord",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/great-is-the-lord?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/great-is-the-lord.json"
+}

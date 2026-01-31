@@ -1,0 +1,50 @@
+{
+  "number": 32,
+  "title": "The Happy Day at Last Has Come",
+  "marking": "Brightly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "The happy day at last has come.",
+        "The truth restored is now made known.",
+        "The promised angel\u2019s come again",
+        "To introduce Messiah\u2019s reign."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "The gospel trump again is heard.",
+        "The truth from darkness has appeared.",
+        "The lands which long benighted lay",
+        "Have now beheld a glorious day:"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "The day by prophets long foretold,",
+        "The day which Abram did behold,",
+        "The day that Saints desired so long,",
+        "When God his great work would perform,"
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "The day when Saints again shall hear",
+        "The voice of Jesus in their ear,",
+        "And angels, who above do reign,",
+        "Come down to speak again with men."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Philo Dibble, 1806\u20131895",
+    "Music: Ebenezer Beesley, 1840\u20131906"
+  ],
+  "slug": "the-happy-day-at-last-has-come",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-happy-day-at-last-has-come?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-happy-day-at-last-has-come.json"
+}

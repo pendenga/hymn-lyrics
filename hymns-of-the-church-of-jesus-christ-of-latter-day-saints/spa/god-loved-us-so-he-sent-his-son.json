@@ -1,0 +1,61 @@
+{
+  "number": 112,
+  "title": "El Padre tanto nos am\u00f3",
+  "marking": "Con solemnidad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "El Padre tanto nos am\u00f3",
+        "que a Su Hijo nos mand\u00f3",
+        "para mostrarnos c\u00f3mo vivir;",
+        "debemos Su ejemplo seguir."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Y, aunque Hijo es de Dios,",
+        "bajo el azote se humill\u00f3.",
+        "Sin merecerlo \u00c9l sufri\u00f3",
+        "y del pecado nos redimi\u00f3."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "\u00a1Qu\u00e9 gran amor mostr\u00f3 Jes\u00fas!",
+        "Le debo mucha gratitud.",
+        "En Su ofrenda me incluy\u00f3;",
+        "tengo lugar en Su coraz\u00f3n."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Sus leyes quiero acatar,",
+        "y mis deseos sujetar",
+        "a Su divina voluntad,",
+        "mostr\u00e1ndole mi lealtad."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "El pan y el agua emblemas son",
+        "del cuerpo y sangre del Se\u00f1or.",
+        "Prometo al comer y beber",
+        "que siempre le recordar\u00e9."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Edward P. Kimball, 1882\u20131937.",
+    "M\u00fasica: Alexander Schreiner, 1901\u20131987. \u00a9 1948 IRI"
+  ],
+  "slug": "god-loved-us-so-he-sent-his-son",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-loved-us-so-he-sent-his-son?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/god-loved-us-so-he-sent-his-son.json"
+}

@@ -1,0 +1,51 @@
+{
+  "number": 204,
+  "title": "\u00d3 V\u00f3s, Que Sois Chamados",
+  "marking": "Com simplicidade",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "\u00d3 v\u00f3s, que sois chamados a ministrar por Deus,",
+        "Sereis, no sacerd\u00f3cio, diletos filhos seus.",
+        "Ensinareis ao mundo as novas de Jesus",
+        "E elevareis bem alto a sempiterna luz."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "O combatei vaidades e a f\u00fatil ambi\u00e7\u00e3o,",
+        "O, sede sempre puros e fortes em uni\u00e3o.",
+        "Ao proclamar as novas, com f\u00e9 e com fervor,",
+        "Dizei a toda a terra: \u201cJ\u00e1 vem vosso Senhor.\u201d"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Enquanto peregrinos de lar em lar andais,",
+        "A torpes vaidades n\u00e3o cedereis jamais;",
+        "A todos dai consolo e santa instru\u00e7\u00e3o,",
+        "Guiando ao caminho que traz a salva\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "As b\u00ean\u00e7\u00e3os vos esperam, de Deus a paz tereis,",
+        "Em gl\u00f3ria coroados, a morte vencereis.",
+        "L\u00e1 na Si\u00e3o bendita, libertos j\u00e1 do mal,",
+        "Sem mais tristeza e pranto, tereis gl\u00f3ria eternal."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Mary Judd Page, 1818\u20131907",
+    "M\u00fasica: Daniel B. Towner, 1850\u20131919"
+  ],
+  "slug": "ye-who-are-called-to-labor-men",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ye-who-are-called-to-labor-men?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/ye-who-are-called-to-labor-men.json"
+}

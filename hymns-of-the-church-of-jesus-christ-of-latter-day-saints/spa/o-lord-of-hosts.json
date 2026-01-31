@@ -1,0 +1,61 @@
+{
+  "number": 107,
+  "title": "Pedimos Tu Esp\u00edritu",
+  "marking": "Con humildad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Pedimos Tu Esp\u00edritu,",
+        "Se\u00f1or de salvaci\u00f3n;",
+        "tomemos los emblemas hoy",
+        "con limpio coraz\u00f3n."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Queremos siempre recordar",
+        "el sufrimiento cruel",
+        "que padeciste en la cruz,",
+        "y siempre serte fiel."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Ay\u00fadanos a comprender",
+        "la gracia que nos das:",
+        "la salvaci\u00f3n a todos los",
+        "que buscan ver tu faz."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Vivamos cual hermanos, pues,",
+        "en hermandad y paz,",
+        "y perdonemos con amor",
+        "a todos los dem\u00e1s."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Que paz abunde con amor,",
+        "uni\u00f3n y hermandad;",
+        "que tenga gozo cada ser",
+        "por la eternidad."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Andrew Dalrymple, n. 1817.",
+    "M\u00fasica: George Careless, 1839\u20131932."
+  ],
+  "slug": "o-lord-of-hosts",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-lord-of-hosts?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/o-lord-of-hosts.json"
+}

@@ -1,0 +1,32 @@
+{
+  "number": 306,
+  "title": "Gods Daily Care",
+  "marking": "Reverently",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "As I watch the rising sun",
+        "When the day has just begun,",
+        "I am thinking of the love",
+        "That comes daily from above."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Father, turn thine ear to me;",
+        "Let me offer thanks to thee",
+        "For thy wise and tender care",
+        "Of thy children ev\u2019rywhere."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Marie C. Turk. \u00a9 1951 IRI",
+    "Music: Willy Reske, 1897\u20131991. \u00a9 1951 IRI"
+  ],
+  "slug": "gods-daily-care",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/gods-daily-care?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/gods-daily-care.json"
+}

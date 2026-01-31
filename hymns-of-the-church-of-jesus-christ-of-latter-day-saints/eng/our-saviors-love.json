@@ -1,0 +1,53 @@
+{
+  "number": 113,
+  "title": "Our Saviors Love",
+  "marking": "Reverently",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Our Savior\u2019s love",
+        "Shines like the sun with perfect light,",
+        "As from above",
+        "It breaks thru clouds of strife.",
+        "Lighting our way,",
+        "It leads us back into his sight,",
+        "Where we may stay",
+        "To share eternal life."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "The Spirit, voice",
+        "Of goodness, whispers to our hearts",
+        "A better choice",
+        "Than evil\u2019s anguished cries.",
+        "Loud may the sound",
+        "Of hope ring till all doubt departs,",
+        "And we are bound",
+        "To him by loving ties."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Our Father, God",
+        "Of all creation, hear us pray",
+        "In rev\u2019rence, awed",
+        "By thy Son\u2019s sacrifice.",
+        "Praises we sing.",
+        "We love thy law; we will obey.",
+        "Our heav\u2019nly King,",
+        "In thee our hearts rejoice."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Edward L. Hart, 1916\u20132008. \u00a9 1977 IRI",
+    "Music: Crawford Gates, 1921\u20132018. \u00a9 1977 IRI"
+  ],
+  "slug": "our-saviors-love",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/our-saviors-love?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/our-saviors-love.json"
+}

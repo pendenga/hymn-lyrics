@@ -1,0 +1,27 @@
+{
+  "number": 110,
+  "title": "Cast Thy Burden upon the Lord",
+  "marking": "Smoothly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Cast thy burden upon the Lord,",
+        "And he shall sustain thee.",
+        "He never will suffer the righteous to fall.",
+        "He is at thy right hand.",
+        "Thy mercy, Lord, is great",
+        "And far above the heav\u2019ns.",
+        "Let none be made ashamed",
+        "That wait upon thee."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Julius Schubring, 1806\u20131889; adapted from the Psalms",
+    "Music: Felix Mendelssohn, 1809\u20131847"
+  ],
+  "slug": "cast-thy-burden-upon-the-lord",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/cast-thy-burden-upon-the-lord?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/cast-thy-burden-upon-the-lord.json"
+}

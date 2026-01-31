@@ -1,0 +1,41 @@
+{
+  "number": 109,
+  "title": "Em uma Cruz Jesus Morreu",
+  "marking": "Solene",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Em uma cruz Jesus morreu.",
+        "Meu Rei e meu Senhor.",
+        "Seu sacrif\u00edcio de amor",
+        "A vida ao mundo deu."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Na cruz, t\u00e3o manso ele expirou",
+        "A fim de nos mostrar",
+        "O excelso lar, eterno lar",
+        "Que a cruz nos franqueou."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Morreu na cruz em solid\u00e3o",
+        "E o mundo p\u00f4de ver",
+        "Que ao ressurgir podemos ter",
+        "A eterna exalta\u00e7\u00e3o."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Vilate Raile, 1890\u20131954. \u00a9 1948 IRI",
+    "M\u00fasica: Leroy J. Robertson, 1896\u20131971. \u00a9 1948 IRI"
+  ],
+  "slug": "upon-the-cross-of-calvary",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/upon-the-cross-of-calvary?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/upon-the-cross-of-calvary.json"
+}

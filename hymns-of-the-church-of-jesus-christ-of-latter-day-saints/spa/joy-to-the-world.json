@@ -1,0 +1,58 @@
+{
+  "number": 123,
+  "title": "\u00a1Regocijad! Jes\u00fas naci\u00f3",
+  "marking": "Con j\u00fabilo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "\u00a1Regocijad! Jes\u00fas naci\u00f3,",
+        "del mundo Salvador;",
+        "y cada coraz\u00f3n tornad",
+        "a recibir al Rey,",
+        "a recibir al Rey.",
+        "Venid a recibir al Rey."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "\u00a1Regocijad! \u00c9l reinar\u00e1;",
+        "cantemos en uni\u00f3n;",
+        "y en la tierra y en el mar",
+        "loor resonar\u00e1,",
+        "loor resonar\u00e1,",
+        "y gran loor resonar\u00e1."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Ya la maldad vencida es;",
+        "la tierra paz tendr\u00e1.",
+        "La bendici\u00f3n del Salvador",
+        "quit\u00f3 la maldici\u00f3n,",
+        "quit\u00f3 la maldici\u00f3n;",
+        "Jes\u00fas quit\u00f3 la maldici\u00f3n."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "\u00a1Glorias a Dios cantemos hoy!",
+        "Se\u00f1or de Israel,",
+        "la libertad T\u00fa le dar\u00e1s",
+        "y T\u00fa ser\u00e1s su Dios,",
+        "y T\u00fa ser\u00e1s su Dios,",
+        "Se\u00f1or, y T\u00fa ser\u00e1s su Dios."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Isaac Watts, 1674\u20131748.",
+    "M\u00fasica: George F. Handel, 1685\u20131759; arreglo de Lowell Mason, 1792\u20131872."
+  ],
+  "slug": "joy-to-the-world",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/joy-to-the-world?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/joy-to-the-world.json"
+}

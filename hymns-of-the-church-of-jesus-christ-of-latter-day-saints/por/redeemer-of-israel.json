@@ -1,0 +1,70 @@
+{
+  "number": 50,
+  "title": "Cantando Louvamos",
+  "marking": "Confiante",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Cantando louvamos ao Mestre Jesus,",
+        "A ti nosso bom Redentor.",
+        "De dia \u00e9s nuvem, de noite \u00e9s luz;",
+        "Do mundo o Rei e Senhor!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Sabei que ele vem reunir sua grei,",
+        "A qual guiar\u00e1 pela m\u00e3o.",
+        "Do vale da morte ao trono do Rei,",
+        "Que mora na bela mans\u00e3o!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Vagando errantes no mal a andar,",
+        "Pedimos-te amparo fiel;",
+        "Os maus se alegram com nosso pesar,",
+        "Mas livre ser\u00e1, Israel."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Clamai com ventura, remidos do Pai,",
+        "Os grandes sinais j\u00e1 vir\u00e3o;",
+        "E firmes por suas veredas trilhai,",
+        "At\u00e9 a final reden\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Revela, Senhor, Teu semblante de luz;",
+        "Concede-nos paz ao cora\u00e7\u00e3o!",
+        "Nas tuas veredas Teus santos conduz",
+        "\u00c0 tua eterna mans\u00e3o."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Mir\u00edades de anjos A rejubilar",
+        "Entoam excelso louvor.",
+        "Juntemos ao deles O nosso cantar",
+        "Louvando ao Rei e Senhor."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: William W. Phelps, 1792\u20131872; adaptado de Joseph Swain, 1761\u20131796",
+    "M\u00fasica: Freeman Lewis, 1780\u20131859"
+  ],
+  "slug": "redeemer-of-israel",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/redeemer-of-israel?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/redeemer-of-israel.json"
+}

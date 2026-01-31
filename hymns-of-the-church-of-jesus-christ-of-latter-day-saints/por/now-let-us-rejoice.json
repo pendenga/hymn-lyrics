@@ -1,0 +1,53 @@
+{
+  "number": 3,
+  "title": "Alegres Cantemos",
+  "marking": "Brilhante",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Alegres cantemos, n\u00e3o somos estranhos,",
+        "Podemos na terra encontrar salva\u00e7\u00e3o;",
+        "Alegres not\u00edcias os povos recebem:",
+        "Em breve vir\u00e1 a final reden\u00e7\u00e3o.",
+        "E tantas promessas n\u00f3s, santos, teremos\u2014",
+        "A paz reinar\u00e1 para sempre e, assim,",
+        "O mundo vai ser como um \u00c9dem alegre;",
+        "Jesus falar\u00e1: \u201cIsrael, vem a mim.\u201d"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Ent\u00e3o viveremos sem \u00f3dio ou pecado,",
+        "Bem longe de n\u00f3s se afastou o rancor.",
+        "E quando os \u00edmpios tremerem de medo",
+        "Teremos a cren\u00e7a no bom Salvador.",
+        "E tantas promessas n\u00f3s, santos, teremos\u2014",
+        "A paz reinar\u00e1 para sempre e, assim,",
+        "O mundo vai ser como um \u00c9dem alegre;",
+        "Jesus falar\u00e1: \u201cIsrael, vem a mim.\u201d"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Se nos encontrarmos nas trevas perdidos,",
+        "Confiemos no bra\u00e7o potente de Deus.",
+        "Depois do ju\u00edzo, da hora extrema",
+        "Seremos guiados aos dom\u00ednios seus.",
+        "E receberemos de Deus as promessas,",
+        "Os anjos do c\u00e9u nos vir\u00e3o coroar;",
+        "O mundo vai ser como um \u00c9dem celeste;",
+        "E o povo de Cristo ir\u00e1 paz gozar."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: William W. Phelps, 1792\u20131872.",
+    "M\u00fasica: Henry Tucker, aprox. 1863"
+  ],
+  "slug": "now-let-us-rejoice",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/now-let-us-rejoice?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/now-let-us-rejoice.json"
+}

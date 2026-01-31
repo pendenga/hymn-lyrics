@@ -1,0 +1,71 @@
+{
+  "number": 114,
+  "title": "Da Corte Celestial",
+  "marking": "Calmo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Da corte celestial chegou,",
+        "Com grande amor desceu,",
+        "O Cristo nosso Salvador",
+        "E o mundo renasceu."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Seu sangue pelos homens deu",
+        "E assim nos libertou;",
+        "Seu sacrif\u00edcio de amor",
+        "Ao mundo resgatou."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Obedecendo ao Pai de amor,",
+        "O pr\u00eamio conquistou.",
+        "O teu querer, Senhor, farei,",
+        "Humilde e grato sou."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Na terra o Mestre nos mostrou",
+        "A senda que conduz",
+        "\u00c0 Vida Eterna, onde Deus,",
+        "Habita em plena luz."
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Lembrando o corpo do Senhor,",
+        "Partimos hoje o p\u00e3o,",
+        "Da ta\u00e7a vamos partilhar,",
+        "Com f\u00e9 na reden\u00e7\u00e3o."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Que glorioso, celestial,",
+        "O plano do Senhor:",
+        "Perd\u00e3o, justi\u00e7a, reden\u00e7\u00e3o,",
+        "Ao pobre pecador.",
+        "As estrofes 1, 2, 5 e 6 s\u00e3o especialmente apropriadas para o sacramento."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Eliza R. Snow, 1804\u20131887",
+    "M\u00fasica: Thomas McIntyre, 1833\u20131914"
+  ],
+  "slug": "how-great-the-wisdom-and-the-love",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-great-the-wisdom-and-the-love?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/how-great-the-wisdom-and-the-love.json"
+}

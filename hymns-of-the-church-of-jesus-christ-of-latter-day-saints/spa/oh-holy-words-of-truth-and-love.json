@@ -1,0 +1,81 @@
+{
+  "number": 176,
+  "title": "Palabras de amor",
+  "marking": "Con convicci\u00f3n",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Palabras de amor y paz",
+        "o\u00edmos por doquier,",
+        "y nuestro Dios Su santa ley",
+        "nos da a conocer.",
+        "Palabras de amor",
+        "o\u00edmos del Se\u00f1or.",
+        "Cu\u00e1n grato es o\u00edr decir",
+        "palabras de amor."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Son de Ap\u00f3stoles de Dios",
+        "y siervos del Se\u00f1or",
+        "que nos ense\u00f1an el deber",
+        "con gusto y amor.",
+        "Palabras de amor",
+        "o\u00edmos del Se\u00f1or.",
+        "Cu\u00e1n grato es o\u00edr decir",
+        "palabras de amor."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Son de Profetas que nos dan",
+        "consejos de verdad;",
+        "ensalzan lo que bueno es;",
+        "rechazan la maldad.",
+        "Palabras de amor",
+        "o\u00edmos del Se\u00f1or.",
+        "Cu\u00e1n grato es o\u00edr decir",
+        "palabras de amor."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Y el Esp\u00edritu dar\u00e1,",
+        "a quien busque Su don,",
+        "consejos de verdad y luz,",
+        "y santa instrucci\u00f3n.",
+        "Palabras de amor",
+        "o\u00edmos del Se\u00f1or.",
+        "Cu\u00e1n grato es o\u00edr decir",
+        "palabras de amor."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Son joyas de saber y luz,",
+        "y brillan con primor;",
+        "busquemos ese rico don:",
+        "palabras de amor.",
+        "Palabras de amor",
+        "o\u00edmos del Se\u00f1or.",
+        "Cu\u00e1n grato es o\u00edr decir",
+        "palabras de amor."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Joseph L. Townsend, 1849\u20131942.",
+    "M\u00fasica: Edwin F. Parry, 1850\u20131935."
+  ],
+  "slug": "oh-holy-words-of-truth-and-love",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-holy-words-of-truth-and-love?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/oh-holy-words-of-truth-and-love.json"
+}

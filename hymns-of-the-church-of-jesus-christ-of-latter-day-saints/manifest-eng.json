@@ -1,0 +1,2403 @@
+[
+  {
+    "number": 1,
+    "title": "The Morning Breaks",
+    "slug": "the-morning-breaks",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-morning-breaks?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-morning-breaks.json"
+  },
+  {
+    "number": 2,
+    "title": "The Spirit of God",
+    "slug": "the-spirit-of-god",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-spirit-of-god?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-spirit-of-god.json"
+  },
+  {
+    "number": 3,
+    "title": "Now Let Us Rejoice",
+    "slug": "now-let-us-rejoice",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/now-let-us-rejoice?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/now-let-us-rejoice.json"
+  },
+  {
+    "number": 4,
+    "title": "Truth Eternal",
+    "slug": "truth-eternal",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/truth-eternal?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/truth-eternal.json"
+  },
+  {
+    "number": 5,
+    "title": "High on the Mountain Top",
+    "slug": "high-on-the-mountain-top",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/high-on-the-mountain-top?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/high-on-the-mountain-top.json"
+  },
+  {
+    "number": 6,
+    "title": "Redeemer of Israel",
+    "slug": "redeemer-of-israel",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/redeemer-of-israel?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/redeemer-of-israel.json"
+  },
+  {
+    "number": 7,
+    "title": "Israel Israel God Is Calling",
+    "slug": "israel-israel-god-is-calling",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/israel-israel-god-is-calling?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/israel-israel-god-is-calling.json"
+  },
+  {
+    "number": 8,
+    "title": "Awake and Arise",
+    "slug": "awake-and-arise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/awake-and-arise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/awake-and-arise.json"
+  },
+  {
+    "number": 9,
+    "title": "Come Rejoice",
+    "slug": "come-rejoice",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-rejoice?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-rejoice.json"
+  },
+  {
+    "number": 10,
+    "title": "Come Sing to the Lord",
+    "slug": "come-sing-to-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-sing-to-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-sing-to-the-lord.json"
+  },
+  {
+    "number": 11,
+    "title": "What Was Witnessed in the Heavens",
+    "slug": "what-was-witnessed-in-the-heavens",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/what-was-witnessed-in-the-heavens?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/what-was-witnessed-in-the-heavens.json"
+  },
+  {
+    "number": 12,
+    "title": "Twas Witnessed in the Morning Sky",
+    "slug": "twas-witnessed-in-the-morning-sky",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/twas-witnessed-in-the-morning-sky?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/twas-witnessed-in-the-morning-sky.json"
+  },
+  {
+    "number": 13,
+    "title": "An Angel from on High",
+    "slug": "an-angel-from-on-high",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/an-angel-from-on-high?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/an-angel-from-on-high.json"
+  },
+  {
+    "number": 14,
+    "title": "Sweet Is the Peace the Gospel Brings",
+    "slug": "sweet-is-the-peace-the-gospel-brings",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sweet-is-the-peace-the-gospel-brings?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sweet-is-the-peace-the-gospel-brings.json"
+  },
+  {
+    "number": 15,
+    "title": "I Saw a Mighty Angel Fly",
+    "slug": "i-saw-a-mighty-angel-fly",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-saw-a-mighty-angel-fly?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-saw-a-mighty-angel-fly.json"
+  },
+  {
+    "number": 16,
+    "title": "What Glorious Scenes Mine Eyes Behold",
+    "slug": "what-glorious-scenes-mine-eyes-behold",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/what-glorious-scenes-mine-eyes-behold?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/what-glorious-scenes-mine-eyes-behold.json"
+  },
+  {
+    "number": 17,
+    "title": "Awake Ye Saints of God Awake",
+    "slug": "awake-ye-saints-of-god-awake",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/awake-ye-saints-of-god-awake?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/awake-ye-saints-of-god-awake.json"
+  },
+  {
+    "number": 18,
+    "title": "The Voice of God Again Is Heard",
+    "slug": "the-voice-of-god-again-is-heard",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-voice-of-god-again-is-heard?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-voice-of-god-again-is-heard.json"
+  },
+  {
+    "number": 19,
+    "title": "We Thank Thee O God for a Prophet",
+    "slug": "we-thank-thee-o-god-for-a-prophet",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-thank-thee-o-god-for-a-prophet?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-thank-thee-o-god-for-a-prophet.json"
+  },
+  {
+    "number": 20,
+    "title": "God of Power God of Right",
+    "slug": "god-of-power-god-of-right",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-of-power-god-of-right?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-of-power-god-of-right.json"
+  },
+  {
+    "number": 21,
+    "title": "Come Listen to a Prophets Voice",
+    "slug": "come-listen-to-a-prophets-voice",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-listen-to-a-prophets-voice?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-listen-to-a-prophets-voice.json"
+  },
+  {
+    "number": 22,
+    "title": "We Listen to a Prophets Voice",
+    "slug": "we-listen-to-a-prophets-voice",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-listen-to-a-prophets-voice?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-listen-to-a-prophets-voice.json"
+  },
+  {
+    "number": 23,
+    "title": "We Ever Pray for Thee",
+    "slug": "we-ever-pray-for-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-ever-pray-for-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-ever-pray-for-thee.json"
+  },
+  {
+    "number": 24,
+    "title": "God Bless Our Prophet Dear",
+    "slug": "god-bless-our-prophet-dear",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-bless-our-prophet-dear?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-bless-our-prophet-dear.json"
+  },
+  {
+    "number": 25,
+    "title": "Now Well Sing with One Accord",
+    "slug": "now-well-sing-with-one-accord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/now-well-sing-with-one-accord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/now-well-sing-with-one-accord.json"
+  },
+  {
+    "number": 26,
+    "title": "Joseph Smiths First Prayer",
+    "slug": "joseph-smiths-first-prayer",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/joseph-smiths-first-prayer?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/joseph-smiths-first-prayer.json"
+  },
+  {
+    "number": 27,
+    "title": "Praise to the Man",
+    "slug": "praise-to-the-man",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/praise-to-the-man?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/praise-to-the-man.json"
+  },
+  {
+    "number": 28,
+    "title": "Saints Behold How Great Jehovah",
+    "slug": "saints-behold-how-great-jehovah",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/saints-behold-how-great-jehovah?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/saints-behold-how-great-jehovah.json"
+  },
+  {
+    "number": 29,
+    "title": "A Poor Wayfaring Man of Grief",
+    "slug": "a-poor-wayfaring-man-of-grief",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/a-poor-wayfaring-man-of-grief?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/a-poor-wayfaring-man-of-grief.json"
+  },
+  {
+    "number": 30,
+    "title": "Come Come Ye Saints",
+    "slug": "come-come-ye-saints",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-come-ye-saints?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-come-ye-saints.json"
+  },
+  {
+    "number": 31,
+    "title": "O God Our Help in Ages Past",
+    "slug": "o-god-our-help-in-ages-past",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-god-our-help-in-ages-past?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-god-our-help-in-ages-past.json"
+  },
+  {
+    "number": 32,
+    "title": "The Happy Day at Last Has Come",
+    "slug": "the-happy-day-at-last-has-come",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-happy-day-at-last-has-come?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-happy-day-at-last-has-come.json"
+  },
+  {
+    "number": 33,
+    "title": "Our Mountain Home So Dear",
+    "slug": "our-mountain-home-so-dear",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/our-mountain-home-so-dear?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/our-mountain-home-so-dear.json"
+  },
+  {
+    "number": 34,
+    "title": "O Ye Mountains High",
+    "slug": "o-ye-mountains-high",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-ye-mountains-high?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-ye-mountains-high.json"
+  },
+  {
+    "number": 34,
+    "title": "He Sent His Son",
+    "slug": "he-sent-his-son",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/he-sent-his-son?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/he-sent-his-son.json"
+  },
+  {
+    "number": 35,
+    "title": "For the Strength of the Hills",
+    "slug": "for-the-strength-of-the-hills",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/for-the-strength-of-the-hills?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/for-the-strength-of-the-hills.json"
+  },
+  {
+    "number": 36,
+    "title": "They the Builders of the Nation",
+    "slug": "they-the-builders-of-the-nation",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/they-the-builders-of-the-nation?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/they-the-builders-of-the-nation.json"
+  },
+  {
+    "number": 37,
+    "title": "The Wintry Day Descending to Its Close",
+    "slug": "the-wintry-day-descending-to-its-close",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-wintry-day-descending-to-its-close?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-wintry-day-descending-to-its-close.json"
+  },
+  {
+    "number": 38,
+    "title": "Come All Ye Saints of Zion",
+    "slug": "come-all-ye-saints-of-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-all-ye-saints-of-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-all-ye-saints-of-zion.json"
+  },
+  {
+    "number": 39,
+    "title": "O Saints of Zion",
+    "slug": "o-saints-of-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-saints-of-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-saints-of-zion.json"
+  },
+  {
+    "number": 40,
+    "title": "Arise O Glorious Zion",
+    "slug": "arise-o-glorious-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/arise-o-glorious-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/arise-o-glorious-zion.json"
+  },
+  {
+    "number": 41,
+    "title": "Let Zion in Her Beauty Rise",
+    "slug": "let-zion-in-her-beauty-rise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/let-zion-in-her-beauty-rise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/let-zion-in-her-beauty-rise.json"
+  },
+  {
+    "number": 42,
+    "title": "Hail to the Brightness of Zions Glad Morning",
+    "slug": "hail-to-the-brightness-of-zions-glad-morning",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/hail-to-the-brightness-of-zions-glad-morning?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/hail-to-the-brightness-of-zions-glad-morning.json"
+  },
+  {
+    "number": 43,
+    "title": "Zion Stands with Hills Surrounded",
+    "slug": "zion-stands-with-hills-surrounded",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/zion-stands-with-hills-surrounded?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/zion-stands-with-hills-surrounded.json"
+  },
+  {
+    "number": 44,
+    "title": "Beautiful Zion Built Above",
+    "slug": "beautiful-zion-built-above",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/beautiful-zion-built-above?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/beautiful-zion-built-above.json"
+  },
+  {
+    "number": 45,
+    "title": "Lead Me into Life Eternal",
+    "slug": "lead-me-into-life-eternal",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lead-me-into-life-eternal?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lead-me-into-life-eternal.json"
+  },
+  {
+    "number": 46,
+    "title": "Glorious Things of Thee Are Spoken",
+    "slug": "glorious-things-of-thee-are-spoken",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/glorious-things-of-thee-are-spoken?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/glorious-things-of-thee-are-spoken.json"
+  },
+  {
+    "number": 47,
+    "title": "We Will Sing of Zion",
+    "slug": "we-will-sing-of-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-will-sing-of-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-will-sing-of-zion.json"
+  },
+  {
+    "number": 48,
+    "title": "Glorious Things Are Sung of Zion",
+    "slug": "glorious-things-are-sung-of-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/glorious-things-are-sung-of-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/glorious-things-are-sung-of-zion.json"
+  },
+  {
+    "number": 49,
+    "title": "Adam-ondi-Ahman",
+    "slug": "adam-ondi-ahman",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/adam-ondi-ahman?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/adam-ondi-ahman.json"
+  },
+  {
+    "number": 50,
+    "title": "Come Thou Glorious Day of Promise",
+    "slug": "come-thou-glorious-day-of-promise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-thou-glorious-day-of-promise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-thou-glorious-day-of-promise.json"
+  },
+  {
+    "number": 51,
+    "title": "Sons of Michael He Approaches",
+    "slug": "sons-of-michael-he-approaches",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sons-of-michael-he-approaches?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sons-of-michael-he-approaches.json"
+  },
+  {
+    "number": 52,
+    "title": "The Day Dawn Is Breaking",
+    "slug": "the-day-dawn-is-breaking",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-day-dawn-is-breaking?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-day-dawn-is-breaking.json"
+  },
+  {
+    "number": 53,
+    "title": "Let Earths Inhabitants Rejoice",
+    "slug": "let-earths-inhabitants-rejoice",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/let-earths-inhabitants-rejoice?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/let-earths-inhabitants-rejoice.json"
+  },
+  {
+    "number": 54,
+    "title": "Behold the Mountain of the Lord",
+    "slug": "behold-the-mountain-of-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/behold-the-mountain-of-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/behold-the-mountain-of-the-lord.json"
+  },
+  {
+    "number": 55,
+    "title": "Lo the Mighty God Appearing",
+    "slug": "lo-the-mighty-god-appearing",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lo-the-mighty-god-appearing?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lo-the-mighty-god-appearing.json"
+  },
+  {
+    "number": 56,
+    "title": "Softly Beams the Sacred Dawning",
+    "slug": "softly-beams-the-sacred-dawning",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/softly-beams-the-sacred-dawning?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/softly-beams-the-sacred-dawning.json"
+  },
+  {
+    "number": 57,
+    "title": "Were Not Ashamed to Own Our Lord",
+    "slug": "were-not-ashamed-to-own-our-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/were-not-ashamed-to-own-our-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/were-not-ashamed-to-own-our-lord.json"
+  },
+  {
+    "number": 58,
+    "title": "Come Ye Children of the Lord",
+    "slug": "come-ye-children-of-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-ye-children-of-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-ye-children-of-the-lord.json"
+  },
+  {
+    "number": 59,
+    "title": "Come O Thou King of Kings",
+    "slug": "come-o-thou-king-of-kings",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-o-thou-king-of-kings?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-o-thou-king-of-kings.json"
+  },
+  {
+    "number": 60,
+    "title": "Battle Hymn of the Republic",
+    "slug": "battle-hymn-of-the-republic",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/battle-hymn-of-the-republic?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/battle-hymn-of-the-republic.json"
+  },
+  {
+    "number": 61,
+    "title": "Raise Your Voices to the Lord",
+    "slug": "raise-your-voices-to-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/raise-your-voices-to-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/raise-your-voices-to-the-lord.json"
+  },
+  {
+    "number": 62,
+    "title": "All Creatures of Our God and King",
+    "slug": "all-creatures-of-our-god-and-king",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/all-creatures-of-our-god-and-king?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/all-creatures-of-our-god-and-king.json"
+  },
+  {
+    "number": 63,
+    "title": "Great King of Heaven",
+    "slug": "great-king-of-heaven",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/great-king-of-heaven?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/great-king-of-heaven.json"
+  },
+  {
+    "number": 64,
+    "title": "On This Day of Joy and Gladness",
+    "slug": "on-this-day-of-joy-and-gladness",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/on-this-day-of-joy-and-gladness?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/on-this-day-of-joy-and-gladness.json"
+  },
+  {
+    "number": 65,
+    "title": "Come All Ye Saints Who Dwell on Earth",
+    "slug": "come-all-ye-saints-who-dwell-on-earth",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-all-ye-saints-who-dwell-on-earth?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-all-ye-saints-who-dwell-on-earth.json"
+  },
+  {
+    "number": 66,
+    "title": "Rejoice the Lord Is King",
+    "slug": "rejoice-the-lord-is-king",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rejoice-the-lord-is-king?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rejoice-the-lord-is-king.json"
+  },
+  {
+    "number": 67,
+    "title": "Glory to God on High",
+    "slug": "glory-to-god-on-high",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/glory-to-god-on-high?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/glory-to-god-on-high.json"
+  },
+  {
+    "number": 68,
+    "title": "A Mighty Fortress Is Our God",
+    "slug": "a-mighty-fortress-is-our-god",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/a-mighty-fortress-is-our-god?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/a-mighty-fortress-is-our-god.json"
+  },
+  {
+    "number": 69,
+    "title": "All Glory Laud and Honor",
+    "slug": "all-glory-laud-and-honor",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/all-glory-laud-and-honor?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/all-glory-laud-and-honor.json"
+  },
+  {
+    "number": 70,
+    "title": "Sing Praise to Him",
+    "slug": "sing-praise-to-him",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sing-praise-to-him?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sing-praise-to-him.json"
+  },
+  {
+    "number": 71,
+    "title": "With Songs of Praise",
+    "slug": "with-songs-of-praise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/with-songs-of-praise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/with-songs-of-praise.json"
+  },
+  {
+    "number": 72,
+    "title": "Praise to the Lord the Almighty",
+    "slug": "praise-to-the-lord-the-almighty",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/praise-to-the-lord-the-almighty?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/praise-to-the-lord-the-almighty.json"
+  },
+  {
+    "number": 73,
+    "title": "Praise the Lord with Heart and Voice",
+    "slug": "praise-the-lord-with-heart-and-voice",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/praise-the-lord-with-heart-and-voice?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/praise-the-lord-with-heart-and-voice.json"
+  },
+  {
+    "number": 74,
+    "title": "Praise Ye the Lord",
+    "slug": "praise-ye-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/praise-ye-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/praise-ye-the-lord.json"
+  },
+  {
+    "number": 75,
+    "title": "In Hymns of Praise",
+    "slug": "in-hymns-of-praise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/in-hymns-of-praise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/in-hymns-of-praise.json"
+  },
+  {
+    "number": 76,
+    "title": "God of Our Fathers We Come unto Thee",
+    "slug": "god-of-our-fathers-we-come-unto-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-of-our-fathers-we-come-unto-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-of-our-fathers-we-come-unto-thee.json"
+  },
+  {
+    "number": 77,
+    "title": "Great Is the Lord",
+    "slug": "great-is-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/great-is-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/great-is-the-lord.json"
+  },
+  {
+    "number": 78,
+    "title": "God of Our Fathers Whose Almighty Hand",
+    "slug": "god-of-our-fathers-whose-almighty-hand",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-of-our-fathers-whose-almighty-hand?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-of-our-fathers-whose-almighty-hand.json"
+  },
+  {
+    "number": 78,
+    "title": "I'm Trying to Be Like Jesus",
+    "slug": "im-trying-to-be-like-jesus",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/im-trying-to-be-like-jesus?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/im-trying-to-be-like-jesus.json"
+  },
+  {
+    "number": 79,
+    "title": "With All the Power of Heart and Tongue",
+    "slug": "with-all-the-power-of-heart-and-tongue",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/with-all-the-power-of-heart-and-tongue?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/with-all-the-power-of-heart-and-tongue.json"
+  },
+  {
+    "number": 80,
+    "title": "God of Our Fathers Known of Old",
+    "slug": "god-of-our-fathers-known-of-old",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-of-our-fathers-known-of-old?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-of-our-fathers-known-of-old.json"
+  },
+  {
+    "number": 81,
+    "title": "Press Forward Saints",
+    "slug": "press-forward-saints",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/press-forward-saints?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/press-forward-saints.json"
+  },
+  {
+    "number": 82,
+    "title": "For All the Saints",
+    "slug": "for-all-the-saints",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/for-all-the-saints?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/for-all-the-saints.json"
+  },
+  {
+    "number": 83,
+    "title": "Guide Us O Thou Great Jehovah",
+    "slug": "guide-us-o-thou-great-jehovah",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/guide-us-o-thou-great-jehovah?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/guide-us-o-thou-great-jehovah.json"
+  },
+  {
+    "number": 84,
+    "title": "Faith of Our Fathers",
+    "slug": "faith-of-our-fathers",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/faith-of-our-fathers?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/faith-of-our-fathers.json"
+  },
+  {
+    "number": 85,
+    "title": "How Firm a Foundation",
+    "slug": "how-firm-a-foundation",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-firm-a-foundation?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-firm-a-foundation.json"
+  },
+  {
+    "number": 86,
+    "title": "How Great Thou Art",
+    "slug": "how-great-thou-art",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-great-thou-art?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-great-thou-art.json"
+  },
+  {
+    "number": 87,
+    "title": "God Is Love",
+    "slug": "god-is-love",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-is-love?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-is-love.json"
+  },
+  {
+    "number": 88,
+    "title": "Great God Attend While Zion Sings",
+    "slug": "great-god-attend-while-zion-sings",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/great-god-attend-while-zion-sings?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/great-god-attend-while-zion-sings.json"
+  },
+  {
+    "number": 89,
+    "title": "The Lord Is My Light",
+    "slug": "the-lord-is-my-light",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-lord-is-my-light?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-lord-is-my-light.json"
+  },
+  {
+    "number": 90,
+    "title": "From All That Dwell below the Skies",
+    "slug": "from-all-that-dwell-below-the-skies",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/from-all-that-dwell-below-the-skies?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/from-all-that-dwell-below-the-skies.json"
+  },
+  {
+    "number": 91,
+    "title": "Father Thy Children to Thee Now Raise",
+    "slug": "father-thy-children-to-thee-now-raise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/father-thy-children-to-thee-now-raise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/father-thy-children-to-thee-now-raise.json"
+  },
+  {
+    "number": 92,
+    "title": "For the Beauty of the Earth",
+    "slug": "for-the-beauty-of-the-earth",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/for-the-beauty-of-the-earth?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/for-the-beauty-of-the-earth.json"
+  },
+  {
+    "number": 93,
+    "title": "Prayer of Thanksgiving",
+    "slug": "prayer-of-thanksgiving",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/prayer-of-thanksgiving?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/prayer-of-thanksgiving.json"
+  },
+  {
+    "number": 94,
+    "title": "Come Ye Thankful People",
+    "slug": "come-ye-thankful-people",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-ye-thankful-people?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-ye-thankful-people.json"
+  },
+  {
+    "number": 95,
+    "title": "Now Thank We All Our God",
+    "slug": "now-thank-we-all-our-god",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/now-thank-we-all-our-god?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/now-thank-we-all-our-god.json"
+  },
+  {
+    "number": 96,
+    "title": "Dearest Children God Is Near You",
+    "slug": "dearest-children-god-is-near-you",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/dearest-children-god-is-near-you?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/dearest-children-god-is-near-you.json"
+  },
+  {
+    "number": 97,
+    "title": "Lead Kindly Light",
+    "slug": "lead-kindly-light",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lead-kindly-light?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lead-kindly-light.json"
+  },
+  {
+    "number": 98,
+    "title": "I Need Thee Every Hour",
+    "slug": "i-need-thee-every-hour",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-need-thee-every-hour?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-need-thee-every-hour.json"
+  },
+  {
+    "number": 99,
+    "title": "Nearer Dear Savior to Thee",
+    "slug": "nearer-dear-savior-to-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/nearer-dear-savior-to-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/nearer-dear-savior-to-thee.json"
+  },
+  {
+    "number": 100,
+    "title": "Nearer My God to Thee",
+    "slug": "nearer-my-god-to-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/nearer-my-god-to-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/nearer-my-god-to-thee.json"
+  },
+  {
+    "number": 101,
+    "title": "Guide Me to Thee",
+    "slug": "guide-me-to-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/guide-me-to-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/guide-me-to-thee.json"
+  },
+  {
+    "number": 102,
+    "title": "Jesus Lover of My Soul",
+    "slug": "jesus-lover-of-my-soul",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-lover-of-my-soul?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-lover-of-my-soul.json"
+  },
+  {
+    "number": 103,
+    "title": "Precious Savior Dear Redeemer",
+    "slug": "precious-savior-dear-redeemer",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/precious-savior-dear-redeemer?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/precious-savior-dear-redeemer.json"
+  },
+  {
+    "number": 104,
+    "title": "Jesus Savior Pilot Me",
+    "slug": "jesus-savior-pilot-me",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-savior-pilot-me?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-savior-pilot-me.json"
+  },
+  {
+    "number": 105,
+    "title": "Master the Tempest Is Raging",
+    "slug": "master-the-tempest-is-raging",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/master-the-tempest-is-raging?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/master-the-tempest-is-raging.json"
+  },
+  {
+    "number": 106,
+    "title": "God Speed the Right",
+    "slug": "god-speed-the-right",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-speed-the-right?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-speed-the-right.json"
+  },
+  {
+    "number": 107,
+    "title": "Lord Accept Our True Devotion",
+    "slug": "lord-accept-our-true-devotion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lord-accept-our-true-devotion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lord-accept-our-true-devotion.json"
+  },
+  {
+    "number": 108,
+    "title": "The Lord Is My Shepherd",
+    "slug": "the-lord-is-my-shepherd",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-lord-is-my-shepherd?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-lord-is-my-shepherd.json"
+  },
+  {
+    "number": 109,
+    "title": "The Lord My Pasture Will Prepare",
+    "slug": "the-lord-my-pasture-will-prepare",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-lord-my-pasture-will-prepare?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-lord-my-pasture-will-prepare.json"
+  },
+  {
+    "number": 110,
+    "title": "Cast Thy Burden upon the Lord",
+    "slug": "cast-thy-burden-upon-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/cast-thy-burden-upon-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/cast-thy-burden-upon-the-lord.json"
+  },
+  {
+    "number": 111,
+    "title": "Rock of Ages",
+    "slug": "rock-of-ages",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rock-of-ages?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rock-of-ages.json"
+  },
+  {
+    "number": 112,
+    "title": "Savior Redeemer of My Soul",
+    "slug": "savior-redeemer-of-my-soul",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/savior-redeemer-of-my-soul?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/savior-redeemer-of-my-soul.json"
+  },
+  {
+    "number": 113,
+    "title": "Our Saviors Love",
+    "slug": "our-saviors-love",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/our-saviors-love?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/our-saviors-love.json"
+  },
+  {
+    "number": 114,
+    "title": "Come unto Him",
+    "slug": "come-unto-him",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-unto-him?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-unto-him.json"
+  },
+  {
+    "number": 115,
+    "title": "Come Ye Disconsolate",
+    "slug": "come-ye-disconsolate",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-ye-disconsolate?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-ye-disconsolate.json"
+  },
+  {
+    "number": 116,
+    "title": "Come Follow Me",
+    "slug": "come-follow-me",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-follow-me?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-follow-me.json"
+  },
+  {
+    "number": 117,
+    "title": "Come unto Jesus",
+    "slug": "come-unto-jesus",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-unto-jesus?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-unto-jesus.json"
+  },
+  {
+    "number": 118,
+    "title": "Ye Simple Souls Who Stray",
+    "slug": "ye-simple-souls-who-stray",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ye-simple-souls-who-stray?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/ye-simple-souls-who-stray.json"
+  },
+  {
+    "number": 119,
+    "title": "Come We That Love the Lord",
+    "slug": "come-we-that-love-the-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-we-that-love-the-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-we-that-love-the-lord.json"
+  },
+  {
+    "number": 120,
+    "title": "Lean on My Ample Arm",
+    "slug": "lean-on-my-ample-arm",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lean-on-my-ample-arm?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lean-on-my-ample-arm.json"
+  },
+  {
+    "number": 121,
+    "title": "Im a Pilgrim Im a Stranger",
+    "slug": "im-a-pilgrim-im-a-stranger",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/im-a-pilgrim-im-a-stranger?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/im-a-pilgrim-im-a-stranger.json"
+  },
+  {
+    "number": 122,
+    "title": "Though Deepening Trials",
+    "slug": "though-deepening-trials",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/though-deepening-trials?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/though-deepening-trials.json"
+  },
+  {
+    "number": 123,
+    "title": "Oh May My Soul Commune with Thee",
+    "slug": "oh-may-my-soul-commune-with-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-may-my-soul-commune-with-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/oh-may-my-soul-commune-with-thee.json"
+  },
+  {
+    "number": 124,
+    "title": "Be Still My Soul",
+    "slug": "be-still-my-soul",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/be-still-my-soul?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/be-still-my-soul.json"
+  },
+  {
+    "number": 125,
+    "title": "How Gentle Gods Commands",
+    "slug": "how-gentle-gods-commands",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-gentle-gods-commands?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-gentle-gods-commands.json"
+  },
+  {
+    "number": 126,
+    "title": "How Long O Lord Most Holy and True",
+    "slug": "how-long-o-lord-most-holy-and-true",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-long-o-lord-most-holy-and-true?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-long-o-lord-most-holy-and-true.json"
+  },
+  {
+    "number": 127,
+    "title": "Does the Journey Seem Long",
+    "slug": "does-the-journey-seem-long",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/does-the-journey-seem-long?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/does-the-journey-seem-long.json"
+  },
+  {
+    "number": 128,
+    "title": "When Faith Endures",
+    "slug": "when-faith-endures",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/when-faith-endures?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/when-faith-endures.json"
+  },
+  {
+    "number": 129,
+    "title": "Where Can I Turn for Peace",
+    "slug": "where-can-i-turn-for-peace",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/where-can-i-turn-for-peace?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/where-can-i-turn-for-peace.json"
+  },
+  {
+    "number": 130,
+    "title": "Be Thou Humble",
+    "slug": "be-thou-humble",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/be-thou-humble?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/be-thou-humble.json"
+  },
+  {
+    "number": 131,
+    "title": "More Holiness Give Me",
+    "slug": "more-holiness-give-me",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/more-holiness-give-me?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/more-holiness-give-me.json"
+  },
+  {
+    "number": 132,
+    "title": "God Is in His Holy Temple",
+    "slug": "god-is-in-his-holy-temple",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-is-in-his-holy-temple?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-is-in-his-holy-temple.json"
+  },
+  {
+    "number": 133,
+    "title": "Father in Heaven",
+    "slug": "father-in-heaven",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/father-in-heaven?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/father-in-heaven.json"
+  },
+  {
+    "number": 134,
+    "title": "I Believe in Christ",
+    "slug": "i-believe-in-christ",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-believe-in-christ?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-believe-in-christ.json"
+  },
+  {
+    "number": 135,
+    "title": "My Redeemer Lives",
+    "slug": "my-redeemer-lives",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/my-redeemer-lives?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/my-redeemer-lives.json"
+  },
+  {
+    "number": 136,
+    "title": "I Know That My Redeemer Lives",
+    "slug": "i-know-that-my-redeemer-lives",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-know-that-my-redeemer-lives?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-know-that-my-redeemer-lives.json"
+  },
+  {
+    "number": 137,
+    "title": "Testimony",
+    "slug": "testimony",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/testimony?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/testimony.json"
+  },
+  {
+    "number": 138,
+    "title": "Bless Our Fast We Pray",
+    "slug": "bless-our-fast-we-pray",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/bless-our-fast-we-pray?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/bless-our-fast-we-pray.json"
+  },
+  {
+    "number": 139,
+    "title": "In Fasting We Approach Thee",
+    "slug": "in-fasting-we-approach-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/in-fasting-we-approach-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/in-fasting-we-approach-thee.json"
+  },
+  {
+    "number": 140,
+    "title": "Did You Think to Pray",
+    "slug": "did-you-think-to-pray",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/did-you-think-to-pray?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/did-you-think-to-pray.json"
+  },
+  {
+    "number": 141,
+    "title": "Jesus the Very Thought of Thee",
+    "slug": "jesus-the-very-thought-of-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-the-very-thought-of-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-the-very-thought-of-thee.json"
+  },
+  {
+    "number": 142,
+    "title": "Sweet Hour of Prayer",
+    "slug": "sweet-hour-of-prayer",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sweet-hour-of-prayer?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sweet-hour-of-prayer.json"
+  },
+  {
+    "number": 143,
+    "title": "Let the Holy Spirit Guide",
+    "slug": "let-the-holy-spirit-guide",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/let-the-holy-spirit-guide?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/let-the-holy-spirit-guide.json"
+  },
+  {
+    "number": 144,
+    "title": "Secret Prayer",
+    "slug": "secret-prayer",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/secret-prayer?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/secret-prayer.json"
+  },
+  {
+    "number": 145,
+    "title": "Prayer Is the Souls Sincere Desire",
+    "slug": "prayer-is-the-souls-sincere-desire",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/prayer-is-the-souls-sincere-desire?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/prayer-is-the-souls-sincere-desire.json"
+  },
+  {
+    "number": 146,
+    "title": "Gently Raise the Sacred Strain",
+    "slug": "gently-raise-the-sacred-strain",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/gently-raise-the-sacred-strain?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/gently-raise-the-sacred-strain.json"
+  },
+  {
+    "number": 147,
+    "title": "Sweet Is the Work",
+    "slug": "sweet-is-the-work",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sweet-is-the-work?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sweet-is-the-work.json"
+  },
+  {
+    "number": 148,
+    "title": "Sabbath Day",
+    "slug": "sabbath-day",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sabbath-day?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sabbath-day.json"
+  },
+  {
+    "number": 149,
+    "title": "As the Dew from Heaven Distilling",
+    "slug": "as-the-dew-from-heaven-distilling",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/as-the-dew-from-heaven-distilling?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/as-the-dew-from-heaven-distilling.json"
+  },
+  {
+    "number": 150,
+    "title": "O Thou Kind and Gracious Father",
+    "slug": "o-thou-kind-and-gracious-father",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-thou-kind-and-gracious-father?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-thou-kind-and-gracious-father.json"
+  },
+  {
+    "number": 151,
+    "title": "We Meet Dear Lord",
+    "slug": "we-meet-dear-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-meet-dear-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-meet-dear-lord.json"
+  },
+  {
+    "number": 152,
+    "title": "God Be with You Till We Meet Again",
+    "slug": "god-be-with-you-till-we-meet-again",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-be-with-you-till-we-meet-again?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-be-with-you-till-we-meet-again.json"
+  },
+  {
+    "number": 153,
+    "title": "Lord We Ask Thee Ere We Part",
+    "slug": "lord-we-ask-thee-ere-we-part",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lord-we-ask-thee-ere-we-part?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lord-we-ask-thee-ere-we-part.json"
+  },
+  {
+    "number": 154,
+    "title": "Father This Hour Has Been One of Joy",
+    "slug": "father-this-hour-has-been-one-of-joy",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/father-this-hour-has-been-one-of-joy?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/father-this-hour-has-been-one-of-joy.json"
+  },
+  {
+    "number": 155,
+    "title": "We Have Partaken of Thy Love",
+    "slug": "we-have-partaken-of-thy-love",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-have-partaken-of-thy-love?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-have-partaken-of-thy-love.json"
+  },
+  {
+    "number": 156,
+    "title": "Sing We Now at Parting",
+    "slug": "sing-we-now-at-parting",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sing-we-now-at-parting?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sing-we-now-at-parting.json"
+  },
+  {
+    "number": 157,
+    "title": "Thy Spirit Lord Has Stirred Our Souls",
+    "slug": "thy-spirit-lord-has-stirred-our-souls",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/thy-spirit-lord-has-stirred-our-souls?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/thy-spirit-lord-has-stirred-our-souls.json"
+  },
+  {
+    "number": 158,
+    "title": "Before Thee Lord I Bow My Head",
+    "slug": "before-thee-lord-i-bow-my-head",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/before-thee-lord-i-bow-my-head?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/before-thee-lord-i-bow-my-head.json"
+  },
+  {
+    "number": 159,
+    "title": "Now the Day Is Over",
+    "slug": "now-the-day-is-over",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/now-the-day-is-over?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/now-the-day-is-over.json"
+  },
+  {
+    "number": 160,
+    "title": "Softly Now the Light of Day",
+    "slug": "softly-now-the-light-of-day",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/softly-now-the-light-of-day?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/softly-now-the-light-of-day.json"
+  },
+  {
+    "number": 161,
+    "title": "The Lord Be with Us",
+    "slug": "the-lord-be-with-us",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-lord-be-with-us?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-lord-be-with-us.json"
+  },
+  {
+    "number": 162,
+    "title": "Lord We Come before Thee Now",
+    "slug": "lord-we-come-before-thee-now",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lord-we-come-before-thee-now?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lord-we-come-before-thee-now.json"
+  },
+  {
+    "number": 163,
+    "title": "Lord Dismiss Us with Thy Blessing",
+    "slug": "lord-dismiss-us-with-thy-blessing",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lord-dismiss-us-with-thy-blessing?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lord-dismiss-us-with-thy-blessing.json"
+  },
+  {
+    "number": 164,
+    "title": "Great God to Thee My Evening Song",
+    "slug": "great-god-to-thee-my-evening-song",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/great-god-to-thee-my-evening-song?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/great-god-to-thee-my-evening-song.json"
+  },
+  {
+    "number": 165,
+    "title": "Abide with Me Tis Eventide",
+    "slug": "abide-with-me-tis-eventide",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/abide-with-me-tis-eventide?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/abide-with-me-tis-eventide.json"
+  },
+  {
+    "number": 166,
+    "title": "Abide with Me",
+    "slug": "abide-with-me",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/abide-with-me?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/abide-with-me.json"
+  },
+  {
+    "number": 167,
+    "title": "Come Let Us Sing an Evening Hymn",
+    "slug": "come-let-us-sing-an-evening-hymn",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-let-us-sing-an-evening-hymn?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-let-us-sing-an-evening-hymn.json"
+  },
+  {
+    "number": 168,
+    "title": "As the Shadows Fall",
+    "slug": "as-the-shadows-fall",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/as-the-shadows-fall?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/as-the-shadows-fall.json"
+  },
+  {
+    "number": 169,
+    "title": "As Now We Take the Sacrament",
+    "slug": "as-now-we-take-the-sacrament",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/as-now-we-take-the-sacrament?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/as-now-we-take-the-sacrament.json"
+  },
+  {
+    "number": 170,
+    "title": "God Our Father Hear Us Pray",
+    "slug": "god-our-father-hear-us-pray",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-our-father-hear-us-pray?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-our-father-hear-us-pray.json"
+  },
+  {
+    "number": 171,
+    "title": "With Humble Heart",
+    "slug": "with-humble-heart",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/with-humble-heart?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/with-humble-heart.json"
+  },
+  {
+    "number": 172,
+    "title": "In Humility Our Savior",
+    "slug": "in-humility-our-savior",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/in-humility-our-savior?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/in-humility-our-savior.json"
+  },
+  {
+    "number": 173,
+    "title": "While of These Emblems We Partake",
+    "slug": "while-of-these-emblems-we-partake-saul",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/while-of-these-emblems-we-partake-saul?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/while-of-these-emblems-we-partake-saul.json"
+  },
+  {
+    "number": 174,
+    "title": "While of These Emblems We Partake",
+    "slug": "while-of-these-emblems-we-partake-aeolian",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/while-of-these-emblems-we-partake-aeolian?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/while-of-these-emblems-we-partake-aeolian.json"
+  },
+  {
+    "number": 175,
+    "title": "O God the Eternal Father",
+    "slug": "o-god-the-eternal-father",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-god-the-eternal-father?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-god-the-eternal-father.json"
+  },
+  {
+    "number": 176,
+    "title": "Tis Sweet to Sing the Matchless Love",
+    "slug": "tis-sweet-to-sing-the-matchless-love-meredith",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/tis-sweet-to-sing-the-matchless-love-meredith?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/tis-sweet-to-sing-the-matchless-love-meredith.json"
+  },
+  {
+    "number": 177,
+    "title": "Tis Sweet to Sing the Matchless Love",
+    "slug": "tis-sweet-to-sing-the-matchless-love-hancock",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/tis-sweet-to-sing-the-matchless-love-hancock?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/tis-sweet-to-sing-the-matchless-love-hancock.json"
+  },
+  {
+    "number": 178,
+    "title": "O Lord of Hosts",
+    "slug": "o-lord-of-hosts",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-lord-of-hosts?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-lord-of-hosts.json"
+  },
+  {
+    "number": 179,
+    "title": "Again Our Dear Redeeming Lord",
+    "slug": "again-our-dear-redeeming-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/again-our-dear-redeeming-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/again-our-dear-redeeming-lord.json"
+  },
+  {
+    "number": 180,
+    "title": "Father in Heaven We Do Believe",
+    "slug": "father-in-heaven-we-do-believe",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/father-in-heaven-we-do-believe?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/father-in-heaven-we-do-believe.json"
+  },
+  {
+    "number": 181,
+    "title": "Jesus of Nazareth Savior and King",
+    "slug": "jesus-of-nazareth-savior-and-king",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-of-nazareth-savior-and-king?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-of-nazareth-savior-and-king.json"
+  },
+  {
+    "number": 182,
+    "title": "Well Sing All Hail to Jesus Name",
+    "slug": "well-sing-all-hail-to-jesus-name",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/well-sing-all-hail-to-jesus-name?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/well-sing-all-hail-to-jesus-name.json"
+  },
+  {
+    "number": 183,
+    "title": "In Remembrance of Thy Suffering",
+    "slug": "in-remembrance-of-thy-suffering",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/in-remembrance-of-thy-suffering?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/in-remembrance-of-thy-suffering.json"
+  },
+  {
+    "number": 184,
+    "title": "Upon the Cross of Calvary",
+    "slug": "upon-the-cross-of-calvary",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/upon-the-cross-of-calvary?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/upon-the-cross-of-calvary.json"
+  },
+  {
+    "number": 185,
+    "title": "Reverently and Meekly Now",
+    "slug": "reverently-and-meekly-now",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/reverently-and-meekly-now?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/reverently-and-meekly-now.json"
+  },
+  {
+    "number": 186,
+    "title": "Again We Meet around the Board",
+    "slug": "again-we-meet-around-the-board",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/again-we-meet-around-the-board?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/again-we-meet-around-the-board.json"
+  },
+  {
+    "number": 187,
+    "title": "God Loved Us So He Sent His Son",
+    "slug": "god-loved-us-so-he-sent-his-son",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-loved-us-so-he-sent-his-son?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-loved-us-so-he-sent-his-son.json"
+  },
+  {
+    "number": 188,
+    "title": "Thy Will O Lord Be Done",
+    "slug": "thy-will-o-lord-be-done",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/thy-will-o-lord-be-done?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/thy-will-o-lord-be-done.json"
+  },
+  {
+    "number": 189,
+    "title": "O Thou Before the World Began",
+    "slug": "o-thou-before-the-world-began",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-thou-before-the-world-began?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-thou-before-the-world-began.json"
+  },
+  {
+    "number": 190,
+    "title": "In Memory of the Crucified",
+    "slug": "in-memory-of-the-crucified",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/in-memory-of-the-crucified?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/in-memory-of-the-crucified.json"
+  },
+  {
+    "number": 191,
+    "title": "Behold the Great Redeemer Die",
+    "slug": "behold-the-great-redeemer-die",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/behold-the-great-redeemer-die?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/behold-the-great-redeemer-die.json"
+  },
+  {
+    "number": 192,
+    "title": "He Died The Great Redeemer Died",
+    "slug": "he-died-the-great-redeemer-died",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/he-died-the-great-redeemer-died?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/he-died-the-great-redeemer-died.json"
+  },
+  {
+    "number": 193,
+    "title": "I Stand All Amazed",
+    "slug": "i-stand-all-amazed",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-stand-all-amazed?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-stand-all-amazed.json"
+  },
+  {
+    "number": 194,
+    "title": "There Is a Green Hill Far Away",
+    "slug": "there-is-a-green-hill-far-away",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/there-is-a-green-hill-far-away?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/there-is-a-green-hill-far-away.json"
+  },
+  {
+    "number": 195,
+    "title": "How Great the Wisdom and the Love",
+    "slug": "how-great-the-wisdom-and-the-love",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-great-the-wisdom-and-the-love?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-great-the-wisdom-and-the-love.json"
+  },
+  {
+    "number": 196,
+    "title": "Jesus Once of Humble Birth",
+    "slug": "jesus-once-of-humble-birth",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-once-of-humble-birth?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-once-of-humble-birth.json"
+  },
+  {
+    "number": 197,
+    "title": "O Savior Thou Who Wearest a Crown",
+    "slug": "o-savior-thou-who-wearest-a-crown",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-savior-thou-who-wearest-a-crown?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-savior-thou-who-wearest-a-crown.json"
+  },
+  {
+    "number": 198,
+    "title": "That Easter Morn",
+    "slug": "that-easter-morn",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/that-easter-morn?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/that-easter-morn.json"
+  },
+  {
+    "number": 199,
+    "title": "He Is Risen",
+    "slug": "he-is-risen",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/he-is-risen?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/he-is-risen.json"
+  },
+  {
+    "number": 200,
+    "title": "Christ the Lord Is Risen Today",
+    "slug": "christ-the-lord-is-risen-today",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/christ-the-lord-is-risen-today?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/christ-the-lord-is-risen-today.json"
+  },
+  {
+    "number": 201,
+    "title": "Joy to the World",
+    "slug": "joy-to-the-world",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/joy-to-the-world?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/joy-to-the-world.json"
+  },
+  {
+    "number": 202,
+    "title": "Oh Come All Ye Faithful",
+    "slug": "oh-come-all-ye-faithful",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-come-all-ye-faithful?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/oh-come-all-ye-faithful.json"
+  },
+  {
+    "number": 203,
+    "title": "Angels We Have Heard on High",
+    "slug": "angels-we-have-heard-on-high",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/angels-we-have-heard-on-high?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/angels-we-have-heard-on-high.json"
+  },
+  {
+    "number": 204,
+    "title": "Silent Night",
+    "slug": "silent-night",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/silent-night?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/silent-night.json"
+  },
+  {
+    "number": 205,
+    "title": "Once in Royal Davids City",
+    "slug": "once-in-royal-davids-city",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/once-in-royal-davids-city?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/once-in-royal-davids-city.json"
+  },
+  {
+    "number": 206,
+    "title": "Away in a Manger",
+    "slug": "away-in-a-manger",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/away-in-a-manger?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/away-in-a-manger.json"
+  },
+  {
+    "number": 207,
+    "title": "It Came upon the Midnight Clear",
+    "slug": "it-came-upon-the-midnight-clear",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/it-came-upon-the-midnight-clear?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/it-came-upon-the-midnight-clear.json"
+  },
+  {
+    "number": 208,
+    "title": "O Little Town of Bethlehem",
+    "slug": "o-little-town-of-bethlehem",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-little-town-of-bethlehem?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-little-town-of-bethlehem.json"
+  },
+  {
+    "number": 209,
+    "title": "Hark The Herald Angels Sing",
+    "slug": "hark-the-herald-angels-sing",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/hark-the-herald-angels-sing?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/hark-the-herald-angels-sing.json"
+  },
+  {
+    "number": 210,
+    "title": "With Wondering Awe",
+    "slug": "with-wondering-awe",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/with-wondering-awe?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/with-wondering-awe.json"
+  },
+  {
+    "number": 211,
+    "title": "While Shepherds Watched Their Flocks",
+    "slug": "while-shepherds-watched-their-flocks",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/while-shepherds-watched-their-flocks?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/while-shepherds-watched-their-flocks.json"
+  },
+  {
+    "number": 212,
+    "title": "Far Far Away on Judeas Plains",
+    "slug": "far-far-away-on-judeas-plains",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/far-far-away-on-judeas-plains?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/far-far-away-on-judeas-plains.json"
+  },
+  {
+    "number": 213,
+    "title": "The First Noel",
+    "slug": "the-first-noel",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-first-noel?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-first-noel.json"
+  },
+  {
+    "number": 214,
+    "title": "I Heard the Bells on Christmas Day",
+    "slug": "i-heard-the-bells-on-christmas-day",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-heard-the-bells-on-christmas-day?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-heard-the-bells-on-christmas-day.json"
+  },
+  {
+    "number": 215,
+    "title": "Ring Out Wild Bells",
+    "slug": "ring-out-wild-bells",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ring-out-wild-bells?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/ring-out-wild-bells.json"
+  },
+  {
+    "number": 216,
+    "title": "We Are Sowing",
+    "slug": "we-are-sowing",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-are-sowing?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-are-sowing.json"
+  },
+  {
+    "number": 217,
+    "title": "Come Let Us Anew",
+    "slug": "come-let-us-anew",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-let-us-anew?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-let-us-anew.json"
+  },
+  {
+    "number": 218,
+    "title": "We Give Thee But Thine Own",
+    "slug": "we-give-thee-but-thine-own",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-give-thee-but-thine-own?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-give-thee-but-thine-own.json"
+  },
+  {
+    "number": 219,
+    "title": "Because I Have Been Given Much",
+    "slug": "because-i-have-been-given-much",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/because-i-have-been-given-much?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/because-i-have-been-given-much.json"
+  },
+  {
+    "number": 220,
+    "title": "Lord I Would Follow Thee",
+    "slug": "lord-i-would-follow-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lord-i-would-follow-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lord-i-would-follow-thee.json"
+  },
+  {
+    "number": 221,
+    "title": "Dear to the Heart of the Shepherd",
+    "slug": "dear-to-the-heart-of-the-shepherd",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/dear-to-the-heart-of-the-shepherd?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/dear-to-the-heart-of-the-shepherd.json"
+  },
+  {
+    "number": 222,
+    "title": "Hear Thou Our Hymn O Lord",
+    "slug": "hear-thou-our-hymn-o-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/hear-thou-our-hymn-o-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/hear-thou-our-hymn-o-lord.json"
+  },
+  {
+    "number": 223,
+    "title": "Have I Done Any Good",
+    "slug": "have-i-done-any-good",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/have-i-done-any-good?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/have-i-done-any-good.json"
+  },
+  {
+    "number": 224,
+    "title": "I Have Work Enough to Do",
+    "slug": "i-have-work-enough-to-do",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-have-work-enough-to-do?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-have-work-enough-to-do.json"
+  },
+  {
+    "number": 225,
+    "title": "We Are Marching On to Glory",
+    "slug": "we-are-marching-on-to-glory",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-are-marching-on-to-glory?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-are-marching-on-to-glory.json"
+  },
+  {
+    "number": 226,
+    "title": "Improve the Shining Moments",
+    "slug": "improve-the-shining-moments",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/improve-the-shining-moments?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/improve-the-shining-moments.json"
+  },
+  {
+    "number": 227,
+    "title": "There Is Sunshine in My Soul Today",
+    "slug": "there-is-sunshine-in-my-soul-today",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/there-is-sunshine-in-my-soul-today?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/there-is-sunshine-in-my-soul-today.json"
+  },
+  {
+    "number": 228,
+    "title": "You Can Make the Pathway Bright",
+    "slug": "you-can-make-the-pathway-bright",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/you-can-make-the-pathway-bright?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/you-can-make-the-pathway-bright.json"
+  },
+  {
+    "number": 229,
+    "title": "Today While the Sun Shines",
+    "slug": "today-while-the-sun-shines",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/today-while-the-sun-shines?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/today-while-the-sun-shines.json"
+  },
+  {
+    "number": 230,
+    "title": "Scatter Sunshine",
+    "slug": "scatter-sunshine",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/scatter-sunshine?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/scatter-sunshine.json"
+  },
+  {
+    "number": 231,
+    "title": "Father Cheer Our Souls Tonight",
+    "slug": "father-cheer-our-souls-tonight",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/father-cheer-our-souls-tonight?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/father-cheer-our-souls-tonight.json"
+  },
+  {
+    "number": 232,
+    "title": "Let Us Oft Speak Kind Words",
+    "slug": "let-us-oft-speak-kind-words",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/let-us-oft-speak-kind-words?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/let-us-oft-speak-kind-words.json"
+  },
+  {
+    "number": 233,
+    "title": "Nay Speak No Ill",
+    "slug": "nay-speak-no-ill",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/nay-speak-no-ill?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/nay-speak-no-ill.json"
+  },
+  {
+    "number": 234,
+    "title": "Jesus Mighty King in Zion",
+    "slug": "jesus-mighty-king-in-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-mighty-king-in-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-mighty-king-in-zion.json"
+  },
+  {
+    "number": 235,
+    "title": "Should You Feel Inclined to Censure",
+    "slug": "should-you-feel-inclined-to-censure",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/should-you-feel-inclined-to-censure?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/should-you-feel-inclined-to-censure.json"
+  },
+  {
+    "number": 236,
+    "title": "Lord Accept into Thy Kingdom",
+    "slug": "lord-accept-into-thy-kingdom",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lord-accept-into-thy-kingdom?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/lord-accept-into-thy-kingdom.json"
+  },
+  {
+    "number": 237,
+    "title": "Do What Is Right",
+    "slug": "do-what-is-right",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/do-what-is-right?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/do-what-is-right.json"
+  },
+  {
+    "number": 238,
+    "title": "Behold Thy Sons and Daughters Lord",
+    "slug": "behold-thy-sons-and-daughters-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/behold-thy-sons-and-daughters-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/behold-thy-sons-and-daughters-lord.json"
+  },
+  {
+    "number": 239,
+    "title": "Choose the Right",
+    "slug": "choose-the-right",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/choose-the-right?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/choose-the-right.json"
+  },
+  {
+    "number": 240,
+    "title": "Know This That Every Soul Is Free",
+    "slug": "know-this-that-every-soul-is-free",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/know-this-that-every-soul-is-free?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/know-this-that-every-soul-is-free.json"
+  },
+  {
+    "number": 241,
+    "title": "Count Your Blessings",
+    "slug": "count-your-blessings",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/count-your-blessings?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/count-your-blessings.json"
+  },
+  {
+    "number": 242,
+    "title": "Praise God from Whom All Blessings Flow",
+    "slug": "praise-god-from-whom-all-blessings-flow",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/praise-god-from-whom-all-blessings-flow?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/praise-god-from-whom-all-blessings-flow.json"
+  },
+  {
+    "number": 243,
+    "title": "Let Us All Press On",
+    "slug": "let-us-all-press-on",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/let-us-all-press-on?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/let-us-all-press-on.json"
+  },
+  {
+    "number": 244,
+    "title": "Come Along Come Along",
+    "slug": "come-along-come-along",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-along-come-along?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-along-come-along.json"
+  },
+  {
+    "number": 245,
+    "title": "This House We Dedicate to Thee",
+    "slug": "this-house-we-dedicate-to-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/this-house-we-dedicate-to-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/this-house-we-dedicate-to-thee.json"
+  },
+  {
+    "number": 246,
+    "title": "Onward Christian Soldiers",
+    "slug": "onward-christian-soldiers",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/onward-christian-soldiers?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/onward-christian-soldiers.json"
+  },
+  {
+    "number": 247,
+    "title": "We Love Thy House O God",
+    "slug": "we-love-thy-house-o-god",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-love-thy-house-o-god?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-love-thy-house-o-god.json"
+  },
+  {
+    "number": 248,
+    "title": "Up Awake Ye Defenders of Zion",
+    "slug": "up-awake-ye-defenders-of-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/up-awake-ye-defenders-of-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/up-awake-ye-defenders-of-zion.json"
+  },
+  {
+    "number": 249,
+    "title": "Called to Serve",
+    "slug": "called-to-serve",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/called-to-serve?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/called-to-serve.json"
+  },
+  {
+    "number": 250,
+    "title": "We Are All Enlisted",
+    "slug": "we-are-all-enlisted",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-are-all-enlisted?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-are-all-enlisted.json"
+  },
+  {
+    "number": 251,
+    "title": "Behold A Royal Army",
+    "slug": "behold-a-royal-army",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/behold-a-royal-army?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/behold-a-royal-army.json"
+  },
+  {
+    "number": 252,
+    "title": "Put Your Shoulder to the Wheel",
+    "slug": "put-your-shoulder-to-the-wheel",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/put-your-shoulder-to-the-wheel?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/put-your-shoulder-to-the-wheel.json"
+  },
+  {
+    "number": 253,
+    "title": "Like Ten Thousand Legions Marching",
+    "slug": "like-ten-thousand-legions-marching",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/like-ten-thousand-legions-marching?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/like-ten-thousand-legions-marching.json"
+  },
+  {
+    "number": 254,
+    "title": "True to the Faith",
+    "slug": "true-to-the-faith",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/true-to-the-faith?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/true-to-the-faith.json"
+  },
+  {
+    "number": 255,
+    "title": "Carry On",
+    "slug": "carry-on",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/carry-on?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/carry-on.json"
+  },
+  {
+    "number": 256,
+    "title": "As Zions Youth in Latter Days",
+    "slug": "as-zions-youth-in-latter-days",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/as-zions-youth-in-latter-days?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/as-zions-youth-in-latter-days.json"
+  },
+  {
+    "number": 257,
+    "title": "Rejoice A Glorious Sound Is Heard",
+    "slug": "rejoice-a-glorious-sound-is-heard",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rejoice-a-glorious-sound-is-heard?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rejoice-a-glorious-sound-is-heard.json"
+  },
+  {
+    "number": 258,
+    "title": "O Thou Rock of Our Salvation",
+    "slug": "o-thou-rock-of-our-salvation",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-thou-rock-of-our-salvation?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-thou-rock-of-our-salvation.json"
+  },
+  {
+    "number": 259,
+    "title": "Hope of Israel",
+    "slug": "hope-of-israel",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/hope-of-israel?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/hope-of-israel.json"
+  },
+  {
+    "number": 260,
+    "title": "Whos on the Lords Side",
+    "slug": "whos-on-the-lords-side",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/whos-on-the-lords-side?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/whos-on-the-lords-side.json"
+  },
+  {
+    "number": 261,
+    "title": "Thy Servants Are Prepared",
+    "slug": "thy-servants-are-prepared",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/thy-servants-are-prepared?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/thy-servants-are-prepared.json"
+  },
+  {
+    "number": 262,
+    "title": "Go Ye Messengers of Glory",
+    "slug": "go-ye-messengers-of-glory",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/go-ye-messengers-of-glory?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/go-ye-messengers-of-glory.json"
+  },
+  {
+    "number": 263,
+    "title": "Go Forth with Faith",
+    "slug": "go-forth-with-faith",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/go-forth-with-faith?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/go-forth-with-faith.json"
+  },
+  {
+    "number": 264,
+    "title": "Hark All Ye Nations",
+    "slug": "hark-all-ye-nations",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/hark-all-ye-nations?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/hark-all-ye-nations.json"
+  },
+  {
+    "number": 265,
+    "title": "Arise O God and Shine",
+    "slug": "arise-o-god-and-shine",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/arise-o-god-and-shine?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/arise-o-god-and-shine.json"
+  },
+  {
+    "number": 266,
+    "title": "The Time Is Far Spent",
+    "slug": "the-time-is-far-spent",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-time-is-far-spent?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-time-is-far-spent.json"
+  },
+  {
+    "number": 267,
+    "title": "How Wondrous and Great",
+    "slug": "how-wondrous-and-great",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-wondrous-and-great?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-wondrous-and-great.json"
+  },
+  {
+    "number": 268,
+    "title": "Come All Whose Souls Are Lighted",
+    "slug": "come-all-whose-souls-are-lighted",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-all-whose-souls-are-lighted?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-all-whose-souls-are-lighted.json"
+  },
+  {
+    "number": 269,
+    "title": "Jehovah Lord of Heaven and Earth",
+    "slug": "jehovah-lord-of-heaven-and-earth",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jehovah-lord-of-heaven-and-earth?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jehovah-lord-of-heaven-and-earth.json"
+  },
+  {
+    "number": 270,
+    "title": "Ill Go Where You Want Me to Go",
+    "slug": "ill-go-where-you-want-me-to-go",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ill-go-where-you-want-me-to-go?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/ill-go-where-you-want-me-to-go.json"
+  },
+  {
+    "number": 271,
+    "title": "Oh Holy Words of Truth and Love",
+    "slug": "oh-holy-words-of-truth-and-love",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-holy-words-of-truth-and-love?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/oh-holy-words-of-truth-and-love.json"
+  },
+  {
+    "number": 272,
+    "title": "Oh Say What Is Truth",
+    "slug": "oh-say-what-is-truth",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-say-what-is-truth?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/oh-say-what-is-truth.json"
+  },
+  {
+    "number": 273,
+    "title": "Truth Reflects upon Our Senses",
+    "slug": "truth-reflects-upon-our-senses",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/truth-reflects-upon-our-senses?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/truth-reflects-upon-our-senses.json"
+  },
+  {
+    "number": 274,
+    "title": "The Iron Rod",
+    "slug": "the-iron-rod",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-iron-rod?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-iron-rod.json"
+  },
+  {
+    "number": 275,
+    "title": "Men Are That They Might Have Joy",
+    "slug": "men-are-that-they-might-have-joy",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/men-are-that-they-might-have-joy?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/men-are-that-they-might-have-joy.json"
+  },
+  {
+    "number": 276,
+    "title": "Come Away to the Sunday School",
+    "slug": "come-away-to-the-sunday-school",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-away-to-the-sunday-school?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-away-to-the-sunday-school.json"
+  },
+  {
+    "number": 277,
+    "title": "As I Search the Holy Scriptures",
+    "slug": "as-i-search-the-holy-scriptures",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/as-i-search-the-holy-scriptures?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/as-i-search-the-holy-scriptures.json"
+  },
+  {
+    "number": 278,
+    "title": "Thanks for the Sabbath School",
+    "slug": "thanks-for-the-sabbath-school",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/thanks-for-the-sabbath-school?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/thanks-for-the-sabbath-school.json"
+  },
+  {
+    "number": 279,
+    "title": "Thy Holy Word",
+    "slug": "thy-holy-word",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/thy-holy-word?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/thy-holy-word.json"
+  },
+  {
+    "number": 280,
+    "title": "Welcome Welcome Sabbath Morning",
+    "slug": "welcome-welcome-sabbath-morning",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/welcome-welcome-sabbath-morning?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/welcome-welcome-sabbath-morning.json"
+  },
+  {
+    "number": 281,
+    "title": "Help Me Teach with Inspiration",
+    "slug": "help-me-teach-with-inspiration",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/help-me-teach-with-inspiration?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/help-me-teach-with-inspiration.json"
+  },
+  {
+    "number": 282,
+    "title": "We Meet Again in Sabbath School",
+    "slug": "we-meet-again-in-sabbath-school",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-meet-again-in-sabbath-school?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-meet-again-in-sabbath-school.json"
+  },
+  {
+    "number": 283,
+    "title": "The Glorious Gospel Light Has Shone",
+    "slug": "the-glorious-gospel-light-has-shone",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-glorious-gospel-light-has-shone?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-glorious-gospel-light-has-shone.json"
+  },
+  {
+    "number": 284,
+    "title": "If You Could Hie to Kolob",
+    "slug": "if-you-could-hie-to-kolob",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/if-you-could-hie-to-kolob?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/if-you-could-hie-to-kolob.json"
+  },
+  {
+    "number": 285,
+    "title": "God Moves in a Mysterious Way",
+    "slug": "god-moves-in-a-mysterious-way",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-moves-in-a-mysterious-way?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-moves-in-a-mysterious-way.json"
+  },
+  {
+    "number": 286,
+    "title": "Oh What Songs of the Heart",
+    "slug": "oh-what-songs-of-the-heart",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-what-songs-of-the-heart?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/oh-what-songs-of-the-heart.json"
+  },
+  {
+    "number": 287,
+    "title": "Rise Ye Saints and Temples Enter",
+    "slug": "rise-ye-saints-and-temples-enter",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rise-ye-saints-and-temples-enter?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rise-ye-saints-and-temples-enter.json"
+  },
+  {
+    "number": 288,
+    "title": "How Beautiful Thy Temples Lord",
+    "slug": "how-beautiful-thy-temples-lord",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-beautiful-thy-temples-lord?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-beautiful-thy-temples-lord.json"
+  },
+  {
+    "number": 289,
+    "title": "Holy Temples on Mount Zion",
+    "slug": "holy-temples-on-mount-zion",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/holy-temples-on-mount-zion?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/holy-temples-on-mount-zion.json"
+  },
+  {
+    "number": 290,
+    "title": "Rejoice Ye Saints of Latter Days",
+    "slug": "rejoice-ye-saints-of-latter-days",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rejoice-ye-saints-of-latter-days?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rejoice-ye-saints-of-latter-days.json"
+  },
+  {
+    "number": 291,
+    "title": "Turn Your Hearts",
+    "slug": "turn-your-hearts",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/turn-your-hearts?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/turn-your-hearts.json"
+  },
+  {
+    "number": 292,
+    "title": "O My Father",
+    "slug": "o-my-father",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-my-father?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-my-father.json"
+  },
+  {
+    "number": 293,
+    "title": "Each Life That Touches Ours for Good",
+    "slug": "each-life-that-touches-ours-for-good",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/each-life-that-touches-ours-for-good?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/each-life-that-touches-ours-for-good.json"
+  },
+  {
+    "number": 294,
+    "title": "Love at Home",
+    "slug": "love-at-home",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/love-at-home?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/love-at-home.json"
+  },
+  {
+    "number": 295,
+    "title": "O Love That Glorifies the Son",
+    "slug": "o-love-that-glorifies-the-son",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-love-that-glorifies-the-son?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-love-that-glorifies-the-son.json"
+  },
+  {
+    "number": 296,
+    "title": "Our Father by Whose Name",
+    "slug": "our-father-by-whose-name",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/our-father-by-whose-name?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/our-father-by-whose-name.json"
+  },
+  {
+    "number": 297,
+    "title": "From Homes of Saints Glad Songs Arise",
+    "slug": "from-homes-of-saints-glad-songs-arise",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/from-homes-of-saints-glad-songs-arise?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/from-homes-of-saints-glad-songs-arise.json"
+  },
+  {
+    "number": 298,
+    "title": "Home Can Be a Heaven on Earth",
+    "slug": "home-can-be-a-heaven-on-earth",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/home-can-be-a-heaven-on-earth?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/home-can-be-a-heaven-on-earth.json"
+  },
+  {
+    "number": 299,
+    "title": "Children of Our Heavenly Father",
+    "slug": "children-of-our-heavenly-father",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/children-of-our-heavenly-father?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/children-of-our-heavenly-father.json"
+  },
+  {
+    "number": 300,
+    "title": "Families Can Be Together Forever",
+    "slug": "families-can-be-together-forever",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/families-can-be-together-forever?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/families-can-be-together-forever.json"
+  },
+  {
+    "number": 301,
+    "title": "I Am a Child of God",
+    "slug": "i-am-a-child-of-god",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-am-a-child-of-god?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-am-a-child-of-god.json"
+  },
+  {
+    "number": 302,
+    "title": "I Know My Father Lives",
+    "slug": "i-know-my-father-lives",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-know-my-father-lives?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-know-my-father-lives.json"
+  },
+  {
+    "number": 303,
+    "title": "Keep the Commandments",
+    "slug": "keep-the-commandments",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/keep-the-commandments?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/keep-the-commandments.json"
+  },
+  {
+    "number": 304,
+    "title": "Teach Me to Walk in the Light",
+    "slug": "teach-me-to-walk-in-the-light",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/teach-me-to-walk-in-the-light?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/teach-me-to-walk-in-the-light.json"
+  },
+  {
+    "number": 305,
+    "title": "The Light Divine",
+    "slug": "the-light-divine",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-light-divine?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-light-divine.json"
+  },
+  {
+    "number": 306,
+    "title": "Gods Daily Care",
+    "slug": "gods-daily-care",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/gods-daily-care?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/gods-daily-care.json"
+  },
+  {
+    "number": 307,
+    "title": "In Our Lovely Deseret",
+    "slug": "in-our-lovely-deseret",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/in-our-lovely-deseret?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/in-our-lovely-deseret.json"
+  },
+  {
+    "number": 308,
+    "title": "Love One Another",
+    "slug": "love-one-another",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/love-one-another?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/love-one-another.json"
+  },
+  {
+    "number": 309,
+    "title": "As Sisters in Zion Women",
+    "slug": "as-sisters-in-zion-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/as-sisters-in-zion-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/as-sisters-in-zion-women.json"
+  },
+  {
+    "number": 310,
+    "title": "A Key Was Turned in Latter Days Women",
+    "slug": "a-key-was-turned-in-latter-days-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/a-key-was-turned-in-latter-days-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/a-key-was-turned-in-latter-days-women.json"
+  },
+  {
+    "number": 311,
+    "title": "We Meet Again as Sisters Women",
+    "slug": "we-meet-again-as-sisters-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-meet-again-as-sisters-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-meet-again-as-sisters-women.json"
+  },
+  {
+    "number": 312,
+    "title": "We Ever Pray for Thee Women",
+    "slug": "we-ever-pray-for-thee-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-ever-pray-for-thee-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/we-ever-pray-for-thee-women.json"
+  },
+  {
+    "number": 313,
+    "title": "God Is Love Women",
+    "slug": "god-is-love-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-is-love-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-is-love-women.json"
+  },
+  {
+    "number": 314,
+    "title": "How Gentle Gods Commands Women",
+    "slug": "how-gentle-gods-commands-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-gentle-gods-commands-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-gentle-gods-commands-women.json"
+  },
+  {
+    "number": 315,
+    "title": "Jesus the Very Thought of Thee Women",
+    "slug": "jesus-the-very-thought-of-thee-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-the-very-thought-of-thee-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/jesus-the-very-thought-of-thee-women.json"
+  },
+  {
+    "number": 316,
+    "title": "The Lord Is My Shepherd Women",
+    "slug": "the-lord-is-my-shepherd-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-lord-is-my-shepherd-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-lord-is-my-shepherd-women.json"
+  },
+  {
+    "number": 317,
+    "title": "Sweet Is the Work Women",
+    "slug": "sweet-is-the-work-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sweet-is-the-work-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sweet-is-the-work-women.json"
+  },
+  {
+    "number": 318,
+    "title": "Love at Home Women",
+    "slug": "love-at-home-women",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/love-at-home-women?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/love-at-home-women.json"
+  },
+  {
+    "number": 319,
+    "title": "Ye Elders of Israel Men",
+    "slug": "ye-elders-of-israel-men",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ye-elders-of-israel-men?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/ye-elders-of-israel-men.json"
+  },
+  {
+    "number": 320,
+    "title": "The Priesthood of Our Lord Men",
+    "slug": "the-priesthood-of-our-lord-men",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-priesthood-of-our-lord-men?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-priesthood-of-our-lord-men.json"
+  },
+  {
+    "number": 321,
+    "title": "Ye Who Are Called to Labor Men",
+    "slug": "ye-who-are-called-to-labor-men",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ye-who-are-called-to-labor-men?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/ye-who-are-called-to-labor-men.json"
+  },
+  {
+    "number": 322,
+    "title": "Come All Ye Sons of God Men",
+    "slug": "come-all-ye-sons-of-god-men",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-all-ye-sons-of-god-men?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-all-ye-sons-of-god-men.json"
+  },
+  {
+    "number": 323,
+    "title": "Rise Up O Men of God Mens Choir",
+    "slug": "rise-up-o-men-of-god-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rise-up-o-men-of-god-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rise-up-o-men-of-god-mens-choir.json"
+  },
+  {
+    "number": 324,
+    "title": "Rise Up O Men of God Men",
+    "slug": "rise-up-o-men-of-god-men",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/rise-up-o-men-of-god-men?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/rise-up-o-men-of-god-men.json"
+  },
+  {
+    "number": 325,
+    "title": "See the Mighty Priesthood Gathered Mens Choir",
+    "slug": "see-the-mighty-priesthood-gathered-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/see-the-mighty-priesthood-gathered-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/see-the-mighty-priesthood-gathered-mens-choir.json"
+  },
+  {
+    "number": 326,
+    "title": "Come Come Ye Saints Mens Choir",
+    "slug": "come-come-ye-saints-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-come-ye-saints-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-come-ye-saints-mens-choir.json"
+  },
+  {
+    "number": 327,
+    "title": "Go Ye Messengers of Heaven Mens Choir",
+    "slug": "go-ye-messengers-of-heaven-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/go-ye-messengers-of-heaven-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/go-ye-messengers-of-heaven-mens-choir.json"
+  },
+  {
+    "number": 328,
+    "title": "An Angel from on High Mens Choir",
+    "slug": "an-angel-from-on-high-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/an-angel-from-on-high-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/an-angel-from-on-high-mens-choir.json"
+  },
+  {
+    "number": 329,
+    "title": "Thy Servants Are Prepared Mens Choir",
+    "slug": "thy-servants-are-prepared-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/thy-servants-are-prepared-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/thy-servants-are-prepared-mens-choir.json"
+  },
+  {
+    "number": 330,
+    "title": "See the Mighty Angel Flying Mens Choir",
+    "slug": "see-the-mighty-angel-flying-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/see-the-mighty-angel-flying-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/see-the-mighty-angel-flying-mens-choir.json"
+  },
+  {
+    "number": 331,
+    "title": "Oh Say What Is Truth Mens Choir",
+    "slug": "oh-say-what-is-truth-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/oh-say-what-is-truth-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/oh-say-what-is-truth-mens-choir.json"
+  },
+  {
+    "number": 332,
+    "title": "Come O Thou King of Kings Mens Choir",
+    "slug": "come-o-thou-king-of-kings-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-o-thou-king-of-kings-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/come-o-thou-king-of-kings-mens-choir.json"
+  },
+  {
+    "number": 333,
+    "title": "High on the Mountain Top Mens Choir",
+    "slug": "high-on-the-mountain-top-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/high-on-the-mountain-top-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/high-on-the-mountain-top-mens-choir.json"
+  },
+  {
+    "number": 334,
+    "title": "I Need Thee Every Hour Mens Choir",
+    "slug": "i-need-thee-every-hour-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/i-need-thee-every-hour-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/i-need-thee-every-hour-mens-choir.json"
+  },
+  {
+    "number": 335,
+    "title": "Brightly Beams Our Fathers Mercy Mens Choir",
+    "slug": "brightly-beams-our-fathers-mercy-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/brightly-beams-our-fathers-mercy-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/brightly-beams-our-fathers-mercy-mens-choir.json"
+  },
+  {
+    "number": 336,
+    "title": "School Thy Feelings Mens Choir",
+    "slug": "school-thy-feelings-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/school-thy-feelings-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/school-thy-feelings-mens-choir.json"
+  },
+  {
+    "number": 337,
+    "title": "O Home Beloved Mens Choir",
+    "slug": "o-home-beloved-mens-choir",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-home-beloved-mens-choir?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-home-beloved-mens-choir.json"
+  },
+  {
+    "number": 338,
+    "title": "America the Beautiful",
+    "slug": "america-the-beautiful",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/america-the-beautiful?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/america-the-beautiful.json"
+  },
+  {
+    "number": 339,
+    "title": "My Country Tis of Thee",
+    "slug": "my-country-tis-of-thee",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/my-country-tis-of-thee?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/my-country-tis-of-thee.json"
+  },
+  {
+    "number": 340,
+    "title": "The Star-Spangled Banner",
+    "slug": "the-star-spangled-banner",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-star-spangled-banner?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/the-star-spangled-banner.json"
+  },
+  {
+    "number": 341,
+    "title": "God Save the King",
+    "slug": "god-save-the-king",
+    "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-save-the-king?lang=eng",
+    "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/god-save-the-king.json"
+  }
+]

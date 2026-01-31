@@ -1,0 +1,50 @@
+{
+  "number": 16,
+  "title": "\u00d3 Montanhas Mil",
+  "marking": "Majestoso",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "\u00d3 montanhas mil, onde o c\u00e9u de anil",
+        "Cobre os vales dos homens de bem;",
+        "Onde o vento traz esperan\u00e7a e paz.",
+        "Eu quisera em teu seio estar tamb\u00e9m.",
+        "\u00d3 Si\u00e3o! \u00d3 Si\u00e3o! Terra ideal!",
+        "Para ti voltarei e teu sempre serei.",
+        "\u00d3 meu lar, minha p\u00e1tria sem igual!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Se das gentes m\u00e1s s\u00f3 desd\u00e9m ter\u00e1s,",
+        "Dos humildes querida tu \u00e9s;",
+        "Muitos podem fugir e de ti dissentir,",
+        "Mas amor n\u00f3s depomos a teus p\u00e9s.",
+        "\u00d3 Si\u00e3o! \u00d3 Si\u00e3o! Terra sem par!",
+        "J\u00e1 que o homem cruel deu-te m\u00e1goas e fel,",
+        "De tua dor n\u00f3s queremos partilhar!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Eis-me aqui, afinal, doce terra natal,",
+        "Dos profetas e servos de Deus;",
+        "O tirano cair\u00e1 o opressor morrer\u00e1,",
+        "E o gentio ouvir\u00e1 comandos teus.",
+        "\u00d3 Si\u00e3o! \u00d3 Si\u00e3o! Longe dos vis.",
+        "Em ti quero viver, em ti quero morrer;",
+        "Tu, Si\u00e3o, s\u00f3 tu \u00e9s meu lar feliz!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Charles W. Penrose, 1832\u20131925",
+    "M\u00fasica: H. S. Thompson, aprox. 1852"
+  ],
+  "slug": "o-ye-mountains-high",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-ye-mountains-high?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/o-ye-mountains-high.json"
+}

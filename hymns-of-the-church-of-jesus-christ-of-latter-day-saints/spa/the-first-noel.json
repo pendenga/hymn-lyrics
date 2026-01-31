@@ -1,0 +1,35 @@
+{
+  "number": 132,
+  "title": "La primera Navidad",
+  "marking": "Con suavidad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "La primera Navidad un coro se oy\u00f3;",
+        "a humildes pastores el cielo cant\u00f3,",
+        "y un \u00e1ngel les habl\u00f3, rodeado de luz,",
+        "anunciando la Natividad de Jes\u00fas.",
+        "Noel, Noel, Noel, Noel.",
+        "Hoy ha nacido el Rey de Israel."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "La estrella de Bel\u00e9n a los magos gui\u00f3;",
+        "en la noche silente en Judea brill\u00f3.",
+        "El pesebre encontraron siguiendo la luz",
+        "y le dieron presentes al ni\u00f1o Jes\u00fas.",
+        "Noel, Noel, Noel, Noel.",
+        "Hoy ha nacido el Rey de Israel."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra y M\u00fasica: Villancico tradicional ingl\u00e9s de siglo XVII."
+  ],
+  "slug": "the-first-noel",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-first-noel?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/the-first-noel.json"
+}

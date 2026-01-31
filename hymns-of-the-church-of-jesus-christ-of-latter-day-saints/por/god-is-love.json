@@ -1,0 +1,47 @@
+{
+  "number": 36,
+  "title": "Deus \u00c9 Amor",
+  "marking": "Suave",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Deste mundo as flores mil",
+        "E a vastid\u00e3o do mar,",
+        "O infinito c\u00e9u de anil",
+        "E da chuva o gotejar\u2014",
+        "Tudo o que tem luz e cor",
+        "Faz lembrar que Deus \u00e9 amor"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Em vi\u00e7osos roseirais,",
+        "Nos canteiros do jardim,",
+        "Nos telhados e beirais,",
+        "Cantam hinos para mim",
+        "Lindas aves de primor,",
+        "Bendizendo ao Deus de amor."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "A esperan\u00e7a que sust\u00e9m",
+        "E aquece o cora\u00e7\u00e3o",
+        "\u00c9 mensagem do al\u00e9m,",
+        "Gloriosa sensa\u00e7\u00e3o,",
+        "Que nos faz cantar louvor,",
+        "Proclamando: \u201cOh! Deus \u00e9 amor!\u201d"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Thomas R. Taylor, 1807\u20131835, alt",
+    "M\u00fasica: Thomas C. Griggs, 1845\u20131930"
+  ],
+  "slug": "god-is-love",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-is-love?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/god-is-love.json"
+}

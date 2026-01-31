@@ -1,0 +1,47 @@
+{
+  "number": 126,
+  "title": "Noite Feliz",
+  "marking": "Calmo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Noite feliz! Noite feliz!",
+        "\u00d3 Senhor, Deus de amor",
+        "Pobrezinho nasceu em Bel\u00e9m;",
+        "Eis na lapa Jesus, nosso bem;",
+        "Dorme em paz, \u00d3 Jesus!",
+        "Dorme em paz, \u00d3 Jesus!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Noite feliz! Noite feliz!",
+        "\u00d3 Jesus, Deus da luz,",
+        "Qu\u00e3o af\u00e1vel \u00e9 teu cora\u00e7\u00e3o",
+        "Pois quiseste nascer nosso irm\u00e3o",
+        "E a n\u00f3s todos salvar!",
+        "E a n\u00f3s todos salvar!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Noite feliz! Noite feliz!",
+        "Eis no ar, v\u00eam cantar",
+        "Aos pastores os anjos do c\u00e9u,",
+        "Anunciando a vinda de Deus",
+        "De Jesus Salvador!",
+        "De Jesus Salvador!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Joseph Mohr, 1792\u20131848",
+    "M\u00fasica: Franz Gruber, 1787\u20131863"
+  ],
+  "slug": "silent-night",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/silent-night?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/silent-night.json"
+}

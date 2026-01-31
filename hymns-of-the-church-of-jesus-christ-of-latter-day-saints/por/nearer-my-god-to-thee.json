@@ -1,0 +1,81 @@
+{
+  "number": 62,
+  "title": "Mais Perto Quero Estar",
+  "marking": "Suave",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Mais perto quero estar,",
+        "Meu Deus, de ti,",
+        "Mesmo que seja a dor",
+        "Que me una a ti!",
+        "Sempre hei de suplicar:",
+        "\u201cMais perto quero estar;",
+        "Mais perto quero estar,",
+        "Meu Deus, de ti!\u201d"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Vivendo triste aqui,",
+        "Na solid\u00e3o,",
+        "Paz e descanso a mim",
+        "Os teus bra\u00e7os d\u00e3o.",
+        "Sempre hei de suplicar:",
+        "\u201cMais perto quero estar;",
+        "Mais perto quero estar,",
+        "Meu Deus, de ti!\u201d"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Sejam meus passos, pois,",
+        "Degraus do c\u00e9u",
+        "Todas as prova\u00e7\u00f5es",
+        "Proveito meu.",
+        "Sempre hei de suplicar:",
+        "\u201cMais perto quero estar;",
+        "Mais perto quero estar,",
+        "Meu Deus, de ti!\u201d"
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Ent\u00e3o ao despertar",
+        "Junto de ti",
+        "As minhas afli\u00e7\u00f5es",
+        "Deixarei ali.",
+        "Sempre hei de suplicar:",
+        "\u201cMais perto quero estar;",
+        "Mais perto quero estar,",
+        "Meu Deus, de ti!\u201d"
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Minh\u2019alma cantar\u00e1",
+        "A ti, Senhor,",
+        "Cheia de gratid\u00e3o",
+        "Pelo teu amor.",
+        "Sempre hei de suplicar:",
+        "\u201cMais perto quero estar;",
+        "Mais perto quero estar,",
+        "Meu Deus, de ti!\u201d"
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Sarah F. Adams, 1805\u20131848",
+    "M\u00fasica: Lowell Mason, 1792\u20131872"
+  ],
+  "slug": "nearer-my-god-to-thee",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/nearer-my-god-to-thee?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/nearer-my-god-to-thee.json"
+}

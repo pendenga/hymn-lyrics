@@ -1,0 +1,41 @@
+{
+  "number": 200,
+  "title": "Christ the Lord Is Risen Today",
+  "marking": "With exultation",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Christ the Lord is ris\u2019n today, Alleluia!",
+        "Sons of men and angels say, Alleluia!",
+        "Raise your joys and triumphs high, Alleluia!",
+        "Sing, ye heav\u2019ns, and earth reply, Alleluia!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Love\u2019s redeeming work is done, Alleluia!",
+        "Fought the fight, the vict\u2019ry won, Alleluia!",
+        "Jesus\u2019 agony is o\u2019er, Alleluia!",
+        "Darkness veils the earth no more, Alleluia!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Lives again our glorious King, Alleluia!",
+        "Where, O death, is now thy sting? Alleluia!",
+        "Once he died our souls to save, Alleluia!",
+        "Where thy victory, O grave? Alleluia!"
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Charles Wesley, 1707\u20131788",
+    "Music: Anon., Lyra Davidica, 1708"
+  ],
+  "slug": "christ-the-lord-is-risen-today",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/christ-the-lord-is-risen-today?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/christ-the-lord-is-risen-today.json"
+}

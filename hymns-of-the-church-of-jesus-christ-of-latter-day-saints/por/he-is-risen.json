@@ -1,0 +1,47 @@
+{
+  "number": 119,
+  "title": "Cristo \u00c9 J\u00e1 Ressuscitado",
+  "marking": "Com dignidade",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Cristo \u00e9 j\u00e1 ressuscitado",
+        "Proclamai com grande voz.",
+        "Do sepulcro \u00e9 libertado",
+        "Exultemos todos n\u00f3s!",
+        "Cristo a morte conquistou",
+        "Todo homem, pois, livrou!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Vinde e cantai, \u00f3 santos,",
+        "Hinos ao Senhor Jesus.",
+        "Repassado de encantos",
+        "Rompe o dia em sua luz.",
+        "A aurora ao raiar",
+        "Vem a P\u00e1scoa anunciar!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Ante a morte, qual cordeiro,",
+        "O Senhor se entregou",
+        "Cada filho \u00e9 seu herdeiro",
+        "Que com sangue resgatou.",
+        "Lembraremos seu amor",
+        "Nesta P\u00e1scoa do Senhor!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Cecil Frances Alexander, 1818\u20131895",
+    "M\u00fasica: Joachim Neander, 1650\u20131680"
+  ],
+  "slug": "he-is-risen",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/he-is-risen?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/he-is-risen.json"
+}

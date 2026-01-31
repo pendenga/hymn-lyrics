@@ -1,0 +1,50 @@
+{
+  "number": 97,
+  "title": "Comigo Habita",
+  "marking": "Reverente",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Comigo habita, \u00f3 Deus, a noite vem!",
+        "As trevas crescem, eis, Senhor, conv\u00e9m",
+        "Que me socorra tua prote\u00e7\u00e3o.",
+        "Oh! vem fazer comigo habita\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Breve encontrarei meu fim mortal.",
+        "\u00c9 passageira a vida terreal",
+        "Mudan\u00e7a vejo, em tudo altera\u00e7\u00e3o!",
+        "Vem, vem fazer comigo habita\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Vem revelar-te a mim, Jesus, Senhor.",
+        "Mestre divino, Rei, Consolador!",
+        "Meu guia forte amparo em tenta\u00e7\u00e3o,",
+        "Comigo faze eterna habita\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Andando em trevas ou em clara luz;",
+        "N\u00e3o h\u00e1 perigo, estando com Jesus!",
+        "Medo e pavor jamais dominar\u00e3o",
+        "Ao que com Deus fizer habita\u00e7\u00e3o."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Henry F. Lyte, 1793\u20131847",
+    "M\u00fasica: William H. Monk, 1823\u20131889"
+  ],
+  "slug": "abide-with-me",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/abide-with-me?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/abide-with-me.json"
+}

@@ -1,0 +1,51 @@
+{
+  "number": 321,
+  "title": "Ye Who Are Called to Labor Men",
+  "marking": "Boldly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Ye who are called to labor and minister for God,",
+        "Blest with the royal priesthood, appointed by his word",
+        "To preach among the nations the news of gospel grace,",
+        "And publish on the mountains salvation, truth, and peace:"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Oh, let not vain ambition nor worldly glory stain",
+        "Your minds so pure and holy; acquit yourselves like men.",
+        "While lifting up your voices like trumpets long and loud,",
+        "Say to the slumb\u2019ring nation: \u201cPrepare to meet your God!\u201d"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Then cease from all light speeches, light-mindedness, and pride;",
+        "Pray always without ceasing and in the truth abide.",
+        "The Comforter will teach you, his richest blessings send.",
+        "Your Savior will be with you forever to the end."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Rich blessings there await you, and God will give you faith.",
+        "You shall be crowned with glory and triumph over death,",
+        "And soon you\u2019ll come to Zion and, bearing each his sheaf,",
+        "No more shall taste of sorrow, but glorious crowns receive."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Text: Mary Judd Page, 1818\u20131907",
+    "Music: Daniel B. Towner, 1850\u20131919"
+  ],
+  "slug": "ye-who-are-called-to-labor-men",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/ye-who-are-called-to-labor-men?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/ye-who-are-called-to-labor-men.json"
+}

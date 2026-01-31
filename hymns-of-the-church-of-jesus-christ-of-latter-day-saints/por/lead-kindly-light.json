@@ -1,0 +1,47 @@
+{
+  "number": 60,
+  "title": "Brilha, Meiga Luz",
+  "marking": "Meditativo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Na escurid\u00e3o, oh, brilha, meiga luz!",
+        "Guiar-me vem!",
+        "Na negra noite brilha e me conduz",
+        "Guiar-me vem!",
+        "N\u00e3o pe\u00e7o luz a fim de longe ver",
+        "Somente luz em cada passo ter."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Em outro tempo n\u00e3o queria luz",
+        "Pra me guiar",
+        "N\u00e3o quis seguir o plano de Jesus",
+        "Pra me salvar.",
+        "Nas trevas n\u00e3o desejo mais andar",
+        "Oh, meu Senhor, oh, vem meus p\u00e9s guiar!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Guardou-me at\u00e9 aqui o teu poder",
+        "E guardar\u00e1",
+        "Teu bra\u00e7o vai-me sempre defender",
+        "E guiar\u00e1.",
+        "E quando, enfim, a vida terminar",
+        "Entes queridos hei de reencontrar."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: John Henry Newman, 1801\u20131890",
+    "M\u00fasica: John B. Dykes, 1823\u20131876"
+  ],
+  "slug": "lead-kindly-light",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/lead-kindly-light?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/lead-kindly-light.json"
+}

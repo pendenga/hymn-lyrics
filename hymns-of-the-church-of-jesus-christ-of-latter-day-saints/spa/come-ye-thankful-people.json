@@ -1,0 +1,32 @@
+{
+  "number": 46,
+  "title": "Elevemos nuestros himnos",
+  "marking": "Con energ\u00eda",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Elevemos al Creador nuestros himnos de loor,",
+        "pues los campos visit\u00f3 con Su rica bendici\u00f3n.",
+        "Ya la siega termin\u00f3; la cosecha se guard\u00f3.",
+        "El invierno llegar\u00e1, pero nada faltar\u00e1."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Este mundo es de Dios, el eterno Sembrador,",
+        "y en Su mies han de crecer hasta el fin el mal y el bien.",
+        "Todo grano brotar\u00e1, y la espiga crecer\u00e1.",
+        "Padre, Dios, queremos ser grano puro de tu mies."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Henry Alford, 1810\u20131871. Traducci\u00f3n, J. R. de Balloch; usado con permiso de Asociaci\u00f3n Ediciones La Aurora, Buenos Aires, Argentina.",
+    "M\u00fasica: George J. Elvey, 1816\u20131893."
+  ],
+  "slug": "come-ye-thankful-people",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/come-ye-thankful-people?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/come-ye-thankful-people.json"
+}

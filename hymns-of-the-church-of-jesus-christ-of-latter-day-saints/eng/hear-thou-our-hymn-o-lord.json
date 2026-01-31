@@ -1,0 +1,31 @@
+{
+  "number": 222,
+  "title": "Hear Thou Our Hymn O Lord",
+  "marking": "Fervently",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Hear thou our hymn, O Lord,",
+        "With thankful hearts we pray.",
+        "Help us thy will to follow now,",
+        "And walk the narrow way."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Keep thou our hearts aglow",
+        "With thy eternal word.",
+        "Give us thy Spirit ev\u2019ry hour,",
+        "We ask thee, gracious Lord."
+      ]
+    }
+  ],
+  "credits": [
+    "Text and music: Frank W. Asper, 1892\u20131973. \u00a9 1948 IRI"
+  ],
+  "slug": "hear-thou-our-hymn-o-lord",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/hear-thou-our-hymn-o-lord?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/hear-thou-our-hymn-o-lord.json"
+}

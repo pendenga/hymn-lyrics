@@ -1,0 +1,50 @@
+{
+  "number": 75,
+  "title": "Testimonio",
+  "marking": "Con reflexi\u00f3n",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Por el Esp\u00edritu de Dios",
+        "mi testimonio doy,",
+        "y me acerco m\u00e1s a \u00c9l,",
+        "pues hijo suyo soy."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Yo s\u00e9 que Jesucristo es",
+        "Autor de salvaci\u00f3n;",
+        "si sigo a Su profeta fiel,",
+        "tendr\u00e9 exaltaci\u00f3n."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "La voz del Santo Esp\u00edritu",
+        "me habla al coraz\u00f3n;",
+        "Su testimonio da solaz",
+        "en medio de aflicci\u00f3n."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Renueva el Esp\u00edritu",
+        "mi vida terrenal;",
+        "vislumbro ya el resplandor",
+        "del reino celestial."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Loren C. Dunn, n. 1930\u20132001. \u00a9 1985 IRI",
+    "M\u00fasica: Michael Finlinson Moody, n. 1941. \u00a9 1985 IRI"
+  ],
+  "slug": "testimony",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/testimony?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/testimony.json"
+}

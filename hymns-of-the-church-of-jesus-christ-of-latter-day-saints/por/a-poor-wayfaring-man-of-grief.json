@@ -1,0 +1,110 @@
+{
+  "number": 15,
+  "title": "Um Pobre e Aflito Viajor",
+  "marking": "Calmo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Um pobre e aflito viajor",
+        "Por meus caminhos ao cruzar",
+        "Aux\u00edlio suplicou-me e amor",
+        "E eu n\u00e3o pude lhe negar.",
+        "Seu nome nunca perguntei",
+        "Qual seu destino ou sua grei",
+        "Mas seu olhar, consola\u00e7\u00e3o",
+        "Me trouxe ao triste cora\u00e7\u00e3o."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "A minha mesa t\u00e3o frugal",
+        "Estava posta quando entrou.",
+        "T\u00e3o fraco estava que, a final,",
+        "Eu tudo dei-lhe, ele tomou",
+        "Mas deu-me parte a mim tamb\u00e9m",
+        "Qual p\u00e3o do c\u00e9u, manjar do al\u00e9m",
+        "Aliviou-me toda a dor",
+        "Qual do man\u00e1 foi seu sabor."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "De um regato o vi se aproximar",
+        "Cansado e s\u00f3 chegar ali",
+        "Mas j\u00e1 sem for\u00e7as trope\u00e7ar",
+        "Ao p\u00e9 da fonte o socorri",
+        "Em seu aux\u00edlio me apressei",
+        "Meu pr\u00f3prio copo lhe ofertei",
+        "Ap\u00f3s beber, tamb\u00e9m bebi",
+        "E sede nunca mais sofri."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Em noite horr\u00edvel, a chamar,",
+        "Mesclada ao som do furac\u00e3o,",
+        "Sua voz ouvindo o fui buscar",
+        "E dei-lhe abrigo e prote\u00e7\u00e3o.",
+        "Calor e roupas eu lhe dei",
+        "Meu pr\u00f3prio leito lhe ofertei",
+        "No ch\u00e3o deitei-me a repousar",
+        "E foi t\u00e3o doce o meu sonhar."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Na estrada, um dia, o encontrei,",
+        "Ferido e prestes a morrer;",
+        "Seu corpo e alma confortei,",
+        "Curei-lhe as dores e o sofrer.",
+        "Oculta dor que me afligia,",
+        "Naquele instante eu n\u00e3o sentia",
+        "E nunca mais essa afli\u00e7\u00e3o",
+        "Tornou ferir meu cora\u00e7\u00e3o."
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Na pris\u00e3o, um dia, o vi chorar",
+        "Sob o rigor da humana lei;",
+        "As torpes l\u00ednguas fiz calar",
+        "E sob esc\u00e1rnio honra lhe dei.",
+        "Por ele me pediu morrer",
+        "Senti a carne, vil, tremer",
+        "Mas forte o esp\u00edrito venceu",
+        "E respondi-lhe: \u201cAqui estou eu.\u201d"
+      ],
+      "optional": true
+    },
+    {
+      "number": 7,
+      "lines": [
+        "O estranho, ent\u00e3o, se transformou",
+        "Naquele instante e mesmo ali",
+        "As m\u00e3os e o lado me mostrou",
+        "Meu Salvador reconheci.",
+        "Meu pobre nome ouvi chamar:",
+        "\u201cTu que soubeste assim me amar,",
+        "Dando aos humildes teu amor,",
+        "Vem para o gozo do Senhor.\u201d"
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: James Montgomery, 1771\u20131854",
+    "M\u00fasica: George Coles, 1792\u20131858, alt.",
+    "Hino favorito do Profeta Joseph Smith. (History of the Church, 6:614\u2013615.)"
+  ],
+  "slug": "a-poor-wayfaring-man-of-grief",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/a-poor-wayfaring-man-of-grief?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/a-poor-wayfaring-man-of-grief.json"
+}

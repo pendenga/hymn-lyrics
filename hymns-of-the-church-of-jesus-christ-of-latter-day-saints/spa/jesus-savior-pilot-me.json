@@ -1,0 +1,38 @@
+{
+  "number": 51,
+  "title": "Gu\u00edame, oh Salvador",
+  "marking": "Con humildad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Gu\u00edame, oh Salvador, por las olas de temor.",
+        "Fuerte es la tempestad; densa la oscuridad.",
+        "Mi tim\u00f3n es tu amor. Gu\u00edame, oh Salvador"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "A las olas hablar\u00e1s, y su ira calmar\u00e1s.",
+        "La furiosa tempestad cumplir\u00e1 tu voluntad.",
+        "En los mares de furor, gu\u00edame, oh Salvador."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Los escollos de la mar me abaten al llegar;",
+        "amenazan con hundir al que quiere a ti venir.",
+        "Mas tu voz escuchar\u00e9: \u201cCalma; yo te guiar\u00e9.\u201d"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Edward Hopper, 1818\u20131888.",
+    "M\u00fasica: John Edgar Gould, 1822\u20131875."
+  ],
+  "slug": "jesus-savior-pilot-me",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/jesus-savior-pilot-me?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/jesus-savior-pilot-me.json"
+}

@@ -1,0 +1,61 @@
+{
+  "number": 178,
+  "title": "O Lord of Hosts",
+  "marking": "Prayerfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "O Lord of Hosts, we now invoke",
+        "Thy Spirit most divine",
+        "To cleanse our hearts while we partake",
+        "The broken bread and wine."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "May we forever think of thee",
+        "And of thy suff\u2019rings sore,",
+        "Endured for us on Calvary,",
+        "And praise thee evermore."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Prepare our minds that we may see",
+        "The beauties of thy grace,",
+        "Salvation purchased on that tree",
+        "For all who seek thy face."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "As brethren, let us ever live",
+        "In fellowship and peace!",
+        "Forgive, that God may us forgive,",
+        "That love may still increase."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "May union, peace, and love abound,",
+        "And perfect harmony,",
+        "And joy in one continual round",
+        "Through all eternity."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Text: Andrew Dalrymple, b. 1817",
+    "Music: George Careless, 1839\u20131932"
+  ],
+  "slug": "o-lord-of-hosts",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-lord-of-hosts?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-lord-of-hosts.json"
+}

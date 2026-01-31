@@ -1,0 +1,81 @@
+{
+  "number": 9,
+  "title": "Un \u00e1ngel del Se\u00f1or",
+  "marking": "Con reflexi\u00f3n \/ Con \u00e1nimo",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Un \u00e1ngel del Se\u00f1or",
+        "del cielo descendi\u00f3,",
+        "y con potente voz",
+        "a un joven revel\u00f3",
+        "que en Cumora estaba",
+        "el registro santo, libro fiel,",
+        "que en Cumora estaba",
+        "el registro santo, libro fiel."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Moroni lo sell\u00f3;",
+        "por siglos lo ocult\u00f3,",
+        "y en nuestros d\u00edas",
+        "\u00e9l del polvo lo sac\u00f3.",
+        "El santo libro habla hoy",
+        "y testifica del Se\u00f1or.",
+        "El santo libro habla hoy",
+        "y testifica del Se\u00f1or."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "El Libro de Morm\u00f3n",
+        "relata ad\u00f3nde fue",
+        "el resto de Israel,",
+        "simiente de Jos\u00e9.",
+        "Contiene en su plenitud",
+        "el Evangelio de Jes\u00fas.",
+        "Contiene en su plenitud",
+        "el Evangelio de Jes\u00fas."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "El tiempo se cumpli\u00f3",
+        "que anhelado fue,",
+        "y todo el mundo hoy",
+        "a Dios tributo d\u00e9.",
+        "Romped los sellos; todos ved",
+        "Su luz y gloria renacer.",
+        "Romped los sellos; todos ved",
+        "Su luz y gloria renacer."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Reunido otra vez",
+        "ya Israel ser\u00e1;",
+        "la gran Jerusal\u00e9n",
+        "de nuevo fundar\u00e1.",
+        "Si\u00f3n se ha de levantar,",
+        "y con divina luz brillar.",
+        "Si\u00f3n se ha de levantar,",
+        "y con divina luz brillar."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Parley P. Pratt, 1807\u20131857.",
+    "M\u00fasica: John E. Tullidge, 1806\u20131873."
+  ],
+  "slug": "an-angel-from-on-high",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/an-angel-from-on-high?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/an-angel-from-on-high.json"
+}

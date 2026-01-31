@@ -1,0 +1,76 @@
+{
+  "number": 110,
+  "title": "Vede, Morreu o Redentor",
+  "marking": "Reverente",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Vede, morreu o Redentor,",
+        "Cumpriu a lei o meu Senhor.",
+        "Em sacrif\u00edcio se entregou,",
+        "Em sacrif\u00edcio se entregou,",
+        "Vida e gl\u00f3ria nos legou."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Entre ladr\u00f5es, em uma cruz,",
+        "Foi, sim, pregado o meu Jesus.",
+        "Cravos e espinhos suportou,",
+        "Cravos e espinhos suportou,",
+        "E nossas almas resgatou."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Em agonia t\u00e3o cruel,",
+        "Bebeu a ta\u00e7a, foi fiel.",
+        "Sem reclamar ele expirou,",
+        "Sem reclamar ele expirou,",
+        "De Deus o plano exaltou."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "\u201cPai, minha ta\u00e7a beberei,",
+        "Tua vontade eu farei.",
+        "Cumprida minha obra aqui,",
+        "Cumprida minha obra aqui,",
+        "Entrego o esp\u00edrito a ti.\u201d"
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Ap\u00f3s a morte de Jesus",
+        "O sol n\u00e3o deu a sua luz",
+        "A natureza ent\u00e3o gemeu:",
+        "A natureza ent\u00e3o gemeu:",
+        "\u201cEle era o Filho, sim, de Deus.\u201d"
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Que ele vive, hoje, eu sei",
+        "E estes emblemas tomarei",
+        "A Lei prometo respeitar",
+        "A Lei prometo respeitar",
+        "E sempre a Cristo irei louvar."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Eliza R. Snow, 1804\u20131887",
+    "M\u00fasica: George Careless, 1839\u20131932"
+  ],
+  "slug": "behold-the-great-redeemer-die",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/behold-the-great-redeemer-die?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/behold-the-great-redeemer-die.json"
+}

@@ -1,0 +1,58 @@
+{
+  "number": 201,
+  "title": "Joy to the World",
+  "marking": "Jubilantly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Joy to the world, the Lord is come;",
+        "Let earth receive her King!",
+        "Let ev\u2019ry heart prepare him room,",
+        "And Saints and angels sing,",
+        "And Saints and angels sing,",
+        "And Saints, and Saints and angels sing."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Rejoice! Rejoice when Jesus reigns,",
+        "And Saints their songs employ,",
+        "While fields and floods, rocks, hills, and plains",
+        "Repeat the sounding joy,",
+        "Repeat the sounding joy,",
+        "Repeat, repeat the sounding joy."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "No more will sin and sorrow grow,",
+        "Nor thorns infest the ground;",
+        "He\u2019ll come and make the blessings flow",
+        "Far as the curse was found,",
+        "Far as the curse was found,",
+        "Far as, far as the curse was found."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Rejoice! Rejoice in the Most High,",
+        "While Israel spreads abroad",
+        "Like stars that glitter in the sky,",
+        "And ever worship God,",
+        "And ever worship God,",
+        "And ever, and ever worship God."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Isaac Watts, 1674\u20131748; alt. by William W. Phelps, 1792\u20131872",
+    "Music: George F. Handel, 1685\u20131759; arr. by Lowell Mason, 1792\u20131872"
+  ],
+  "slug": "joy-to-the-world",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/joy-to-the-world?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/joy-to-the-world.json"
+}

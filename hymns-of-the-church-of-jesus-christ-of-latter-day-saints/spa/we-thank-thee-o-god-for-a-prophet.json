@@ -1,0 +1,53 @@
+{
+  "number": 10,
+  "title": "Te damos, Se\u00f1or, nuestras gracias",
+  "marking": "Con alegr\u00eda",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Te damos, Se\u00f1or, nuestras gracias",
+        "que mandas de nuevo venir",
+        "profetas con tu Evangelio,",
+        "gui\u00e1ndonos c\u00f3mo vivir.",
+        "Y gracias por todos los dones",
+        "vertidos por tu gran amor.",
+        "Tenemos placer en servirte",
+        "a ti, nuestro gran Bienhechor."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Al sobrevenirnos peligros",
+        "que amenazan quitarnos la paz,",
+        "tenemos en Dios gran confianza;",
+        "vencido ser\u00e1 Satan\u00e1s.",
+        "De Dios no dudamos en nada;",
+        "probamos ya bien Su bondad.",
+        "Los que a Si\u00f3n se opongan,",
+        "al fin sentir\u00e1n su maldad."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "De Dios cantaremos la gracia,",
+        "bondad, compasi\u00f3n y amor.",
+        "Gozamos de Su Evangelio,",
+        "alegres de ver su fulgor.",
+        "As\u00ed, a la dicha eterna,",
+        "los justos y fieles ir\u00e1n,",
+        "mas los que el mensaje rechacen,",
+        "tal gozo con \u00c9l no tendr\u00e1n."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: William Fowler, 1830\u20131865.",
+    "M\u00fasica: Caroline Sheridan Norton, 1808\u2013apr. 1877."
+  ],
+  "slug": "we-thank-thee-o-god-for-a-prophet",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/we-thank-thee-o-god-for-a-prophet?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/we-thank-thee-o-god-for-a-prophet.json"
+}

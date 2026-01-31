@@ -1,0 +1,66 @@
+{
+  "number": 33,
+  "title": "Our Mountain Home So Dear",
+  "marking": "Tenderly",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Our mountain home so dear,",
+        "Where crystal waters clear",
+        "Flow ever free,",
+        "Flow ever free,",
+        "While thru the valleys wide",
+        "The flow\u2019rs on ev\u2019ry side,",
+        "Blooming in stately pride,",
+        "Are fair to see."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "We\u2019ll roam the verdant hills",
+        "And by the sparkling rills",
+        "Pluck the wildflow\u2019rs,",
+        "Pluck the wildflow\u2019rs;",
+        "The fragrance on the air,",
+        "The landscape bright and fair,",
+        "And sunshine ev\u2019rywhere",
+        "Make pleasant hours."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "In sylvan depth and shade,",
+        "In forest and in glade,",
+        "Where-e\u2019er we pass,",
+        "Where-e\u2019er we pass,",
+        "The hand of God we see",
+        "In leaf and bud and tree,",
+        "Or bird or humming bee,",
+        "Or blade of grass."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "The streamlet, flow\u2019r, and sod",
+        "Bespeak the works of God;",
+        "And all combine,",
+        "And all combine,",
+        "With most transporting grace,",
+        "His handiwork to trace,",
+        "Thru nature\u2019s smiling face,",
+        "In art divine."
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Emmeline B. Wells, 1828\u20131921",
+    "Music: Evan Stephens, 1854\u20131930"
+  ],
+  "slug": "our-mountain-home-so-dear",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/our-mountain-home-so-dear?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/our-mountain-home-so-dear.json"
+}

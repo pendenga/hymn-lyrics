@@ -1,0 +1,44 @@
+{
+  "number": 37,
+  "title": "O Senhor Meu Pastor \u00c9",
+  "marking": "Sereno",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "O Senhor meu Pastor \u00e9 n\u00e3o me faltar\u00e1!",
+        "Em verdes pastagens descanso me d\u00e1;",
+        "Por \u00e1guas tranquilas me conduzir\u00e1",
+        "Se ando errante, me resgatar\u00e1;",
+        "Se ando errante, me resgatar\u00e1!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "E enquanto no vale da morte eu andar,",
+        "Terei o teu bra\u00e7o a me amparar!",
+        "A tua verdade conforto me traz,",
+        "O mal n\u00e3o me fere, nem medo me faz;",
+        "O mal n\u00e3o me fere, nem medo me faz!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Minha mesa preparas, n\u00e3o h\u00e1 afli\u00e7\u00e3o;",
+        "Tu unges minh\u2019alma e meu cora\u00e7\u00e3o!",
+        "Meu ser todo exulta, t\u00e3o cheio de paz,",
+        "Por todas as b\u00ean\u00e7\u00e3os que hoje me d\u00e1s;",
+        "Por todas as b\u00ean\u00e7\u00e3os que hoje me d\u00e1s!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: James Montgomery, 1771\u20131854; baseado no Salmo 23",
+    "M\u00fasica: Thomas Koschat, 1845\u20131914"
+  ],
+  "slug": "the-lord-is-my-shepherd",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/the-lord-is-my-shepherd?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/the-lord-is-my-shepherd.json"
+}

@@ -1,0 +1,61 @@
+{
+  "number": 107,
+  "title": "Deus Tal Amor por N\u00f3s Mostrou",
+  "marking": "Com dignidade",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Deus tal amor por n\u00f3s mostrou",
+        "Que a n\u00f3s seu Filho enviou",
+        "Para o caminho nos mostrar",
+        "Que ao Reino Eterno vai levar."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Jesus como mortal viveu",
+        "E, inocente, padeceu",
+        "Para a justi\u00e7a e a lei cumprir",
+        "E do pecado nos remir."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Oh! qu\u00e3o grandioso \u00e9 esse amor!",
+        "Oh! quanto devo ao Redentor,",
+        "No sacrif\u00edcio que rendeu",
+        "A salva\u00e7\u00e3o nos concedeu."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Agora ele quer de mim",
+        "Perseveran\u00e7a at\u00e9 o fim",
+        "Que seja reto meu viver",
+        "Que aprenda a lhe obedecer."
+      ],
+      "optional": true
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Do sacramento ao partilhar",
+        "Seu sacrif\u00edcio vou lembrar",
+        "E um conv\u00eanio ent\u00e3o farei",
+        "De que jamais o esquecerei."
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Edward P. Kimball, 1882\u20131937",
+    "M\u00fasica: Alexander Schreiner, 1901\u20131987. \u00a9 1948 IRI"
+  ],
+  "slug": "god-loved-us-so-he-sent-his-son",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/god-loved-us-so-he-sent-his-son?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/god-loved-us-so-he-sent-his-son.json"
+}

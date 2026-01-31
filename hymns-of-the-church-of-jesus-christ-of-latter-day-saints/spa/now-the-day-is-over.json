@@ -1,0 +1,32 @@
+{
+  "number": 94,
+  "title": "Ya termina el d\u00eda",
+  "marking": "Con calma",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Ya termina el d\u00eda,",
+        "y la luz se va;",
+        "viene el ocaso;",
+        "todo quieto est\u00e1."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Cristo, al cansado",
+        "da Tu dulce paz;",
+        "al cerrar los ojos,",
+        "danos Tu solaz."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Sabine Baring-Gould, 1834\u20131924.",
+    "M\u00fasica: Joseph Barnby, 1838\u20131896."
+  ],
+  "slug": "now-the-day-is-over",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/now-the-day-is-over?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/now-the-day-is-over.json"
+}

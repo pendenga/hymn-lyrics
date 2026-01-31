@@ -1,0 +1,41 @@
+{
+  "number": 111,
+  "title": "En el Calvario, en la cruz",
+  "marking": "Con solemnidad",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "En el Calvario, en la cruz,",
+        "muri\u00f3 el Salvador,",
+        "mas con Su sangre nos salv\u00f3",
+        "de muerte y dolor."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "En una cruz Jes\u00fas sufri\u00f3",
+        "por la humanidad;",
+        "la muerte ya la puerta es",
+        "a la eternidad."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "En una cruz el Salvador",
+        "muri\u00f3, mas vida dio",
+        "a todo hombre con el don",
+        "de la resurrecci\u00f3n."
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Vilate Raile, 1890\u20131954. \u00a9 1948 IRI",
+    "M\u00fasica: Leroy J. Robertson, 1896\u20131971. \u00a9 1948 IRI"
+  ],
+  "slug": "upon-the-cross-of-calvary",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/upon-the-cross-of-calvary?lang=spa",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/spa\/upon-the-cross-of-calvary.json"
+}

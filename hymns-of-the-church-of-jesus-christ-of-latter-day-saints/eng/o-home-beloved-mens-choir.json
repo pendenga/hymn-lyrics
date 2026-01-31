@@ -1,0 +1,53 @@
+{
+  "number": 337,
+  "title": "O Home Beloved Mens Choir",
+  "marking": "Fervently",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "O home belov\u2019d, where\u2019er I wander,",
+        "On foreign land or distant sea,",
+        "As time rolls by, my heart grows fonder",
+        "And yearns more lovingly for thee!",
+        "Tho fair be nature\u2019s scenes around me,",
+        "And friends are ever kind and true,",
+        "Tho joyous mirth and song surround me,",
+        "My heart, my soul still yearn for you."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "The flow\u2019rs around me may be fairer",
+        "Than those that bloom upon thy hills;",
+        "The streams, great, mighty treasure bearers,",
+        "More noted may be than thy rills.",
+        "No world renown my humble village",
+        "Like these great towns may proudly claim;",
+        "Yet my fond heart doth thrill with rapture",
+        "Whene\u2019er I hear thy humble name."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Ye valleys fair and snowcapped mountains,",
+        "Ye peaceful hamlets \u2019mid the trees,",
+        "Ye murm\u2019ring streams and crystal fountains,",
+        "Kissed by the cool, soft, balmy breeze,",
+        "Words cannot tell how well I love thee",
+        "Nor speak my longing when I roam.",
+        "My heart alone can cry to heaven,",
+        "\u201cGod bless my own dear mountain home.\u201d"
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Evan Stephens, 1854\u20131930. \u00a9 1948 IRI",
+    "Music: Joseph Parry, 1841\u20131903"
+  ],
+  "slug": "o-home-beloved-mens-choir",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/o-home-beloved-mens-choir?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/o-home-beloved-mens-choir.json"
+}

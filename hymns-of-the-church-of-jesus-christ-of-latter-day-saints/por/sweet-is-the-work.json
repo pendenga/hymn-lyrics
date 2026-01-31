@@ -1,0 +1,70 @@
+{
+  "number": 54,
+  "title": "Doce \u00c9 o Trabalho",
+  "marking": "Com fervor",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Doce \u00e9 o trabalho, \u00f3 Senhor!",
+        "Cantar louvor e gra\u00e7as dar;",
+        "Mostrar ao mundo teu amor",
+        "E teus ensinos aplicar."
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Doce \u00e9 o dia do Senhor!",
+        "O cora\u00e7\u00e3o, em santa paz,",
+        "Eleva a Deus o seu louvor",
+        "Na adora\u00e7\u00e3o que satisfaz."
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Triunfarei em ti, Senhor;",
+        "As tuas obras belas s\u00e3o.",
+        "Elas rebrilham com fulgor",
+        "E teus conselhos luz me d\u00e3o."
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Teu santo nome louvarei,",
+        "Quando ao teu reino eu subir",
+        "E tua face eu verei",
+        "Na gl\u00f3ria eterna a refulgir."
+      ]
+    },
+    {
+      "number": 5,
+      "lines": [
+        "Quero habitar meu lar no c\u00e9u",
+        "E alcan\u00e7ar exalta\u00e7\u00e3o;",
+        "Sempre, Senhor, serei fiel",
+        "Hei de vencer a tenta\u00e7\u00e3o!"
+      ],
+      "optional": true
+    },
+    {
+      "number": 6,
+      "lines": [
+        "Irei ouvir, saber e amar",
+        "Tudo o que neste mundo quis",
+        "E o que tenho hei de dar",
+        "Para viver no c\u00e9u feliz!"
+      ],
+      "optional": true
+    }
+  ],
+  "credits": [
+    "Letra: Isaac Watts, 1674\u20131748",
+    "M\u00fasica: John J. McClellan, 1874\u20131925"
+  ],
+  "slug": "sweet-is-the-work",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sweet-is-the-work?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/sweet-is-the-work.json"
+}

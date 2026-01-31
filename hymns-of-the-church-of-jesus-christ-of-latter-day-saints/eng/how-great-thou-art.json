@@ -1,0 +1,54 @@
+{
+  "number": 86,
+  "title": "How Great Thou Art",
+  "marking": "Prayerfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Oh Lord, my God, when I, in awesome wonder",
+        "Consider all the worlds Thy hands have made",
+        "I see the stars, I hear the rolling thunder",
+        "Thy power throughout the universe displayed",
+        "Then sings my soul, my Savior God to Thee",
+        "How great Thou art, how great Thou art",
+        "Then sings my soul, my Savior God to Thee",
+        "How great Thou art, how great Thou art"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "And when I think that God, His Son not sparing",
+        "Sent Him to die, I scarce can take it in",
+        "That on the cross, my burden gladly bearing",
+        "He bled and died to take away my sin",
+        "Then sings my soul, my Savior God to Thee",
+        "How great Thou art, how great Thou art",
+        "Then sings my soul, my Savior God to Thee",
+        "How great Thou art, how great Thou art"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "When Christ shall come, with shout of acclamation",
+        "And take me home, what joy shall fill my heart",
+        "Then I shall bow, in humble adoration",
+        "And then proclaim, my God, how great Thou art",
+        "Then sings my soul, my Savior God to Thee",
+        "How great Thou art, how great Thou art",
+        "Then sings my soul, my Savior God to Thee",
+        "How great Thou art, how great Thou art"
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Stuart K. Hine, 1899\u20131989. *Author\u2019s original words are works and mighty.",
+    "Music: Tradititonal Swedish folk tune; adapted by Stuart K. Hine",
+    "Words and music \u00a9 1949 and 1953 by the Stuart Hine Trust. All rights in the USA except print rights administered by EMI CMG. USA print rights administered by Hope Publishing Company, Carol Stream, IL 60188. All rights reserved. Used by permission."
+  ],
+  "slug": "how-great-thou-art",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/how-great-thou-art?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/how-great-thou-art.json"
+}

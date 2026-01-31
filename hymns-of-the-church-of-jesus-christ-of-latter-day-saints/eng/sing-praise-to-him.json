@@ -1,0 +1,62 @@
+{
+  "number": 70,
+  "title": "Sing Praise to Him",
+  "marking": "Joyfully",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Sing praise to him who reigns above,",
+        "The Lord of all creation,",
+        "The source of pow\u2019r, the fount of love,",
+        "The rock of our salvation.",
+        "With healing balm my soul he fills",
+        "And ev\u2019ry faithless murmur stills.",
+        "To him all praise and glory!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "What his almighty pow\u2019r hath made",
+        "His gracious mercy keepeth.",
+        "By morning glow or evening shade",
+        "His watchful eye ne\u2019er sleepeth.",
+        "Within the kingdom of his might,",
+        "Lo! all is just and all is right.",
+        "To him all praise and glory!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "The Lord is never far away,",
+        "But, thru all grief distressing,",
+        "An ever-present help and stay,",
+        "Our peace and joy and blessing.",
+        "As with a mother\u2019s tender hand,",
+        "He leads his own, his chosen band.",
+        "To him all praise and glory!"
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Thus, all my toilsome way along",
+        "I sing aloud thy praises,",
+        "That men may hear the grateful song",
+        "My voice unwearied raises.",
+        "Be joyful in the Lord, my heart!",
+        "Both soul and body bear your part.",
+        "To him all praise and glory!"
+      ]
+    }
+  ],
+  "credits": [
+    "Text: Johann J. Sch\u00fctz, 1640\u20131690; trans. by Frances Elizabeth Cox, 1812\u20131897",
+    "Music: From Bohemian Brethren\u2019s Songbook, 1566, alt."
+  ],
+  "slug": "sing-praise-to-him",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/sing-praise-to-him?lang=eng",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/eng\/sing-praise-to-him.json"
+}

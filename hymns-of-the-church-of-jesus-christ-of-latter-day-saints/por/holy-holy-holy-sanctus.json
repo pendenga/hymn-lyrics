@@ -1,0 +1,58 @@
+{
+  "number": 55,
+  "title": "Santo! Santo! Santo!",
+  "marking": "Majestosamente",
+  "verses": [
+    {
+      "number": 1,
+      "lines": [
+        "Santo! Santo! Santo!",
+        "Deus onipotente!",
+        "Cantam, de manh\u00e3, nossas vozes com ardor.",
+        "Santo! Santo! Santo!",
+        "Justo e compassivo!",
+        "\u00c9s nosso Deus, excelso Criador!"
+      ]
+    },
+    {
+      "number": 2,
+      "lines": [
+        "Santo! Santo! Santo!",
+        "Todos os remidos,",
+        "Juntos com os anjos, proclamam teu louvor.",
+        "Antes de formar-se o",
+        "firmamento e a terra",
+        "Eras e sempre \u00e9s, e h\u00e1s de ser, Senhor!"
+      ]
+    },
+    {
+      "number": 3,
+      "lines": [
+        "Santo! Santo! Santo!",
+        "N\u00f3s, os pecadores,",
+        "N\u00e3o podemos ver tua gl\u00f3ria sem tremor.",
+        "Santo! Santo! Santo!",
+        "S\u00f3 tu \u00e9s perfeito.",
+        "Deus soberano, imenso em teu amor!"
+      ]
+    },
+    {
+      "number": 4,
+      "lines": [
+        "Santo! Santo! Santo!",
+        "Deus onipotente!",
+        "Tuas obras louvam teu nome com fervor.",
+        "Santo! Santo! Santo!",
+        "Justo e compassivo!",
+        "\u00c9s nosso Deus, Excelso Criador!"
+      ]
+    }
+  ],
+  "credits": [
+    "Letra: Reginald Heber, 1783\u20131826. Trad. Jo\u00e3o Gomes da Rocha",
+    "M\u00fasica: John Bacchus Dykes 1823\u20131876"
+  ],
+  "slug": "holy-holy-holy-sanctus",
+  "weblink": "https:\/\/www.churchofjesuschrist.org\/study\/manual\/hymns\/holy-holy-holy-sanctus?lang=por",
+  "permalink": "https:\/\/raw.githubusercontent.com\/pendenga\/hymn-lyrics\/hymns-of-the-church-of-jesus-christ-of-latter-day-saints\/por\/holy-holy-holy-sanctus.json"
+}
