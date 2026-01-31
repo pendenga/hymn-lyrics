@@ -13,6 +13,7 @@ be directed for users to read the full lyrics online, potentially with sheet mus
 All text files are encoded in UTF-8 to ensure compatibility with various characters and symbols used in hymn lyrics.
 If the songs contain special characters, such as non-English, they are represented using Unicode escape sequences.
 
+## Usage
 All rights are reserved by the original copyright holders. 
 Attribution must be given to the original authors and publishers when using these lyrics.
 This repository is intended for educational and personal use only.
