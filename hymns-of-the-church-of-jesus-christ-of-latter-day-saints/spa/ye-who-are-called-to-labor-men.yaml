@@ -22,6 +22,7 @@ verses:
   - Él os dará consuelo y os enseñará;
   - estará con vosotros, y os protegerá.
 - number: 4
+  optional: true
   lines:
   - Sus dones os esperan; la fe Él os dará.
   - Podréis vencer la muerte; Él os coronará,

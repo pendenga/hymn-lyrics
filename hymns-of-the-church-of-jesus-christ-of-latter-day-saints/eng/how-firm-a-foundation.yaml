@@ -25,6 +25,7 @@ verses:
   - Upheld by my righteous, upheld by my righteous,
   - Upheld by my righteous, omnipotent hand.
 - number: 4
+  optional: true
   lines:
   - When through the deep waters I call thee to go,
   - The rivers of sorrow shall not thee o’erflow,
@@ -32,6 +33,7 @@ verses:
   - And sanctify to thee, and sanctify to thee,
   - And sanctify to thee thy deepest distress.
 - number: 5
+  optional: true
   lines:
   - When through fiery trials thy pathway shall lie,
   - My grace, all sufficient, shall be thy supply.
@@ -39,6 +41,7 @@ verses:
   - Thy dross to consume, thy dross to consume,
   - Thy dross to consume and thy gold to refine.
 - number: 6
+  optional: true
   lines:
   - E’en down to old age, all my people shall prove
   - My sov’reign, eternal, unchangeable love;
@@ -46,6 +49,7 @@ verses:
   - Like lambs shall they still, like lambs shall they still,
   - Like lambs shall they still in my bosom be borne.
 - number: 7
+  optional: true
   lines:
   - The soul that on Jesus hath leaned for repose
   - I will not, I cannot, desert to his foes;

@@ -28,12 +28,14 @@ verses:
   - al verme cerca de Tu faz,
   - gozando de sublime paz.
 - number: 5
+  optional: true
   lines:
   - Ya no tendré más tentación,
   - faltas, dolor, ni aflicción;
   - habré vencido la maldad,
   - y yo tendré felicidad.
 - number: 6
+  optional: true
   lines:
   - Entonces bien comprenderé
   - lo que en vida ignoré,

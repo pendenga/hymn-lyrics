@@ -34,6 +34,7 @@ verses:
   - Mais perto quero estar,
   - Meu Deus, de ti!”
 - number: 4
+  optional: true
   lines:
   - Então ao despertar
   - Junto de ti
@@ -44,6 +45,7 @@ verses:
   - Mais perto quero estar,
   - Meu Deus, de ti!”
 - number: 5
+  optional: true
   lines:
   - Minh’alma cantará
   - A ti, Senhor,

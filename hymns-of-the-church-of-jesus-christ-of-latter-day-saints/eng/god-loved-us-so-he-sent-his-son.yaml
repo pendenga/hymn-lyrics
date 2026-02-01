@@ -22,12 +22,14 @@ verses:
   - That in his off’ring I have part
   - And hold a place within his heart.
 - number: 4
+  optional: true
   lines:
   - In word and deed he doth require
   - My will to his, like son to sire,
   - Be made to bend, and I, as son,
   - Learn conduct from the Holy One.
 - number: 5
+  optional: true
   lines:
   - This sacrament doth represent
   - His blood and body for me spent.

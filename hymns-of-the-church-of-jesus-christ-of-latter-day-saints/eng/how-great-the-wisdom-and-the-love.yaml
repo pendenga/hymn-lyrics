@@ -28,12 +28,14 @@ verses:
   - To light and life and endless day
   - Where God’s full presence shines.
 - number: 5
+  optional: true
   lines:
   - In mem’ry of the broken flesh
   - We eat the broken bread
   - And witness with the cup, afresh,
   - Our faith in Christ, our Head.
 - number: 6
+  optional: true
   lines:
   - How great, how glorious, how complete
   - Redemption’s grand design,

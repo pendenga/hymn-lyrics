@@ -46,6 +46,7 @@ verses:
   - Onde em paz e harmonia
   - Nós iremos habitar.
 - number: 4
+  optional: true
   lines:
   - Com amor e humildade
   - Devo ao próximo ajudar
@@ -60,6 +61,7 @@ verses:
   - Onde em paz e harmonia
   - Nós iremos habitar.
 - number: 5
+  optional: true
   lines:
   - O amor e a caridade
   - Nos aclaram a visão;

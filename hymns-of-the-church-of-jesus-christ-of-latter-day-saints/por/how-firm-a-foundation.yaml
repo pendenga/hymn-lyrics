@@ -28,6 +28,7 @@ verses:
   - Com mão poderosa,
   - Com mão poderosa vos há de suster.
 - number: 4
+  optional: true
   lines:
   - E quando torrentes tiverdes que passar,
   - O rio do mal não vos poderá tragar,
@@ -36,6 +37,7 @@ verses:
   - Seus santos queridos,
   - Seus santos queridos virá resgatar.
 - number: 5
+  optional: true
   lines:
   - Se provas de fogo tiverdes que passar,
   - Tereis sua graça a vos amparar.
@@ -44,6 +46,7 @@ verses:
   - Mas queima a escória,
   - Mas queima a escória e o ouro faz surgir.
 - number: 6
+  optional: true
   lines:
   - Passando-se os anos, vós santos, provareis
   - O amor soberano do grande Rei dos Reis
@@ -52,6 +55,7 @@ verses:
   - Bem junto a Cristo,
   - Bem junto a Cristo ireis habitar.
 - number: 7
+  optional: true
   lines:
   - A alma que em Cristo confiante repousar,
   - A seus inimigos não há de se entregar.

@@ -34,6 +34,7 @@ verses:
   - con los ángeles del cielo
   - cantaremos en unión.
 - number: 4
+  optional: true
   lines:
   - Nuestra vista despejemos con amor y caridad;
   - los errores en la vida del hermano olvidad.

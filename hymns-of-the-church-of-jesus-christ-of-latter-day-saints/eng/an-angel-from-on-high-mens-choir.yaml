@@ -34,6 +34,7 @@ verses:
   - The fulness of the gospel, too,
   - Its pages will reveal to view.
 - number: 4
+  optional: true
   lines:
   - The time is now fulfilled,
   - The long-expected day;
@@ -44,6 +45,7 @@ verses:
   - Remove the seals; be wide unfurled
   - Its light and glory to the world.
 - number: 5
+  optional: true
   lines:
   - Lo! Israel filled with joy
   - Shall now be gathered home,

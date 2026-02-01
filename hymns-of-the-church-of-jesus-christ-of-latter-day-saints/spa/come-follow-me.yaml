@@ -28,12 +28,14 @@ verses:
   - y en Sus brazos los tomó
   - y bendiciones Él les dio.
 - number: 5
+  optional: true
   lines:
   - “Así cual niños os haréis,
   - si en mi reino entrar queréis
   - para mi gloria heredar
   - y vida eterna allí gozar”.
 - number: 6
+  optional: true
   lines:
   - Su gran ejemplo nos mostró;
   - la senda Él nos indicó:

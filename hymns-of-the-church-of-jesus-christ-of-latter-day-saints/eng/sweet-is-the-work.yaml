@@ -28,12 +28,14 @@ verses:
   - When in the realms of joy I see
   - Thy face in full felicity!
 - number: 5
+  optional: true
   lines:
   - Sin, my worst enemy before,
   - Shall vex my eyes and ears no more.
   - My inward foes shall all be slain,
   - Nor Satan break my peace again.
 - number: 6
+  optional: true
   lines:
   - Then shall I see and hear and know
   - All I desired and wished below,

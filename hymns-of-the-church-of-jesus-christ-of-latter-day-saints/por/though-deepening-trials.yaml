@@ -25,6 +25,7 @@ verses:
   - Cristo nos diz: “A paz vos dou”.
   - Cristo nos diz: “A paz vos dou”!
 - number: 4
+  optional: true
   lines:
   - Tenhamos fé em Jeová,
   - Nossos direitos garantiu
@@ -32,6 +33,7 @@ verses:
   - Suas promessas já cumpriu
   - Suas promessas já cumpriu.
 - number: 5
+  optional: true
   lines:
   - A boa nova correrá
   - Como uma pedra a rolar
@@ -39,6 +41,7 @@ verses:
   - Os que por Cristo irão lutar
   - Os que por Cristo irão lutar.
 - number: 6
+  optional: true
   lines:
   - Embora ruja o impostor,
   - Querendo o Bem invalidar,
@@ -46,6 +49,7 @@ verses:
   - Ninguém as pode revogar
   - Ninguém as pode revogar.
 - number: 7
+  optional: true
   lines:
   - Glória e louvor d Deus, o Pai,
   - Pois a seus servos enviou.

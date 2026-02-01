@@ -22,6 +22,7 @@ verses:
   - A todos dai consolo e santa instrução,
   - Guiando ao caminho que traz a salvação.
 - number: 4
+  optional: true
   lines:
   - As bênçãos vos esperam, de Deus a paz tereis,
   - Em glória coroados, a morte vencereis.

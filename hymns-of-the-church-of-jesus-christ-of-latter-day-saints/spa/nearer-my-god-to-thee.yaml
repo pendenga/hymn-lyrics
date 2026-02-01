@@ -22,12 +22,14 @@ verses:
   - Y ángeles habrá que me conducirán
   - más cerca, Dios, de Ti, cerca de Ti.
 - number: 4
+  optional: true
   lines:
   - Y luego al despertar, te alabaré.
   - Humilde, un altar te levantaré.
   - Allí mi corazón dirá su oración:
   - más cerca, Dios, de Ti, cerca de Ti.
 - number: 5
+  optional: true
   lines:
   - Si astros, luna y sol dejo atrás,
   - gozoso volaré a ver tu faz.

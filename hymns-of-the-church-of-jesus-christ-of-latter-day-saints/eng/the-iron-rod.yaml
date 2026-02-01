@@ -34,6 +34,7 @@ verses:
   - The iron rod is the word of God;
   - ’Twill safely guide us through.
 - number: 4
+  optional: true
   lines:
   - And, hand o’er hand, the rod along,
   - Through each succeeding day,
@@ -44,6 +45,7 @@ verses:
   - The iron rod is the word of God;
   - ’Twill safely guide us through.
 - number: 5
+  optional: true
   lines:
   - Afar we see the golden rest
   - To which the rod will guide,

@@ -28,12 +28,14 @@ verses:
   - But when we’re freed from present cares,
   - If with our Lord we would be heirs.
 - number: 5
+  optional: true
   lines:
   - We must the onward path pursue
   - As wider fields expand to view,
   - And follow him unceasingly,
   - Whate’er our lot or sphere may be.
 - number: 6
+  optional: true
   lines:
   - For thrones, dominions, kingdoms, pow’rs,
   - And glory great and bliss are ours,

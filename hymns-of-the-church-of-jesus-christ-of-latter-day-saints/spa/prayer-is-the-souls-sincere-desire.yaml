@@ -28,24 +28,28 @@ verses:
   - Al cielo entra al morir
   - orando siempre él.
 - number: 5
+  optional: true
   lines:
   - Es voz, también, del pecador
   - que deja de pecar,
   - y ángeles proclamarán:
   - “Miradle, pues, orar”.
 - number: 6
+  optional: true
   lines:
   - Al inclinarse en oración,
   - los santos uno son,
   - y con el Padre y Jesús
   - encuentran comunión.
 - number: 7
+  optional: true
   lines:
   - No sólo en la tierra, pues,
   - se hace oración:
   - Jesús suplica ante Dios,
   - buscándonos perdón.
 - number: 8
+  optional: true
   lines:
   - La senda de la oración
   - has recorrido ya;

@@ -22,12 +22,14 @@ verses:
   - From all assaults of hell and sin,
   - From foes without and fears within.
 - number: 4
+  optional: true
   lines:
   - All needful grace will God bestow
   - And crown that grace with glory too.
   - He gives us all things and withholds
   - No blessings due to upright souls.
 - number: 5
+  optional: true
   lines:
   - Our God, our King, whose sovereign sway
   - The glorious hosts of heav’n obey

@@ -22,6 +22,7 @@ verses:
   - The Comforter will teach you, his richest blessings send.
   - Your Savior will be with you forever to the end.
 - number: 4
+  optional: true
   lines:
   - Rich blessings there await you, and God will give you faith.
   - You shall be crowned with glory and triumph over death,

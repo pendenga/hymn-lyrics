@@ -22,12 +22,14 @@ verses:
   - En Su ofrenda me incluyó;
   - tengo lugar en Su corazón.
 - number: 4
+  optional: true
   lines:
   - Sus leyes quiero acatar,
   - y mis deseos sujetar
   - a Su divina voluntad,
   - mostrándole mi lealtad.
 - number: 5
+  optional: true
   lines:
   - El pan y el agua emblemas son
   - del cuerpo y sangre del Señor.

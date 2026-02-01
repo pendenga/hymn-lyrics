@@ -34,6 +34,7 @@ verses:
   - Contiene en su plenitud
   - el Evangelio de Jesús.
 - number: 4
+  optional: true
   lines:
   - El tiempo se cumplió
   - que anhelado fue,
@@ -44,6 +45,7 @@ verses:
   - Romped los sellos; todos ved
   - Su luz y gloria renacer.
 - number: 5
+  optional: true
   lines:
   - Reunido otra vez
   - ya Israel será;

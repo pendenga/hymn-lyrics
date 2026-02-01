@@ -34,6 +34,7 @@ verses:
   - A plenitude revelou
   - e o evangelho proclamou.
 - number: 4
+  optional: true
   lines:
   - O tempo se cumpriu
   - Da longa provação
@@ -44,6 +45,7 @@ verses:
   - Remove os selos, traz à luz
   - O evangelho de Jesus.
 - number: 5
+  optional: true
   lines:
   - O povo de Israel
   - Unido agora vem

@@ -28,12 +28,14 @@ verses:
   - Fear not, and be just, for the kingdom is ours.
   - The hour of redemption is near.
 - number: 5
+  optional: true
   lines:
   - Restore, my dear Savior, The light of thy face;
   - Thy soul-cheering comfort impart;
   - And let the sweet longing for thy holy place
   - Bring hope to my desolate heart.
 - number: 6
+  optional: true
   lines:
   - He looks! and ten thousands Of angels rejoice,
   - And myriads wait for his word;

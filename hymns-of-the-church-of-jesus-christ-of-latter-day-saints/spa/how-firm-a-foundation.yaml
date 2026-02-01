@@ -25,6 +25,7 @@ verses:
   - y salvos de males, y salvos de males,
   - y salvos de males vosotros seréis”.
 - number: 4
+  optional: true
   lines:
   - “Y cuando torrentes tengáis que pasar,
   - los ríos del mal no os pueden turbar,
@@ -32,6 +33,7 @@ verses:
   - salvando mis santos, salvando mis santos,
   - salvando mis santos de todo pesar.”
 - number: 5
+  optional: true
   lines:
   - “La llama no puede dañaros jamás
   - si en medio del fuego os ordeno pasar.
@@ -39,6 +41,7 @@ verses:
   - pues sólo la escoria, pues sólo la escoria,
   - pues sólo la escoria se habrá de quemar.”
 - number: 6
+  optional: true
   lines:
   - “Mi amor invariable, eterno y leal,
   - constante a mi pueblo mostrarle podré.
@@ -46,6 +49,7 @@ verses:
   - cual tierno cordero, cual tierno cordero,
   - cual tierno cordero yo os cuidaré.”
 - number: 7
+  optional: true
   lines:
   - “Al alma que anhele la paz que hay en mí,
   - no quiero, no puedo dejar en error;

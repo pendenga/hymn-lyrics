@@ -34,6 +34,7 @@ verses:
   - Após beber, também bebi
   - E sede nunca mais sofri.
 - number: 4
+  optional: true
   lines:
   - Em noite horrível, a chamar,
   - Mesclada ao som do furacão,
@@ -44,6 +45,7 @@ verses:
   - No chão deitei-me a repousar
   - E foi tão doce o meu sonhar.
 - number: 5
+  optional: true
   lines:
   - Na estrada, um dia, o encontrei,
   - Ferido e prestes a morrer;
@@ -54,6 +56,7 @@ verses:
   - E nunca mais essa aflição
   - Tornou ferir meu coração.
 - number: 6
+  optional: true
   lines:
   - Na prisão, um dia, o vi chorar
   - Sob o rigor da humana lei;
@@ -64,6 +67,7 @@ verses:
   - Mas forte o espírito venceu
   - E respondi-lhe: “Aqui estou eu.”
 - number: 7
+  optional: true
   lines:
   - O estranho, então, se transformou
   - Naquele instante e mesmo ali

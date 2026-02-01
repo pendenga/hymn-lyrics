@@ -34,6 +34,7 @@ verses:
   - Después, me la llenó y dio,
   - y para siempre mi sed sació.
 - number: 4
+  optional: true
   lines:
   - Cayó la noche invernal
   - con espantosa tempestad.
@@ -44,6 +45,7 @@ verses:
   - En duro suelo me acosté,
   - mas en Edén creí dormir.
 - number: 5
+  optional: true
   lines:
   - En el camino lo hallé
   - golpeado, herido, por morir.
@@ -54,6 +56,7 @@ verses:
   - y desde entonces la olvidé;
   - la paz mi corazón llenó.
 - number: 6
+  optional: true
   lines:
   - Lo vi esperando en prisión
   - la muerte como un vil traidor.
@@ -64,6 +67,7 @@ verses:
   - la carne quiso rehusar,
   - mas mi alma libre dijo “¡Sí!”
 - number: 7
+  optional: true
   lines:
   - Al forastero vi ante mí;
   - Su identidad Él reveló;

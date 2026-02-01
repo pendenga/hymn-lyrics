@@ -34,6 +34,7 @@ verses:
   - Cuán grato es oír decir
   - palabras de amor.
 - number: 4
+  optional: true
   lines:
   - Y el Espíritu dará,
   - a quien busque Su don,
@@ -44,6 +45,7 @@ verses:
   - Cuán grato es oír decir
   - palabras de amor.
 - number: 5
+  optional: true
   lines:
   - Son joyas de saber y luz,
   - y brillan con primor;

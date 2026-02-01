@@ -46,6 +46,7 @@ verses:
   - Do not its emotions smother,
   - But let wisdom’s voice control.
 - number: 4
+  optional: true
   lines:
   - Rest thyself on this assurance:
   - Time’s a friend to innocence,
@@ -60,6 +61,7 @@ verses:
   - Do not its emotions smother,
   - But let wisdom’s voice control.
 - number: 5
+  optional: true
   lines:
   - Hearts so sensitively molded
   - Strongly fortified should be,

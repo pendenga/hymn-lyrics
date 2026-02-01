@@ -28,24 +28,28 @@ verses:
   - His watchword at the gates of death;
   - He enters heav’n with prayer.
 - number: 5
+  optional: true
   lines:
   - Prayer is the contrite sinner’s voice,
   - Returning from his ways,
   - While angels in their songs rejoice
   - And cry, “Behold, he prays!”
 - number: 6
+  optional: true
   lines:
   - The Saints in prayer appear as one
   - In word and deed and mind,
   - While with the Father and the Son
   - Their fellowship they find.
 - number: 7
+  optional: true
   lines:
   - Nor prayer is made on earth alone:
   - The Holy Spirit pleads,
   - And Jesus at the Father’s throne
   - For sinners intercedes.
 - number: 8
+  optional: true
   lines:
   - O thou by whom we come to God,
   - The Life, the Truth, the Way!

@@ -34,6 +34,7 @@ verses:
   - Nearer, my God, to thee,
   - Nearer to thee!
 - number: 4
+  optional: true
   lines:
   - Then with my waking thoughts
   - Bright with thy praise,
@@ -44,6 +45,7 @@ verses:
   - Nearer, my God, to thee,
   - Nearer to thee!
 - number: 5
+  optional: true
   lines:
   - Or if, on joyful wing
   - Cleaving the sky,

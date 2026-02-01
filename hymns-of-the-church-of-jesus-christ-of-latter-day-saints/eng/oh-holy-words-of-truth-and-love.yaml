@@ -34,6 +34,7 @@ verses:
   - How sweet, how dear the words we hear!
   - They’re beautiful words of love.
 - number: 4
+  optional: true
   lines:
   - And from each chosen one that speaks
   - By aid the Spirit gives,
@@ -44,6 +45,7 @@ verses:
   - How sweet, how dear the words we hear!
   - They’re beautiful words of love.
 - number: 5
+  optional: true
   lines:
   - As gems of wisdom, pure and bright,
   - That glow with lustrous ray,

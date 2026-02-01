@@ -22,12 +22,14 @@ verses:
   - Salvation purchased on that tree
   - For all who seek thy face.
 - number: 4
+  optional: true
   lines:
   - As brethren, let us ever live
   - In fellowship and peace!
   - Forgive, that God may us forgive,
   - That love may still increase.
 - number: 5
+  optional: true
   lines:
   - May union, peace, and love abound,
   - And perfect harmony,

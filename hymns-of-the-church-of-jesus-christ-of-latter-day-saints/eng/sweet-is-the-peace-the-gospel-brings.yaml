@@ -22,24 +22,28 @@ verses:
   - The gloomy clouds, which used to low’r,
   - Submit to reason’s sway.
 - number: 4
+  optional: true
   lines:
   - May we who know the sacred Name
   - From every sin depart.
   - Then will the Spirit’s constant flame
   - Preserve us pure in heart.
 - number: 5
+  optional: true
   lines:
   - Ere long the tempter’s power will cease,
   - And sin no more annoy,
   - No wrangling sects disturb our peace,
   - Or mar our heartfelt joy.
 - number: 6
+  optional: true
   lines:
   - That which we have in part received
   - Will be in part no more,
   - For he in whom we all believe
   - To us will all restore.
 - number: 7
+  optional: true
   lines:
   - In patience, then, let us possess
   - Our souls till he appear.

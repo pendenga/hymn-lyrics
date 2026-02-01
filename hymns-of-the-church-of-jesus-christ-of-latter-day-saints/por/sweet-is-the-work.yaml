@@ -28,12 +28,14 @@ verses:
   - E tua face eu verei
   - Na glória eterna a refulgir.
 - number: 5
+  optional: true
   lines:
   - Quero habitar meu lar no céu
   - E alcançar exaltação;
   - Sempre, Senhor, serei fiel
   - Hei de vencer a tentação!
 - number: 6
+  optional: true
   lines:
   - Irei ouvir, saber e amar
   - Tudo o que neste mundo quis

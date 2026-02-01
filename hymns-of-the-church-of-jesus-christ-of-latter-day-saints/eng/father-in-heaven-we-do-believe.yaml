@@ -28,12 +28,14 @@ verses:
   - Let us receive thru covenant
   - The Spirit’s heav’nly flame.
 - number: 5
+  optional: true
   lines:
   - We will be buried in the stream
   - In Jesus’ blessed name,
   - And rise, while light shall on us beam
   - The Spirit’s heav’nly flame.
 - number: 6
+  optional: true
   lines:
   - Baptize us with the Holy Ghost
   - And seal us as thine own,

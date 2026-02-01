@@ -22,12 +22,14 @@ verses:
   - la salvación a todos los
   - que buscan ver tu faz.
 - number: 4
+  optional: true
   lines:
   - Vivamos cual hermanos, pues,
   - en hermandad y paz,
   - y perdonemos con amor
   - a todos los demás.
 - number: 5
+  optional: true
   lines:
   - Que paz abunde con amor,
   - unión y hermandad;

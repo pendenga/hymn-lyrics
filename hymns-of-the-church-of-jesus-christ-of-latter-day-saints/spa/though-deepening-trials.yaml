@@ -25,6 +25,7 @@ verses:
   - por más que reine el error,
   - por más que reine el error.
 - number: 4
+  optional: true
   lines:
   - Aunque haya gran persecución
   - y os despojen con furor,
@@ -32,6 +33,7 @@ verses:
   - todo Su plan se cumplirá.
   - Todo Su plan se cumplirá.
 - number: 5
+  optional: true
   lines:
   - La obra se extenderá;
   - el evangelio avanzará.
@@ -39,6 +41,7 @@ verses:
   - y todo el mundo llenará;
   - y todo el mundo llenará.
 - number: 6
+  optional: true
   lines:
   - Aunque se oponga Satanás,
   - las profecías de ayer
@@ -46,6 +49,7 @@ verses:
   - su cumplimiento se ha de ver.
   - Su cumplimiento se ha de ver
 - number: 7
+  optional: true
   lines:
   - Glorias alzad a nuestro Dios;
   - El a Sus siervos manda ya

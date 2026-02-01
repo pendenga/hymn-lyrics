@@ -34,6 +34,7 @@ verses:
   - Dipped and returned it running o’er;
   - I drank and never thirsted more.
 - number: 4
+  optional: true
   lines:
   - ’Twas night; the floods were out; it blew
   - A winter hurricane aloof.
@@ -44,6 +45,7 @@ verses:
   - Then made the earth my bed and seemed
   - In Eden’s garden while I dreamed.
 - number: 5
+  optional: true
   lines:
   - Stript, wounded, beaten nigh to death,
   - I found him by the highway side.
@@ -54,6 +56,7 @@ verses:
   - But from that hour forgot the smart,
   - And peace bound up my broken heart.
 - number: 6
+  optional: true
   lines:
   - In pris’n I saw him next, condemned
   - To meet a traitor’s doom at morn.
@@ -64,6 +67,7 @@ verses:
   - The flesh was weak; my blood ran chill,
   - But my free spirit cried, “I will!”
 - number: 7
+  optional: true
   lines:
   - Then in a moment to my view
   - The stranger started from disguise.

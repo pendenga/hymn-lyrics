@@ -32,6 +32,7 @@ verses:
   - Cumprida minha obra aqui,
   - Entrego o espírito a ti.”
 - number: 5
+  optional: true
   lines:
   - Após a morte de Jesus
   - O sol não deu a sua luz
@@ -39,6 +40,7 @@ verses:
   - A natureza então gemeu:
   - “Ele era o Filho, sim, de Deus.”
 - number: 6
+  optional: true
   lines:
   - Que ele vive, hoje, eu sei
   - E estes emblemas tomarei

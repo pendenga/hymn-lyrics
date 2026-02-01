@@ -34,6 +34,7 @@ verses:
   - There is no end to spirit;
   - There is no end to race.
 - number: 4
+  optional: true
   lines:
   - There is no end to virtue;
   - There is no end to might;
@@ -44,6 +45,7 @@ verses:
   - There is no end to priesthood;
   - There is no end to truth.
 - number: 5
+  optional: true
   lines:
   - There is no end to glory;
   - There is no end to love;

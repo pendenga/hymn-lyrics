@@ -28,12 +28,14 @@ verses:
   - À Vida Eterna, onde Deus,
   - Habita em plena luz.
 - number: 5
+  optional: true
   lines:
   - Lembrando o corpo do Senhor,
   - Partimos hoje o pão,
   - Da taça vamos partilhar,
   - Com fé na redenção.
 - number: 6
+  optional: true
   lines:
   - Que glorioso, celestial,
   - O plano do Senhor:

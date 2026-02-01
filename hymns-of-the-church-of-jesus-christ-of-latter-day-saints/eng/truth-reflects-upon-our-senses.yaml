@@ -46,6 +46,7 @@ verses:
   - Where the angels wait to join us
   - In thy praise forevermore.
 - number: 4
+  optional: true
   lines:
   - If I love my brother dearer,
   - And his mote I would erase,
@@ -60,6 +61,7 @@ verses:
   - Where the angels wait to join us
   - In thy praise forevermore.
 - number: 5
+  optional: true
   lines:
   - Charity and love are healing;
   - These will give the clearest sight;

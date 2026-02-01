@@ -22,12 +22,14 @@ verses:
   - No sacrifício que rendeu
   - A salvação nos concedeu.
 - number: 4
+  optional: true
   lines:
   - Agora ele quer de mim
   - Perseverança até o fim
   - Que seja reto meu viver
   - Que aprenda a lhe obedecer.
 - number: 5
+  optional: true
   lines:
   - Do sacramento ao partilhar
   - Seu sacrifício vou lembrar
