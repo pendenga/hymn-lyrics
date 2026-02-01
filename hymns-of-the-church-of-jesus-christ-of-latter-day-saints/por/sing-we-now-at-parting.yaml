@@ -1,0 +1,42 @@
+---
+number: 89
+title: Ao Partir Cantemos
+marking: Reverente
+verses:
+- number: 1
+  lines:
+  - Ao partir cantemos
+  - Hinos de louvor
+  - Ao Divino Mestre,
+  - Por seu grande amor
+  - Por seus gratos dotes
+  - E cuidados seus
+  - Subam nossos hinos
+  - Sempre, sempre a Deus.
+- number: 2
+  lines:
+  - Pela esperança
+  - No final perdão,
+  - Juntos entoamos
+  - Nossa gratidão
+  - Cânticos alegres,
+  - Cheios de fervor,
+  - Ao Senhor elevam
+  - Nosso grande amor.
+- number: 3
+  lines:
+  - Hoje aqui cantemos
+  - Hinos ao Senhor,
+  - A Jesus trazendo
+  - Nossa fé e ardor.
+  - Salva-nos ó Cristo
+  - Para te servir;
+  - Dá-nos teu auxílio
+  - Para te seguir.
+credits:
+  text: George Manwaring, 1854–1889
+  music: Ebenezer Beesley, 1840–1906
+meta:
+  slug: sing-we-now-at-parting
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/sing-we-now-at-parting?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/sing-we-now-at-parting.yaml

@@ -1,0 +1,27 @@
+---
+number: 132
+title: La primera Navidad
+marking: Con suavidad
+verses:
+- number: 1
+  lines:
+  - La primera Navidad un coro se oyó;
+  - a humildes pastores el cielo cantó,
+  - y un ángel les habló, rodeado de luz,
+  - anunciando la Natividad de Jesús.
+  - Noel, Noel, Noel, Noel.
+  - Hoy ha nacido el Rey de Israel.
+- number: 2
+  lines:
+  - La estrella de Belén a los magos guió;
+  - en la noche silente en Judea brilló.
+  - El pesebre encontraron siguiendo la luz
+  - y le dieron presentes al niño Jesús.
+  - Noel, Noel, Noel, Noel.
+  - Hoy ha nacido el Rey de Israel.
+credits:
+  text and music: Villancico tradicional inglés de siglo XVII.
+meta:
+  slug: the-first-noel
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/the-first-noel?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/the-first-noel.yaml

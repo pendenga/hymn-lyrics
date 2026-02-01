@@ -1,0 +1,53 @@
+---
+number: 12
+title: Que Manhã Maravilhosa!
+marking: Com dignidade
+verses:
+- number: 1
+  lines:
+  - Que manhã maravilhosa!
+  - Brilha o sol no céu de anil
+  - Que canção gentil, maviosa,
+  - Das abelhas e aves mil!
+  - Lá no bosque, fervoroso,
+  - José ora ao Pai de amor;
+  - Lá no bosque, fervoroso,
+  - José ora ao Pai de amor!
+- number: 2
+  lines:
+  - E humilde, ajoelhado,
+  - Graças ao Senhor pediu
+  - Quando a força do pecado
+  - Sua alma confundiu.
+  - Ele sabe que o Eterno
+  - Guiará os passos seus;
+  - Ele sabe que o Eterno
+  - Guiará os passos seus!
+- number: 3
+  lines:
+  - E no céu vê refulgente,
+  - Mais brilhante que o sol,
+  - O poder do Onipotente,
+  - Com fulgores do arrebol.
+  - Eis que descem do infinito
+  - Deus, o Pai, e o Filho seu;
+  - Eis que descem do infinito
+  - Deus, o Pai, e o Filho seu!
+- number: 4
+  lines:
+  - “Eis meu Filho Bem Amado.
+  - Ouve-o”, diz a voz de amor,
+  - E assim arrebatado
+  - Na presença do Senhor
+  - Doce enlevo lhe enche a alma
+  - Porque viu o eterno Deus
+  - Doce enlevo lhe enche a alma
+  - Porque viu o eterno Deus!
+credits:
+  text: George Manwaring, 1854–1889
+  music: Sylvanus Billings Pond, 1792–1871;
+  rights: adaptada por A.C. Smyth, 1840–1909
+meta:
+  slug: joseph-smiths-first-prayer
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/joseph-smiths-first-prayer?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/joseph-smiths-first-prayer.yaml

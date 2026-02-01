@@ -1,0 +1,33 @@
+---
+number: 37
+title: O Senhor Meu Pastor É
+marking: Sereno
+verses:
+- number: 1
+  lines:
+  - O Senhor meu Pastor é não me faltará!
+  - Em verdes pastagens descanso me dá;
+  - Por águas tranquilas me conduzirá
+  - Se ando errante, me resgatará;
+  - Se ando errante, me resgatará!
+- number: 2
+  lines:
+  - E enquanto no vale da morte eu andar,
+  - Terei o teu braço a me amparar!
+  - A tua verdade conforto me traz,
+  - O mal não me fere, nem medo me faz;
+  - O mal não me fere, nem medo me faz!
+- number: 3
+  lines:
+  - Minha mesa preparas, não há aflição;
+  - Tu unges minh’alma e meu coração!
+  - Meu ser todo exulta, tão cheio de paz,
+  - Por todas as bênçãos que hoje me dás;
+  - Por todas as bênçãos que hoje me dás!
+credits:
+  text: James Montgomery, 1771–1854; baseado no Salmo 23
+  music: Thomas Koschat, 1845–1914
+meta:
+  slug: the-lord-is-my-shepherd
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-shepherd?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/the-lord-is-my-shepherd.yaml

@@ -1,0 +1,33 @@
+---
+number: 93
+title: Prayer of Thanksgiving
+marking: Joyfully
+verses:
+- number: 1
+  lines:
+  - We gather together to ask the Lord’s blessing;
+  - He chastens, and hastens his will to make known;
+  - The wicked oppressing now cease from distressing.
+  - Sing praises to his name;
+  - He forgets not his own.
+- number: 2
+  lines:
+  - Beside us to guide us, our God with us joining,
+  - Ordaining, maintaining his kingdom divine;
+  - So from the beginning the fight we were winning;
+  - Thou, Lord, wast at our side;
+  - All glory be thine!
+- number: 3
+  lines:
+  - We all do extol thee, thou leader triumphant,
+  - And pray that thou still our defender wilt be.
+  - Let thy congregation escape tribulation;
+  - Thy name be ever praised!
+  - O Lord, make us free!
+credits:
+  text: Anon., The Netherlands, ca. 1626; trans. by Theodore Baker, 1851–1934
+  music: Anon., The Netherlands, ca. 1625; arr. by Edward Kremser, 1838–1914
+meta:
+  slug: prayer-of-thanksgiving
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/prayer-of-thanksgiving?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/prayer-of-thanksgiving.yaml

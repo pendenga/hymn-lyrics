@@ -1,0 +1,36 @@
+---
+number: 204
+title: Silent Night
+marking: Peacefully
+verses:
+- number: 1
+  lines:
+  - Silent night! Holy night!
+  - All is calm, all is bright
+  - Round yon virgin mother and Child.
+  - Holy Infant, so tender and mild,
+  - Sleep in heavenly peace;
+  - Sleep in heavenly peace.
+- number: 2
+  lines:
+  - Silent night! Holy night!
+  - Shepherds quake at the sight!
+  - Glories stream from heaven afar;
+  - Heav’nly hosts sing Alleluia!
+  - Christ, the Savior, is born!
+  - Christ, the Savior, is born!
+- number: 3
+  lines:
+  - Silent night! Holy night!
+  - Son of God, love’s pure light
+  - Radiant beams from thy holy face,
+  - With the dawn of redeeming grace,
+  - Jesus, Lord, at thy birth;
+  - Jesus, Lord, at thy birth.
+credits:
+  text: Joseph Mohr, 1792–1848; trans. by John F. Young, 1820–1885
+  music: Franz Gruber, 1787–1863
+meta:
+  slug: silent-night
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/silent-night?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/silent-night.yaml

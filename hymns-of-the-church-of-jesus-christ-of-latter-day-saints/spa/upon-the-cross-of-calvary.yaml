@@ -1,0 +1,30 @@
+---
+number: 111
+title: En el Calvario, en la cruz
+marking: Con solemnidad
+verses:
+- number: 1
+  lines:
+  - En el Calvario, en la cruz,
+  - murió el Salvador,
+  - mas con Su sangre nos salvó
+  - de muerte y dolor.
+- number: 2
+  lines:
+  - En una cruz Jesús sufrió
+  - por la humanidad;
+  - la muerte ya la puerta es
+  - a la eternidad.
+- number: 3
+  lines:
+  - En una cruz el Salvador
+  - murió, mas vida dio
+  - a todo hombre con el don
+  - de la resurrección.
+credits:
+  text: Vilate Raile, 1890–1954. © 1948 IRI
+  music: Leroy J. Robertson, 1896–1971. © 1948 IRI
+meta:
+  slug: upon-the-cross-of-calvary
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/upon-the-cross-of-calvary?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/upon-the-cross-of-calvary.yaml

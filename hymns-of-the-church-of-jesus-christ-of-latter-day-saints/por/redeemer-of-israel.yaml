@@ -1,0 +1,48 @@
+---
+number: 50
+title: Cantando Louvamos
+marking: Confiante
+verses:
+- number: 1
+  lines:
+  - Cantando louvamos ao Mestre Jesus,
+  - A ti nosso bom Redentor.
+  - De dia és nuvem, de noite és luz;
+  - Do mundo o Rei e Senhor!
+- number: 2
+  lines:
+  - Sabei que ele vem reunir sua grei,
+  - A qual guiará pela mão.
+  - Do vale da morte ao trono do Rei,
+  - Que mora na bela mansão!
+- number: 3
+  lines:
+  - Vagando errantes no mal a andar,
+  - Pedimos-te amparo fiel;
+  - Os maus se alegram com nosso pesar,
+  - Mas livre será, Israel.
+- number: 4
+  lines:
+  - Clamai com ventura, remidos do Pai,
+  - Os grandes sinais já virão;
+  - E firmes por suas veredas trilhai,
+  - Até a final redenção.
+- number: 5
+  lines:
+  - Revela, Senhor, Teu semblante de luz;
+  - Concede-nos paz ao coração!
+  - Nas tuas veredas Teus santos conduz
+  - À tua eterna mansão.
+- number: 6
+  lines:
+  - Miríades de anjos A rejubilar
+  - Entoam excelso louvor.
+  - Juntemos ao deles O nosso cantar
+  - Louvando ao Rei e Senhor.
+credits:
+  text: William W. Phelps, 1792–1872; adaptado de Joseph Swain, 1761–1796
+  music: Freeman Lewis, 1780–1859
+meta:
+  slug: redeemer-of-israel
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/redeemer-of-israel?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/redeemer-of-israel.yaml

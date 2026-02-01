@@ -1,0 +1,62 @@
+---
+number: 100
+title: Nearer My God to Thee
+marking: Gently
+verses:
+- number: 1
+  lines:
+  - Nearer, my God, to thee,
+  - Nearer to thee!
+  - E’en though it be a cross
+  - That raiseth me.
+  - Still all my song shall be
+  - Nearer, my God, to thee,
+  - Nearer, my God, to thee,
+  - Nearer to thee!
+- number: 2
+  lines:
+  - Though like the wanderer,
+  - The sun gone down,
+  - Darkness be over me,
+  - My rest a stone,
+  - Yet in my dreams I’d be
+  - Nearer, my God, to thee,
+  - Nearer, my God, to thee,
+  - Nearer to thee!
+- number: 3
+  lines:
+  - There let the way appear,
+  - Steps unto heav’n;
+  - All that thou sendest me,
+  - In mercy giv’n;
+  - Angels to beckon me
+  - Nearer, my God, to thee,
+  - Nearer, my God, to thee,
+  - Nearer to thee!
+- number: 4
+  lines:
+  - Then with my waking thoughts
+  - Bright with thy praise,
+  - Out of my stony griefs
+  - Bethel I’ll raise;
+  - So by my woes to be
+  - Nearer, my God, to thee,
+  - Nearer, my God, to thee,
+  - Nearer to thee!
+- number: 5
+  lines:
+  - Or if, on joyful wing
+  - Cleaving the sky,
+  - Sun, moon, and stars forgot,
+  - Upward I fly,
+  - Still all my song shall be
+  - Nearer, my God, to thee,
+  - Nearer, my God, to thee,
+  - Nearer to thee!
+credits:
+  text: Sarah F. Adams, 1805–1848
+  music: Lowell Mason, 1792–1872
+meta:
+  slug: nearer-my-god-to-thee
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/nearer-my-god-to-thee?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/nearer-my-god-to-thee.yaml

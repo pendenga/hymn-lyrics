@@ -1,0 +1,36 @@
+---
+number: 36
+title: Deus É Amor
+marking: Suave
+verses:
+- number: 1
+  lines:
+  - Deste mundo as flores mil
+  - E a vastidão do mar,
+  - O infinito céu de anil
+  - E da chuva o gotejar—
+  - Tudo o que tem luz e cor
+  - Faz lembrar que Deus é amor
+- number: 2
+  lines:
+  - Em viçosos roseirais,
+  - Nos canteiros do jardim,
+  - Nos telhados e beirais,
+  - Cantam hinos para mim
+  - Lindas aves de primor,
+  - Bendizendo ao Deus de amor.
+- number: 3
+  lines:
+  - A esperança que sustém
+  - E aquece o coração
+  - É mensagem do além,
+  - Gloriosa sensação,
+  - Que nos faz cantar louvor,
+  - Proclamando: “Oh! Deus é amor!”
+credits:
+  text: Thomas R. Taylor, 1807–1835, alt
+  music: Thomas C. Griggs, 1845–1930
+meta:
+  slug: god-is-love
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/god-is-love?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/god-is-love.yaml

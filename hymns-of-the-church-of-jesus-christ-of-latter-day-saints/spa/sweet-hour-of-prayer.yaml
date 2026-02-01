@@ -1,0 +1,48 @@
+---
+number: 78
+title: Oh dulce, grata oración
+marking: Con serenidad
+verses:
+- number: 1
+  lines:
+  - Oh dulce, grata oración,
+  - que calmas toda aflicción,
+  - al Padre puedes acudir
+  - y ante Él, por mí pedir.
+  - En las tristezas y pesar
+  - mi alma pudo descansar,
+  - y se libró de tentación
+  - en dulce, grata oración;
+  - y se libró de tentación
+  - en dulce, grata oración.
+- number: 2
+  lines:
+  - Oh dulce, grata oración,
+  - tú llevarás mi petición.
+  - Al Rey eterno llegarás;
+  - Sus bendiciones pedirás.
+  - Al invitarme mi Señor
+  - a fiar en Él y Su amor,
+  - le abriré mi corazón
+  - en dulce, grata oración;
+  - le abriré mi corazón
+  - en dulce, grata oración.
+- number: 3
+  lines:
+  - Oh dulce, grata oración,
+  - anhelo tu consolación;
+  - al ver la muerte acercar,
+  - el miedo puedes alejar.
+  - Cuando la vida deje ya,
+  - iré al Padre Celestial,
+  - buscando a Sus pies perdón
+  - en dulce grata oración,
+  - buscando a Sus pies perdón
+  - en dulce grata oración.
+credits:
+  text: Atribuida a William W. Walford, 1772–1850.
+  music: William B. Bradbury, 1816–1868.
+meta:
+  slug: sweet-hour-of-prayer
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/sweet-hour-of-prayer?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/sweet-hour-of-prayer.yaml

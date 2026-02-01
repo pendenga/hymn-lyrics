@@ -1,0 +1,36 @@
+---
+number: 121
+title: Im a Pilgrim Im a Stranger
+marking: Thoughtfully
+verses:
+- number: 1
+  lines:
+  - I’m a pilgrim, I’m a stranger
+  - Cast upon the rocky shore
+  - Of a land where deathly danger
+  - Surges with a sullen roar,
+  - Oft despairing, oft despairing,
+  - Lest I reach my home no more.
+- number: 2
+  lines:
+  - Misty vapors rise before me.
+  - Scarcely can I see the way.
+  - Clouds of darkest hue hang o’er me,
+  - And I’m apt to go astray
+  - With the many, with the many
+  - That are now the vulture’s prey.
+- number: 3
+  lines:
+  - O my Father, I entreat thee,
+  - Let me see thy beck’ning hand;
+  - And when straying, may I meet thee
+  - Ere I join the silent band.
+  - Guide me, Father, guide me, Father,
+  - Safely to the promised land.
+credits:
+  text: Hans Henry Petersen, 1835–1909
+  music: Leroy J. Robertson, 1896–1971
+meta:
+  slug: im-a-pilgrim-im-a-stranger
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/im-a-pilgrim-im-a-stranger?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/im-a-pilgrim-im-a-stranger.yaml

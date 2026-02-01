@@ -1,0 +1,42 @@
+---
+number: 214
+title: I Heard the Bells on Christmas Day
+marking: Thoughtfully
+verses:
+- number: 1
+  lines:
+  - I heard the bells on Christmas day
+  - Their old familiar carols play,
+  - And wild and sweet the words repeat
+  - Of peace on earth, good will to men.
+- number: 2
+  lines:
+  - I thought how, as the day had come,
+  - The belfries of all Christendom
+  - Had rolled along th’unbroken song
+  - Of peace on earth, good will to men.
+- number: 3
+  lines:
+  - And in despair I bowed my head:
+  - “There is no peace on earth,” I said,
+  - “For hate is strong and mocks the song
+  - Of peace on earth, good will to men.”
+- number: 4
+  lines:
+  - Then pealed the bells more loud and deep:
+  - “God is not dead, nor doth he sleep;
+  - The wrong shall fail, the right prevail,
+  - With peace on earth, good will to men.”
+- number: 5
+  lines:
+  - Till, ringing, singing, on its way,
+  - The world revolved from night to day,
+  - A voice, a chime, a chant sublime,
+  - Of peace on earth, good will to men!
+credits:
+  text: Henry Wadsworth Longfellow, 1807–1882
+  music: John Baptiste Calkin, 1827–1905
+meta:
+  slug: i-heard-the-bells-on-christmas-day
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/i-heard-the-bells-on-christmas-day?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/i-heard-the-bells-on-christmas-day.yaml

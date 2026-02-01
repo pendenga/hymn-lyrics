@@ -1,0 +1,42 @@
+---
+number: 207
+title: It Came upon the Midnight Clear
+marking: Brightly
+verses:
+- number: 1
+  lines:
+  - It came upon the midnight clear,
+  - That glorious song of old,
+  - From angels bending near the earth
+  - To touch their harps of gold:
+  - “Peace on the earth, good will to men
+  - From heav’n’s all-gracious King.”
+  - The world in solemn stillness lay
+  - To hear the angels sing.
+- number: 2
+  lines:
+  - Still thru the cloven skies they come
+  - With peaceful wings unfurled,
+  - And still their heav’nly music floats
+  - O’er all the weary world.
+  - Above its sad and lowly plains
+  - They bend on hov’ring wing,
+  - And ever o’er its babel sounds
+  - The blessed angels sing.
+- number: 3
+  lines:
+  - For lo! the days are hast’ning on,
+  - By prophets seen of old,
+  - When with the ever-circling years
+  - Shall come the time foretold,
+  - When the new heav’n and earth shall own
+  - The Prince of Peace their King,
+  - And the whole world send back the song
+  - Which now the angels sing.
+credits:
+  text: Edmund H. Sears, 1810–1876
+  music: Richard S. Willis, 1819–1900
+meta:
+  slug: it-came-upon-the-midnight-clear
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/it-came-upon-the-midnight-clear?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/it-came-upon-the-midnight-clear.yaml

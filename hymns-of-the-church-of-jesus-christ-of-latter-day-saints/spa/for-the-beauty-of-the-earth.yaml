@@ -1,0 +1,36 @@
+---
+number: 43
+title: Por la belleza terrenal
+marking: Con alegría
+verses:
+- number: 1
+  lines:
+  - Por la belleza terrenal,
+  - por el cielo y su fulgor;
+  - por la protección del mal
+  - que nos das con tanto amor,
+  - gratitud y gran loor
+  - te rendimos, oh Señor.
+- number: 2
+  lines:
+  - Por la noche y su paz,
+  - por el día y su primor,
+  - por el orbe celestial,
+  - por el árbol y la flor,
+  - gratitud y gran loor
+  - te rendimos, oh Señor.
+- number: 3
+  lines:
+  - Por los lazos del amor
+  - que en familia y amistad
+  - nos acercan hoy aquí
+  - y a los que partieron ya,
+  - gratitud y gran loor
+  - te rendimos, oh Señor.
+credits:
+  text: Folliott S. Pierpoint, 1835–1917. Traducción de la tercera estrofa, F. J. Pagura, © 1962, Methopress Ltd. Usado con permiso de Asociación Ediciones La Aurora, Buenos Aires, Argentina.
+  music: Conrad Kocher, 1786–1872.
+meta:
+  slug: for-the-beauty-of-the-earth
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/for-the-beauty-of-the-earth.yaml

@@ -1,0 +1,42 @@
+---
+number: 122
+title: Erguei-vos Cantando
+marking: Majestoso
+verses:
+- number: 1
+  lines:
+  - Erguei-vos cantando,
+  - Cheios de triunfo,
+  - E vinde, ó vinde todos para Belém;
+  - Hoje é nascido
+  - O Senhor dos anjos.
+  - Ó vinde, adoremos;
+  - Ó vinde, adoremos;
+  - Ó vinde, adoremos a Cristo Jesus.
+- number: 2
+  lines:
+  - Cantai-lhe louvores,
+  - Em celestes coros,
+  - Ressoe na terra o grande clamor.
+  - Glória cantemos
+  - Ao Deus Eterno.
+  - Ó vinde, adoremos;
+  - Ó vinde, adoremos;
+  - Ó vinde, adoremos a Cristo Jesus.
+- number: 3
+  lines:
+  - Senhor, jubilosos,
+  - Teu natal cantamos;
+  - Ó Cristo a ti será a glória sem fim.
+  - Verbo divino,
+  - De Deus ungido.
+  - Ó vinde, adoremos;
+  - Ó vinde, adoremos;
+  - Ó vinde, adoremos a Cristo Jesus.
+credits:
+  text: Atr. a John F. Wade, aprox. 1711–1786
+  music: Atr. a John F. Wade
+meta:
+  slug: oh-come-all-ye-faithful
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/oh-come-all-ye-faithful?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/oh-come-all-ye-faithful.yaml

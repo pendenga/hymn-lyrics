@@ -1,0 +1,36 @@
+---
+number: 333
+title: High on the Mountain Top Mens Choir
+marking: Resolutely
+verses:
+- number: 1
+  lines:
+  - High on the mountain top, a banner is unfurled.
+  - Ye nations, now look up; It waves to all the world.
+  - In Deseret’s sweet, peaceful land,
+  - On Zion’s mount behold it stand!
+- number: 2
+  lines:
+  - For God remembers still, his promise made of old
+  - That he on Zion’s hill, truth’s standard would unfold!
+  - Her light should there attract the gaze
+  - Of all the world in latter days.
+- number: 3
+  lines:
+  - His house shall there be reared, his glory to display,
+  - And people shall be heard in distant lands to say:
+  - We’ll now go up and serve the Lord,
+  - Obey his truth and learn his word.
+- number: 4
+  lines:
+  - For there we shall be taught, the law that will go forth,
+  - With truth and wisdom fraught, to govern all the earth.
+  - Forever there his ways we’ll tread,
+  - And save ourselves with all our dead.
+credits:
+  text: Joel H. Johnson, 1802–1882
+  music: Ebenezer Beesley, 1840–1906
+meta:
+  slug: high-on-the-mountain-top-mens-choir
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/high-on-the-mountain-top-mens-choir?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/high-on-the-mountain-top-mens-choir.yaml

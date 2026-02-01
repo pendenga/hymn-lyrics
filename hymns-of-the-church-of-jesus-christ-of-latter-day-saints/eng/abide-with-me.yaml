@@ -1,0 +1,30 @@
+---
+number: 166
+title: Abide with Me
+marking: Reverently
+verses:
+- number: 1
+  lines:
+  - Abide with me! fast falls the eventide;
+  - The darkness deepens. Lord, with me abide!
+  - When other helpers fail and comforts flee,
+  - Help of the helpless, oh, abide with me!
+- number: 2
+  lines:
+  - Swift to its close ebbs out life’s little day.
+  - Earth’s joys grow dim; its glories pass away.
+  - Change and decay in all around I see;
+  - O thou who changest not, abide with me!
+- number: 3
+  lines:
+  - I need thy presence ev’ry passing hour.
+  - What but thy grace can foil the tempter’s pow’r?
+  - Who, like thyself, my guide and stay can be?
+  - Thru cloud and sunshine, Lord, abide with me!
+credits:
+  text: Henry F. Lyte, 1793–1847
+  music: William H. Monk, 1823–1889
+meta:
+  slug: abide-with-me
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/abide-with-me?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/abide-with-me.yaml

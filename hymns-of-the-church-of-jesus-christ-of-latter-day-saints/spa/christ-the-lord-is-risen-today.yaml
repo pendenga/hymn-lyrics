@@ -1,0 +1,30 @@
+---
+number: 122
+title: Cristo ha resucitado
+marking: Con júbilo
+verses:
+- number: 1
+  lines:
+  - Cristo ha resucitado; ¡Aleluya!
+  - Hoy gozoso oíd el canto: ¡Aleluya!
+  - Con trompetas proclamad: ¡Aleluya!
+  - Cielo y tierra entonad: ¡Aleluya!
+- number: 2
+  lines:
+  - Nuestro Rey hoy tiene vida; ¡Aleluya!
+  - y la muerte fue vencida; ¡Aleluya!
+  - Él murió para salvar, ¡Aleluya!
+  - y la tumba conquistar; ¡Aleluya!
+- number: 3
+  lines:
+  - Su amor lo ha logrado; ¡Aleluya!
+  - Redención Él nos ha dado; ¡Aleluya!
+  - Su agonía terminó; ¡Aleluya!
+  - En fulgor se levantó; ¡Aleluya!
+credits:
+  text: Charles Wesley, 1707–1788.
+  music: Compositor anónimo; se publicó en Lyra Davídica, 1708.
+meta:
+  slug: christ-the-lord-is-risen-today
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/christ-the-lord-is-risen-today?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/christ-the-lord-is-risen-today.yaml

@@ -1,0 +1,30 @@
+---
+number: 128
+title: Na Bela Noite Se Ouviu
+marking: Brilhante
+verses:
+- number: 1
+  lines:
+  - Na bela noite se ouviu dos anjos a canção,
+  - Ao mundo proclamando boas novas, em união.
+  - Envolve a terra doce paz do reino celestial;
+  - Nas trevas de Belém brilhou o singular sinal.
+- number: 2
+  lines:
+  - O Cristo prometido veio aos homens resgatar
+  - E neste mundo se ouviu hosanas a soar.
+  - Na noite calma do Natal feliz canção nasceu
+  - E nova esperança e paz a terra recebeu!
+- number: 3
+  lines:
+  - Predito por profetas foi o tempo do Senhor
+  - Em que no mundo reinará de Deus o dom de amor!
+  - Então aqui virá reinar Jesus, o Rei da paz,
+  - E fruiremos outra vez, seu dom que satisfaz.
+credits:
+  text: Edmund H. Sears, 1810–1876
+  music: Richard S. Willis, 1819–1900
+meta:
+  slug: it-came-upon-the-midnight-clear
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/it-came-upon-the-midnight-clear?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/it-came-upon-the-midnight-clear.yaml

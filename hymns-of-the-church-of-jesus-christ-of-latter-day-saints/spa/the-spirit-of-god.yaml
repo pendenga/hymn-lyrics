@@ -1,0 +1,52 @@
+---
+number: 2
+title: El Espíritu de Dios
+marking: Con júbilo
+verses:
+- number: 1
+  lines:
+  - Tal como un fuego se ve ya ardiendo
+  - el Santo Espíritu del gran Creador.
+  - Visiones y dones antiguos ya vuelven,
+  - y ángeles vienen cantando loor.
+  - Cantemos, gritemos, con huestes del cielo:
+  - ¡Hosanna, hosanna a Dios y Jesús!
+  - A ellos sea dado loor en lo alto,
+  - de hoy para siempre, ¡amén y amén!
+- number: 2
+  lines:
+  - Aumenta el Señor nuestro entendimiento;
+  - tal cual al principio nos da Su poder.
+  - El conocimiento de Dios se extiende;
+  - el velo del mundo se ve descorrer.
+  - Cantemos, gritemos, con huestes del cielo:
+  - ¡Hosanna, hosanna a Dios y Jesús!
+  - A ellos sea dado loor en lo alto,
+  - de hoy para siempre, ¡amén y amén!
+- number: 3
+  lines:
+  - Haremos con fe asambleas solemnes;
+  - el reino de Dios vamos a extender;
+  - y las bendiciones y glorias del cielo
+  - como una herencia podremos tener.
+  - Cantemos, gritemos, con huestes del cielo:
+  - ¡Hosanna, hosanna a Dios y Jesús!
+  - A ellos sea dado loor en lo alto,
+  - de hoy para siempre, ¡amén y amén!
+- number: 4
+  lines:
+  - ¡Qué día dichoso en que los leones
+  - con mansos corderos se acostarán!
+  - En paz Efraín gozará bendiciones,
+  - y Cristo, en gloria, del cielo vendrá.
+  - Cantemos, gritemos, con huestes del cielo:
+  - ¡Hosanna, hosanna a Dios y Jesús!
+  - A ellos sea dado loor en lo alto,
+  - de hoy para siempre, ¡amén y amén!
+credits:
+  text: William W. Phelps, 1792–1872. Se cantó este himno en la dedicación del Templo de Kirtland en 1836.
+  music: Henry Tucker; apr. 1863.
+meta:
+  slug: the-spirit-of-god
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/the-spirit-of-god?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/the-spirit-of-god.yaml

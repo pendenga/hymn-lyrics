@@ -1,0 +1,30 @@
+---
+number: 129
+title: Oh, pueblecito de Belén
+marking: Con serenidad
+verses:
+- number: 1
+  lines:
+  - Oh pueblecito de Belén, cuan quieto tú estás.
+  - Los astros en silencio dan su bella luz en paz.
+  - Mas en tus calles brilla la luz de redención
+  - que da a todo hombre la eterna salvación.
+- number: 2
+  lines:
+  - Nacido el Mesías ha, y en Su derredor,
+  - los santos ángeles de Dios vigilan con amor.
+  - Alábenlo los astros; las nuevas proclamad
+  - que a los hombres dan la paz y buena voluntad.
+- number: 3
+  lines:
+  - Oh, cuán inmenso el amor que nuestro Dios mostró
+  - al enviar un Salvador; Su Hijo nos mandó.
+  - Aunque Su nacimiento pasó sin atención,
+  - aún lo puede recibir el manso corazón.
+credits:
+  text: Phillips Brooks, 1835–1893.
+  music: Lewis H. Redner, 1831–1908.
+meta:
+  slug: o-little-town-of-bethlehem
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/o-little-town-of-bethlehem?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/o-little-town-of-bethlehem.yaml

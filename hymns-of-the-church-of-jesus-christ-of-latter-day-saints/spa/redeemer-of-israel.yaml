@@ -1,0 +1,36 @@
+---
+number: 5
+title: Oh Dios de Israel
+marking: Con ánimo
+verses:
+- number: 1
+  lines:
+  - Oh Dios de Israel, te rendimos loor
+  - a ti, nuestro gran Redentor,
+  - de día la sombra, de noche la luz,
+  - del mundo eres Rey y Señor.
+- number: 2
+  lines:
+  - Sabemos que vienes tu grey a juntar,
+  - la cual has de guiar a Sión.
+  - En valle de muerte no nos dejarás,
+  - ni en la vasta desolación.
+- number: 3
+  lines:
+  - Hemos errado mucho, clamando a ti,
+  - extraños, en yermos del mal.
+  - Los malos se gozan de nuestro pesar,
+  - mas libre Israel quedará.
+- number: 4
+  lines:
+  - Nos regocijamos, oh hijos de Dios;
+  - las señas presentes están.
+  - Seamos valientes y fieles al Rey;
+  - se vislumbra la gran redención.
+credits:
+  text: William W. Phelps, 1792–1872; adaptación de Joseph Swain, 1761–1796.
+  music: Freeman Lewis, 1780–1859.
+meta:
+  slug: redeemer-of-israel
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/redeemer-of-israel?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/redeemer-of-israel.yaml

@@ -1,0 +1,36 @@
+---
+number: 4
+title: Bandera de Sión
+marking: Con resolución
+verses:
+- number: 1
+  lines:
+  - Bandera, alto en el monte, se izó.
+  - Oh pueblo, contemplad; al mundo se alzó.
+  - En monte de Sión está;
+  - en alta cúspide se eleva ya.
+- number: 2
+  lines:
+  - Recuerda Dios aún lo que nos prometió,
+  - de en Sión alzar al mundo un pendón.
+  - Cual estandarte, lucirá;
+  - a todo pueblo él atraerá.
+- number: 3
+  lines:
+  - Su templo El tendrá, Su gloria va a mostrar,
+  - y gente se dirá allende de la mar:
+  - Subamos para a Dios servir,
+  - hacer Su obra y Su verdad oír.
+- number: 4
+  lines:
+  - Allí la ley de Dios se nos enseñará;
+  - es sabia y veraz, y al mundo regirá.
+  - Debemos por Su senda andar,
+  - y paz, verdad y salvación buscar.
+credits:
+  text: Joel H. Johnson, 1802–1882.
+  music: Ebenezer Beesley, 1840–1906.
+meta:
+  slug: high-on-the-mountain-top
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/high-on-the-mountain-top?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/high-on-the-mountain-top.yaml

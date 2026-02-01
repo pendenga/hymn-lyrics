@@ -1,0 +1,36 @@
+---
+number: 71
+title: Testemunho
+marking: Reverente
+verses:
+- number: 1
+  lines:
+  - Um testemunho é dom de Deus
+  - Que vem nos confirmar
+  - A fé que temos no Senhor
+  - E a dúvida afastar.
+- number: 2
+  lines:
+  - Eu sei que vive o Salvador
+  - Que o Pai nos tem amor,
+  - Que um profeta fala a nós
+  - Em nome do Senhor.
+- number: 3
+  lines:
+  - A fé que em meu coração
+  - Um dia germinou
+  - Num testemunho bem real
+  - Agora se tornou.
+- number: 4
+  lines:
+  - Por um momento eu senti
+  - O véu se afastar;
+  - Então o Reino Celestial
+  - Eu pude vislumbrar.
+credits:
+  text: Loren C. Dunn, n. 1930. © 1985 IRI
+  music: Michael Finlinson Moody, n. 1941. © 1985 IRI
+meta:
+  slug: testimony
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/testimony?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/testimony.yaml

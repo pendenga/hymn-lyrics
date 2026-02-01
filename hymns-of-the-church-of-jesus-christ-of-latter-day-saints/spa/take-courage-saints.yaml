@@ -1,0 +1,30 @@
+---
+number: 62
+title: No desmayéis, oh santos
+marking: Con serenidad
+verses:
+- number: 1
+  lines:
+  - No desmayéis, oh santos del Señor,
+  - mas en adversidad mostrad valor.
+  - Brilla el sol tras nubes de pesar;
+  - su luz hará las nubes disipar.
+- number: 2
+  lines:
+  - Antes del sol, la noche reinará,
+  - mas la aurora pronto llegará.
+  - ¿No volverá la flor primaveral
+  - después del raudo frío invernal?
+- number: 3
+  lines:
+  - Animo, pues, cobremos al andar;
+  - en la pasión de Cristo meditad.
+  - Sobre la cruz Su vida ofreció;
+  - la voluntad de Dios glorificó.
+credits:
+  text: J. Crystal.
+  music: Felix Mendelssohn, 1809–1847.
+meta:
+  slug: take-courage-saints
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/take-courage-saints?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/take-courage-saints.yaml

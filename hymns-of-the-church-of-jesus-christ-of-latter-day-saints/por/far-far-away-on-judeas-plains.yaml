@@ -1,0 +1,43 @@
+---
+number: 123
+title: Lá na Judéia, Onde Cristo Nasceu
+marking: Com júbilo
+verses:
+- number: 1
+  lines:
+  - Lá na Judéia, onde Cristo nasceu
+  - Os pastorzinhos ouviram do céu:
+  - Glória a Deus! Glória a Deus!
+  - Glória a Deus nas alturas
+  - E na terra sempre paz—
+  - E na terra sempre paz!
+- number: 2
+  lines:
+  - Cantam os anjos no céu com amor,
+  - Doce mensagem de paz e louvor:
+  - Glória a Deus! Glória a Deus!
+  - Glória a Deus nas alturas
+  - E na terra sempre paz—
+  - E na terra sempre paz!
+- number: 3
+  lines:
+  - Tempo virá quando em todo lugar,
+  - Homens irão reunidos cantar:
+  - Glória a Deus! Glória a Deus!
+  - Glória a Deus nas alturas
+  - E na terra sempre paz—
+  - E na terra sempre paz!
+- number: 4
+  lines:
+  - Nós, com os anjos, a rejubilar,
+  - Hoje, queremos, em coro, cantar:
+  - Glória a Deus! Glória a Deus!
+  - Glória a Deus nas alturas
+  - E na terra sempre paz—
+  - E na terra sempre paz!
+credits:
+  text and music: John Menzies Macfarlane, 1833–1892
+meta:
+  slug: far-far-away-on-judeas-plains
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/far-far-away-on-judeas-plains?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/far-far-away-on-judeas-plains.yaml

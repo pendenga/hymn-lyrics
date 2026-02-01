@@ -1,0 +1,36 @@
+---
+number: 76
+title: Rocha Eterna
+marking: Com fervor religioso
+verses:
+- number: 1
+  lines:
+  - Rocha eterna, foi na cruz
+  - Que morreste, meu Jesus.
+  - Vem de ti virtude tal
+  - Que liberta-nos do mal;
+  - Traz as bênçãos do perdão,
+  - Graça e paz e salvação.
+- number: 2
+  lines:
+  - Nem trabalho, nem penar,
+  - Pode o pecador salvar;
+  - Só tu podes meu Jesus,
+  - Dar-me vida, paz e luz.
+  - Só tu podes perdoar
+  - E os pecados expiar.
+- number: 3
+  lines:
+  - Eis que em morte se desfaz
+  - Esta vida tão fugaz.
+  - Quando ao meu lar subir
+  - E teu rosto em glória vir,
+  - Rocha eterna, que prazer,
+  - Eu terei de em ti viver!
+credits:
+  text: Augustus M. Toplady, 1740–1778
+  music: Thomas Hastings, 1784–1872
+meta:
+  slug: rock-of-ages
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/rock-of-ages?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/rock-of-ages.yaml

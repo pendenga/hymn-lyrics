@@ -1,0 +1,27 @@
+---
+number: 58
+title: Roca de eternidad
+marking: Con devoción
+verses:
+- number: 1
+  lines:
+  - Roca de eternidad, sé mi faro de verdad.
+  - En la sangre que brotó de tu cuerpo que murió,
+  - mis pecados lavaré y pureza buscaré.
+- number: 2
+  lines:
+  - Aunque obrara con piedad y llorase sin cesar,
+  - por mis culpas y maldad no podría yo pagar.
+  - Sólo puedes tú salvar; sólo en ti he de confiar.
+- number: 3
+  lines:
+  - Cuando tenga que morir y a tu morada ir,
+  - tu presencia buscaré; en tu trono te veré.
+  - Roca de eternidad, sé mi faro de verdad.
+credits:
+  text: Augustus M. Toplady. 1740–1778.
+  music: Thomas Hastings, 1784–1872.
+meta:
+  slug: rock-of-ages
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/rock-of-ages?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/rock-of-ages.yaml

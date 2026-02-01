@@ -1,0 +1,36 @@
+---
+number: 60
+title: Brilha, Meiga Luz
+marking: Meditativo
+verses:
+- number: 1
+  lines:
+  - Na escuridão, oh, brilha, meiga luz!
+  - Guiar-me vem!
+  - Na negra noite brilha e me conduz
+  - Guiar-me vem!
+  - Não peço luz a fim de longe ver
+  - Somente luz em cada passo ter.
+- number: 2
+  lines:
+  - Em outro tempo não queria luz
+  - Pra me guiar
+  - Não quis seguir o plano de Jesus
+  - Pra me salvar.
+  - Nas trevas não desejo mais andar
+  - Oh, meu Senhor, oh, vem meus pés guiar!
+- number: 3
+  lines:
+  - Guardou-me até aqui o teu poder
+  - E guardará
+  - Teu braço vai-me sempre defender
+  - E guiará.
+  - E quando, enfim, a vida terminar
+  - Entes queridos hei de reencontrar.
+credits:
+  text: John Henry Newman, 1801–1890
+  music: John B. Dykes, 1823–1876
+meta:
+  slug: lead-kindly-light
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/lead-kindly-light?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/lead-kindly-light.yaml

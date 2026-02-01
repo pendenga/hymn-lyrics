@@ -1,0 +1,42 @@
+---
+number: 136
+title: Todos los santos
+marking: Con majestuosidad
+verses:
+- number: 1
+  lines:
+  - Te damos gracias, bondadoso Rey,
+  - por todos los santos que descansan ya
+  - después de haberte seguido por la fe.
+  - ¡Aleluya! ¡Aleluya!
+- number: 2
+  lines:
+  - Perseveraron fieles hasta el fin;
+  - como ellos ayer, queremos hoy luchar,
+  - y una corona podremos recibir.
+  - ¡Aleluya! ¡Aleluya!
+- number: 3
+  lines:
+  - Tú eres nuestra roca y potestad;
+  - en la batalla, capitán tenaz.
+  - tu luz nos guiará en la oscuridad.
+  - ¡Aleluya! ¡Aleluya!
+- number: 4
+  lines:
+  - Y cuando recia la batalla es,
+  - a la distancia se oye un son triunfal;
+  - afirma el brazo, alienta nuestra fe.
+  - ¡Aleluya! ¡Aleluya!
+- number: 5
+  lines:
+  - Y al salir triunfantes sobre el mal,
+  - Con todos los santos podremos descansar;
+  - iremos con Dios al Reino Celestial.
+  - ¡Aleluya! ¡Aleluya!
+credits:
+  text: William Walsham How, 1823–1897.
+  music: Ralph Vaughn Williams, 1872–1958. Reimpreso del English Hymnal con permiso de Oxford University Press. Se prohíbe hacer copias sin permiso escrito del proprietario de los derechos de autor.
+meta:
+  slug: for-all-the-saints
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/for-all-the-saints?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/for-all-the-saints.yaml

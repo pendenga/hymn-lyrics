@@ -1,0 +1,30 @@
+---
+number: 118
+title: Manhã da Ressurreição
+marking: Brilhante
+verses:
+- number: 1
+  lines:
+  - Raia a aurora na imensidão,
+  - Desaparece a escuridão;
+  - O triste mundo se enche de luz,
+  - Pois da morte eterna nos livra Jesus.
+- number: 2
+  lines:
+  - Ressuscitado Jesus despertou
+  - E a influência da tumba cessou;
+  - Do Pai Eterno o Reino herdará.
+  - E sua coroa de glória será.
+- number: 3
+  lines:
+  - Dia bendito de luz e de paz,
+  - A felicidade às almas nos traz;
+  - Em Cristo vida e glória haverá,
+  - Pois do sepulcro nos resgatará.
+credits:
+  text: Cevilla Durfee Martin, 1866–1948
+  music: William J. C. Thiel
+meta:
+  slug: easter-morning
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/easter-morning?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/easter-morning.yaml

@@ -1,0 +1,30 @@
+---
+number: 129
+title: Pequena Vila de Belém
+marking: Com simplicidade
+verses:
+- number: 1
+  lines:
+  - Pequena vila de Belém, repousa em teu dormir,
+  - Enquanto os astros lá no céu estão a refulgir!
+  - Porém, nas tuas trevas resplende eterna luz;
+  - Incomparável, divinal, Nasceu o Rei Jesus!
+- number: 2
+  lines:
+  - Da virgem mãe nasceu Jesus, E hostes celestiais,
+  - Proclamam: “Glória, glória a Deus, na terra, aos homens, paz!”
+  - No céu, a estrela nova ao mundo proclamou
+  - Que Deus, mostrando eterno amor, Seu Filho nos mandou!
+- number: 3
+  lines:
+  - O dom glorioso, divinal, nenhum ruído faz,
+  - Porém a este mundo vil, amor e esperança traz.
+  - Sereno e sem arautos, sem toques de clarim,
+  - Traz ele ao mundo redenção, Amor e paz sem fim!
+credits:
+  text: Phillips Brooks, 1835–1893
+  music: Lewis H. Redner, 1831–1908
+meta:
+  slug: o-little-town-of-bethlehem
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/o-little-town-of-bethlehem?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/o-little-town-of-bethlehem.yaml

@@ -1,0 +1,30 @@
+---
+number: 8
+title: Awake and Arise
+marking: Brightly
+verses:
+- number: 1
+  lines:
+  - Awake and arise, O ye slumbering nations!
+  - The heavens have opened their portals again.
+  - The last and the greatest of all dispensations
+  - Has burst like a dawn o’er the children of men!
+- number: 2
+  lines:
+  - The dream of the poet, the crown of the ages,
+  - The time which the prophets of Israel foretold,
+  - That glorious day only dreamed by the sages
+  - Is yours, O ye slumbering nations; behold!
+- number: 3
+  lines:
+  - Oh, lift up your voices in song and in story.
+  - Let banners of peace in all lands be unfurled,
+  - For truth, heaven-born, in its beauty and glory
+  - Is marching triumphantly over the world.
+credits:
+  text: Theodore E. Curtis, 1872–1957. © 1984 IRI
+  music: Carolee Curtis Green, b. 1940. © 1984 IRI
+meta:
+  slug: awake-and-arise
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/awake-and-arise?lang=eng
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/eng/awake-and-arise.yaml

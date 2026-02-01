@@ -1,0 +1,36 @@
+---
+number: 103
+title: La Santa Cena
+marking: Con reverencia
+verses:
+- number: 1
+  lines:
+  - La Santa Cena, al tomar,
+  - a Cristo quiero recordar,
+  - mostrándole de corazón
+  - que limpio soy por Su perdón.
+- number: 2
+  lines:
+  - Por mi Su sangre derramó,
+  - y en la cruz Él padeció.
+  - En agonía y dolor
+  - murió, libró al pecador.
+- number: 3
+  lines:
+  - En inocencia Él murió;
+  - a la justicia Él pagó.
+  - Misericordia extendió,
+  - y a los hombres rescató.
+- number: 4
+  lines:
+  - Ya nos podremos levantar
+  - y, como Él, resucitar,
+  - libres de muerte y dolor,
+  - para reinar con el Señor.
+credits:
+  text: John Nicholson, 1839–1909.
+  music: Samuel McBurney, n. 1847.
+meta:
+  slug: while-of-these-emblems-we-partake-saul
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/while-of-these-emblems-we-partake-saul?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/while-of-these-emblems-we-partake-saul.yaml

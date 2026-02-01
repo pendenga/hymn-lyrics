@@ -1,0 +1,36 @@
+---
+number: 64
+title: Venid, los que a Dios amáis
+marking: Con entusiasmo
+verses:
+- number: 1
+  lines:
+  - Venid, los que a Dios
+  - amáis en santidad.
+  - Loor cantad con grata voz;
+  - Su nombre adorad.
+- number: 2
+  lines:
+  - No cantará aquel
+  - que niega al Señor,
+  - mas el que es un siervo fiel
+  - proclama Su amor.
+- number: 3
+  lines:
+  - Del Dios del cielo es
+  - el mundo que formó.
+  - Las nubes puso a Sus pies;
+  - el mar Su voz oyó.
+- number: 4
+  lines:
+  - Es éste nuestro Dios,
+  - El Padre y Señor,
+  - a quien la fuerza de Su voz
+  - nos lleva con amor.
+credits:
+  text: Isaac Watts, 1674–1748.
+  music: Aaron Williams, 1731–1776.
+meta:
+  slug: come-we-that-love-the-lord
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/come-we-that-love-the-lord?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/come-we-that-love-the-lord.yaml

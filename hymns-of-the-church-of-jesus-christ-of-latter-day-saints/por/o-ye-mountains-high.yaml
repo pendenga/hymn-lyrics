@@ -1,0 +1,39 @@
+---
+number: 16
+title: Ó Montanhas Mil
+marking: Majestoso
+verses:
+- number: 1
+  lines:
+  - Ó montanhas mil, onde o céu de anil
+  - Cobre os vales dos homens de bem;
+  - Onde o vento traz esperança e paz.
+  - Eu quisera em teu seio estar também.
+  - Ó Sião! Ó Sião! Terra ideal!
+  - Para ti voltarei e teu sempre serei.
+  - Ó meu lar, minha pátria sem igual!
+- number: 2
+  lines:
+  - Se das gentes más só desdém terás,
+  - Dos humildes querida tu és;
+  - Muitos podem fugir e de ti dissentir,
+  - Mas amor nós depomos a teus pés.
+  - Ó Sião! Ó Sião! Terra sem par!
+  - Já que o homem cruel deu-te mágoas e fel,
+  - De tua dor nós queremos partilhar!
+- number: 3
+  lines:
+  - Eis-me aqui, afinal, doce terra natal,
+  - Dos profetas e servos de Deus;
+  - O tirano cairá o opressor morrerá,
+  - E o gentio ouvirá comandos teus.
+  - Ó Sião! Ó Sião! Longe dos vis.
+  - Em ti quero viver, em ti quero morrer;
+  - Tu, Sião, só tu és meu lar feliz!
+credits:
+  text: Charles W. Penrose, 1832–1925
+  music: H. S. Thompson, aprox. 1852
+meta:
+  slug: o-ye-mountains-high
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/o-ye-mountains-high?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/o-ye-mountains-high.yaml

@@ -1,0 +1,30 @@
+---
+number: 128
+title: A medianoche se oyó
+marking: Con alegría
+verses:
+- number: 1
+  lines:
+  - A medianoche se oyó aquel dulce refrán
+  - de ángeles que en unión las gratas nuevas dan:
+  - “La paz y buena voluntad del gran Rey celestial”.
+  - El mundo en quietud oyó el son angelical.
+- number: 2
+  lines:
+  - En gloria vedlos descender, los ángeles de Dios;
+  - el triste mundo oirá su resonante voz.
+  - En las llanuras de Belén se oye su canción,
+  - diciendo que de Dios bajó al mundo redención.
+- number: 3
+  lines:
+  - El tiempo ya predicho fue, por siervos del Señor,
+  - y en el mundo reinarán la paz y el amor.
+  - Entonces el Señor será el Príncipe de Paz,
+  - y cantaremos otra vez el canto de solaz.
+credits:
+  text: Edmund H. Sears, 1810–1876.
+  music: Richard S. Willis, 1819–1900.
+meta:
+  slug: it-came-upon-the-midnight-clear
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/it-came-upon-the-midnight-clear?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/it-came-upon-the-midnight-clear.yaml

@@ -1,0 +1,30 @@
+---
+number: 48
+title: Divina Luz
+marking: Con humildad
+verses:
+- number: 1
+  lines:
+  - Divina Luz, con esplendor benigno, alúmbrame.
+  - Oscuras son la noche y la senda; mi Guía sé.
+  - Muy lejos de Tu pabellón estoy,
+  - y al hogar de las alturas voy.
+- number: 2
+  lines:
+  - Momentos hubo en que Tu ayuda no supliqué,
+  - confiando en mi propia experiencia; no tuve fe.
+  - Mas hoy deploro esa ceguedad;
+  - préstame, Dios, Tu grata claridad.
+- number: 3
+  lines:
+  - Guiando Tú, la noche resplandece, y cruzaré
+  - los valles, montes, riscos y torrentes con firme pie.
+  - Veré después el día despertar,
+  - y me guiarás de vuelta a mi hogar.
+credits:
+  text: John Henry Newman, 1801–1890.
+  music: John B. Dykes, 1823–1876.
+meta:
+  slug: lead-kindly-light
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/lead-kindly-light?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/lead-kindly-light.yaml

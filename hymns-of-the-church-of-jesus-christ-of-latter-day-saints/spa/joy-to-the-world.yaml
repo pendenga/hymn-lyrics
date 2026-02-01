@@ -1,0 +1,44 @@
+---
+number: 123
+title: ¡Regocijad! Jesús nació
+marking: Con júbilo
+verses:
+- number: 1
+  lines:
+  - ¡Regocijad! Jesús nació,
+  - del mundo Salvador;
+  - y cada corazón tornad
+  - a recibir al Rey,
+  - a recibir al Rey.
+  - Venid a recibir al Rey.
+- number: 2
+  lines:
+  - ¡Regocijad! Él reinará;
+  - cantemos en unión;
+  - y en la tierra y en el mar
+  - loor resonará,
+  - loor resonará,
+  - y gran loor resonará.
+- number: 3
+  lines:
+  - Ya la maldad vencida es;
+  - la tierra paz tendrá.
+  - La bendición del Salvador
+  - quitó la maldición,
+  - quitó la maldición;
+  - Jesús quitó la maldición.
+- number: 4
+  lines:
+  - ¡Glorias a Dios cantemos hoy!
+  - Señor de Israel,
+  - la libertad Tú le darás
+  - y Tú serás su Dios,
+  - y Tú serás su Dios,
+  - Señor, y Tú serás su Dios.
+credits:
+  text: Isaac Watts, 1674–1748.
+  music: George F. Handel, 1685–1759; arreglo de Lowell Mason, 1792–1872.
+meta:
+  slug: joy-to-the-world
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/joy-to-the-world?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/joy-to-the-world.yaml

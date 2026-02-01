@@ -1,0 +1,42 @@
+---
+number: 120
+title: Cristo Já Ressuscitou
+marking: Exultante
+verses:
+- number: 1
+  lines:
+  - Cristo já ressuscitou;
+  - Aleluia!
+  - Sobre a morte triunfou;
+  - Aleluia!
+  - Tudo consumado está;
+  - Aleluia!
+  - Salvação aos homens dá
+  - Aleluia!
+- number: 2
+  lines:
+  - Uma vez na cruz sofreu;
+  - Aleluia!
+  - Só por nós Jesus morreu;
+  - Aleluia!
+  - Mas agora vivo está!
+  - Aleluia!
+  - Para sempre reinará;
+  - Aleluia!
+- number: 3
+  lines:
+  - A promessa se cumpriu;
+  - Aleluia!
+  - Cristo já nos redimiu;
+  - Aleluia!
+  - Pois a morte quis sofrer;
+  - Aleluia!
+  - E aos homens socorrer;
+  - Aleluia!
+credits:
+  text: Charles Wesley, 1707–1788
+  music: Anon. Lyra Davidica, 1708
+meta:
+  slug: christ-the-lord-is-risen-today
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/christ-the-lord-is-risen-today?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/christ-the-lord-is-risen-today.yaml

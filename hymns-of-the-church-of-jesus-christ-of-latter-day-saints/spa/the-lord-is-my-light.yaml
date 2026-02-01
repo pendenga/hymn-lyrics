@@ -1,0 +1,52 @@
+---
+number: 42
+title: Jesús es mi luz
+marking: Con resolución
+verses:
+- number: 1
+  lines:
+  - Jesús es mi luz, y no temeré.
+  - Él es mi poder; solaz yo tendré.
+  - Él es quien me salva de mal y dolor,
+  - y sé que yo siempre tendré Su amor.
+  - Jesús es mi luz;
+  - mi gozo es, y canción,
+  - y siempre jamás me guía,
+  - sí, a Sión.
+- number: 2
+  lines:
+  - Jesús es mi luz, y en oscuridad
+  - la fe que yo tengo, a Él buscará.
+  - Donde Él reina siempre hay gloria y amor.
+  - ¿Porqué entonces he de quedar en error?
+  - Jesús es mi luz;
+  - mi gozo es, y canción,
+  - y siempre jamás me guía,
+  - sí, a Sión.
+- number: 3
+  lines:
+  - Jesús es mi luz; Él es mi poder,
+  - y con Su amor podré yo vencer.
+  - Mis faltas, con gracia Él puede borrar;
+  - andando por fe fuerzas he de cobrar.
+  - Jesús es mi luz;
+  - mi gozo es, y canción,
+  - y siempre jamás me guía,
+  - sí, a Sión.
+- number: 4
+  lines:
+  - Jesús es mi luz, amor y solaz,
+  - y huye el error de ante Su faz.
+  - Él es mi bendito Amparo y Rey;
+  - con santos y ángeles le honraré.
+  - Jesús es mi luz;
+  - mi gozo es, y canción,
+  - y siempre jamás me guía,
+  - sí, a Sión.
+credits:
+  text: James Nicholson, 1828–1876.
+  music: John R. Sweney, 1837–1899.
+meta:
+  slug: the-lord-is-my-light
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-light?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/the-lord-is-my-light.yaml

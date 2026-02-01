@@ -1,0 +1,42 @@
+---
+number: 125
+title: Ouvi os Sinos do Natal
+marking: Meditativo
+verses:
+- number: 1
+  lines:
+  - Ouvi os sinos do Natal
+  - Em tom alegre triunfal
+  - Seu repicar a proclamar:
+  - “Que entre os homens haja paz.”
+- number: 2
+  lines:
+  - Naquele dia então pensei
+  - Que em toda parte, em toda grei,
+  - Quem é cristão canta o refrão:
+  - “Que entre os homens haja paz.”
+- number: 3
+  lines:
+  - Angustiado me prostrei
+  - Pois paz na terra não achei,
+  - Só desamor e ódio e dor
+  - Pois entre os homens não há paz.
+- number: 4
+  lines:
+  - Mais forte o sino então soou
+  - Dizendo: “Deus não nos deixou.
+  - Vencendo o mal, ele, ao final
+  - Fará que os homens tenham paz.
+- number: 5
+  lines:
+  - Os povos hão de se amar
+  - E a noite em dia transformar
+  - E entoarão feliz canção
+  - E a terra toda terá paz.
+credits:
+  text: Henry Wadsworth Longfellow, 1807–1882
+  music: John Baptiste Calkin, 1827–1905
+meta:
+  slug: i-heard-the-bells-on-christmas-day
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/i-heard-the-bells-on-christmas-day?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/i-heard-the-bells-on-christmas-day.yaml

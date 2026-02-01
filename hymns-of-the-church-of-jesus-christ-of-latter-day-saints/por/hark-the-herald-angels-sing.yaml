@@ -1,0 +1,36 @@
+---
+number: 132
+title: Eis dos Anjos a Harmonia
+marking: Vigoroso
+verses:
+- number: 1
+  lines:
+  - Eis dos anjos a harmonia,
+  - Cantam glória ao novo Rei.
+  - Paz aos homens e alegria,
+  - Paz com Deus e a Santa Lei.
+  - Ouçam! Povos exultantes
+  - Erguem salmos triunfantes,
+  - Aclamando ao Senhor
+  - Nasce Cristo, o Redentor!
+  - Toda a terra e anjos seus
+  - Cantem glória ao Homem Deus!
+- number: 2
+  lines:
+  - Cante o povo resgatado:
+  - Glória ao Príncipe da Paz,
+  - Pois o Cristo revelado,
+  - Vida e luz ao mundo traz.
+  - Nasce pra que ressurjamos,
+  - Vive para que vivamos,
+  - Rei, profeta e Salvador,
+  - Louvem todos ao Senhor.
+  - Toda a terra e anjos seus
+  - Cantem glória ao Homem Deus!
+credits:
+  text: Charles Wesley, 1708–1788
+  music: Felix Mendelssohn, 1809–1847
+meta:
+  slug: hark-the-herald-angels-sing
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/hark-the-herald-angels-sing.yaml

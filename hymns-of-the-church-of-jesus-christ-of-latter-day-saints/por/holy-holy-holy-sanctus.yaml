@@ -1,0 +1,44 @@
+---
+number: 55
+title: Santo! Santo! Santo!
+marking: Majestosamente
+verses:
+- number: 1
+  lines:
+  - Santo! Santo! Santo!
+  - Deus onipotente!
+  - Cantam, de manhã, nossas vozes com ardor.
+  - Santo! Santo! Santo!
+  - Justo e compassivo!
+  - És nosso Deus, excelso Criador!
+- number: 2
+  lines:
+  - Santo! Santo! Santo!
+  - Todos os remidos,
+  - Juntos com os anjos, proclamam teu louvor.
+  - Antes de formar-se o
+  - firmamento e a terra
+  - Eras e sempre és, e hás de ser, Senhor!
+- number: 3
+  lines:
+  - Santo! Santo! Santo!
+  - Nós, os pecadores,
+  - Não podemos ver tua glória sem tremor.
+  - Santo! Santo! Santo!
+  - Só tu és perfeito.
+  - Deus soberano, imenso em teu amor!
+- number: 4
+  lines:
+  - Santo! Santo! Santo!
+  - Deus onipotente!
+  - Tuas obras louvam teu nome com fervor.
+  - Santo! Santo! Santo!
+  - Justo e compassivo!
+  - És nosso Deus, Excelso Criador!
+credits:
+  text: Reginald Heber, 1783–1826. Trad. João Gomes da Rocha
+  music: John Bacchus Dykes 1823–1876
+meta:
+  slug: holy-holy-holy-sanctus
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/holy-holy-holy-sanctus?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/holy-holy-holy-sanctus.yaml

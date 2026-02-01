@@ -1,0 +1,36 @@
+---
+number: 75
+title: Testimonio
+marking: Con reflexión
+verses:
+- number: 1
+  lines:
+  - Por el Espíritu de Dios
+  - mi testimonio doy,
+  - y me acerco más a Él,
+  - pues hijo suyo soy.
+- number: 2
+  lines:
+  - Yo sé que Jesucristo es
+  - Autor de salvación;
+  - si sigo a Su profeta fiel,
+  - tendré exaltación.
+- number: 3
+  lines:
+  - La voz del Santo Espíritu
+  - me habla al corazón;
+  - Su testimonio da solaz
+  - en medio de aflicción.
+- number: 4
+  lines:
+  - Renueva el Espíritu
+  - mi vida terrenal;
+  - vislumbro ya el resplandor
+  - del reino celestial.
+credits:
+  text: Loren C. Dunn, n. 1930–2001. © 1985 IRI
+  music: Michael Finlinson Moody, n. 1941. © 1985 IRI
+meta:
+  slug: testimony
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/testimony?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/testimony.yaml

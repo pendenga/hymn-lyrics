@@ -1,0 +1,48 @@
+---
+number: 121
+title: Mundo Feliz, Nasceu Jesus
+marking: Jubiloso
+verses:
+- number: 1
+  lines:
+  - Mundo feliz, nasceu Jesus.
+  - Nasceu trazendo a luz!
+  - Trazendo a salvação,
+  - Trazendo a redenção,
+  - Louvemos ao Senhor,
+  - Louvemos ao Senhor!
+  - Louvemos, louvemos ao Senhor!
+- number: 2
+  lines:
+  - Mundo feliz, o seu perdão
+  - Roguemos em união!
+  - Na terra e no mar,
+  - Cantemos sem cessar,
+  - Cantemos seu louvor,
+  - Cantemos seu louvor!
+  - Cantemos, cantemos seu louvor!
+- number: 3
+  lines:
+  - Mundo feliz, hoje afinal,
+  - Vencido foi o mal!
+  - Em nosso coração,
+  - Em santa contrição,
+  - Roguemos seu perdão,
+  - Roguemos seu perdão!
+  - Roguemos, roguemos seu perdão!
+- number: 4
+  lines:
+  - Mundo feliz, louvai a Deus
+  - Aos gratos dotes seus!
+  - O Filho nos mandou,
+  - Ao pecador salvou
+  - Hosanas ao Senhor,
+  - Hosanas ao Senhor!
+  - Hosanas, hosanas ao Senhor!
+credits:
+  text: Isaac Watts, 1674–1748; alterada por William W. Phelps, 1792–1872
+  music: George F. Handel, 1685–1759; arranjo de Lowell Mason, 1792–1872
+meta:
+  slug: joy-to-the-world
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/joy-to-the-world?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/joy-to-the-world.yaml

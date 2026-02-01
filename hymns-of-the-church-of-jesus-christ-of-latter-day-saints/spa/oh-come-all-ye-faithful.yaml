@@ -1,0 +1,33 @@
+---
+number: 124
+title: Venid, adoremos
+marking: Con majestuosidad
+verses:
+- number: 1
+  lines:
+  - Venid, adoremos, con alegre canto;
+  - venid al pueblito de Belén.
+  - Hoy ha nacido el Rey de los ángeles.
+  - Venid y adoremos, venid y adoremos,
+  - venid y adoremos a Cristo Jesús.
+- number: 2
+  lines:
+  - Cantadle loores, coros celestiales;
+  - resuene el eco angelical.
+  - Gloria cantemos al Dios del cielo.
+  - Venid y adoremos, venid y adoremos,
+  - venid y adoremos a Cristo Jesús.
+- number: 3
+  lines:
+  - Señor, nos gozamos en Tu nacimiento;
+  - oh Cristo, a Ti la gloria será.
+  - Ya en la carne, Verbo del Padre.
+  - Venid y adoremos, venid y adoremos,
+  - venid y adoremos a Cristo Jesús.
+credits:
+  text: Atribuida a John F. Wade; apr. 1711–1786;
+  music: Atribuida a John F. Wade.
+meta:
+  slug: oh-come-all-ye-faithful
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/oh-come-all-ye-faithful?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/oh-come-all-ye-faithful.yaml

@@ -1,0 +1,36 @@
+---
+number: 45
+title: Ó Vós Que Amais ao Senhor
+marking: Alegre
+verses:
+- number: 1
+  lines:
+  - Ó vós que amais ao Senhor,
+  - Vosso júbilo demonstrai.
+  - Cantando, juntos, vosso amor,
+  - Louvando ao vosso Pai.
+- number: 2
+  lines:
+  - Que lhe recuse louvor
+  - O que nunca o conheceu
+  - Mas nós, os servos do Senhor,
+  - Louvamos ao nosso Deus.
+- number: 3
+  lines:
+  - O nosso Deus e Senhor
+  - Rege toda a criação
+  - Do mar abranda o furor
+  - E calma o furacão.
+- number: 4
+  lines:
+  - Tão poderoso Senhor
+  - Seu poder nos enviará
+  - É ele o nosso Pai de amor
+  - E ao céu nos conduzirá.
+credits:
+  text: Isaac Watts, 1674–1748
+  music: Aaron Williams, 1731–1776
+meta:
+  slug: come-we-that-love-the-lord
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/come-we-that-love-the-lord?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/come-we-that-love-the-lord.yaml

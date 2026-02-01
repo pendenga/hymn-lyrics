@@ -1,0 +1,36 @@
+---
+number: 111
+title: Lembrando a Morte de Jesus
+marking: Fervoroso
+verses:
+- number: 1
+  lines:
+  - Lembrando a morte de Jesus
+  - Viemos, Pai, nos reunir.
+  - Que o teu Espírito de luz
+  - Nos faça teu poder sentir.
+- number: 2
+  lines:
+  - Lá no Jardim o meu Jesus
+  - Da amarga taça não fugiu
+  - E no Calvário, numa cruz,
+  - Morreu por nós e a Lei cumpriu.
+- number: 3
+  lines:
+  - Com reverente coração,
+  - Seu corpo e sangue a recordar,
+  - Partilharemos água e pão,
+  - Lembrando seu amor sem par.
+- number: 4
+  lines:
+  - Que todo o que vier, então,
+  - Do sacramento partilhar,
+  - Com puro intento e coração,
+  - Tu possas, Pai, santificar.
+credits:
+  text: Frank I. Kooyman, 1880–1963. © 1948 IRI
+  music: Alexander Schreiner, 1901–1987. © 1948 IRI
+meta:
+  slug: in-memory-of-the-crucified
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/in-memory-of-the-crucified?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/in-memory-of-the-crucified.yaml

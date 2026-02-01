@@ -1,0 +1,27 @@
+---
+number: 51
+title: Guíame, oh Salvador
+marking: Con humildad
+verses:
+- number: 1
+  lines:
+  - Guíame, oh Salvador, por las olas de temor.
+  - Fuerte es la tempestad; densa la oscuridad.
+  - Mi timón es tu amor. Guíame, oh Salvador
+- number: 2
+  lines:
+  - A las olas hablarás, y su ira calmarás.
+  - La furiosa tempestad cumplirá tu voluntad.
+  - En los mares de furor, guíame, oh Salvador.
+- number: 3
+  lines:
+  - Los escollos de la mar me abaten al llegar;
+  - amenazan con hundir al que quiere a ti venir.
+  - Mas tu voz escucharé: “Calma; yo te guiaré.”
+credits:
+  text: Edward Hopper, 1818–1888.
+  music: John Edgar Gould, 1822–1875.
+meta:
+  slug: jesus-savior-pilot-me
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/jesus-savior-pilot-me?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/jesus-savior-pilot-me.yaml

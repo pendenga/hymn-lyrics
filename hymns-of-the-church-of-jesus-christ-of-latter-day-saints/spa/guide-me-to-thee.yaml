@@ -1,0 +1,35 @@
+---
+number: 52
+title: Guíame a Ti
+marking: Con fervor
+verses:
+- number: 1
+  lines:
+  - Cristo, mi Salvador, guíame a Ti.
+  - Dame tu gran amor; guíame a Ti.
+  - En la profundidad de la obscuridad,
+  - Oh faro de verdad, guíame a Ti.
+- number: 2
+  lines:
+  - Del mundo de dolor, guíame a Ti.
+  - Mi vida haz mejor; guíame a Ti.
+  - Deja tu gran poder mi alma proteger,
+  - mi fortaleza ser; guíame a Ti.
+- number: 3
+  lines:
+  - Cuando en tentación, guíame a Ti.
+  - Cuando en aflicción, guíame a Ti.
+  - Mi alma morirá y gozo no habrá
+  - si no me guías ya; guíame a Ti.
+- number: 4
+  lines:
+  - La muerte viene ya; guíame a Ti.
+  - Consuelo me darás; guíame a Ti.
+  - Deja tu gran piedad, amor y caridad
+  - guiarme con verdad; guíame a Ti.
+credits:
+  text and music: Orson Pratt Huish, 1851–1932.
+meta:
+  slug: guide-me-to-thee
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/guide-me-to-thee?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/guide-me-to-thee.yaml

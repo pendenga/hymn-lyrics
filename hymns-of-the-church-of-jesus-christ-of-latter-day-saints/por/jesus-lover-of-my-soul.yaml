@@ -1,0 +1,32 @@
+---
+number: 65
+title: Jesus Cristo É Meu Senhor
+marking: Alegremente
+verses:
+- number: 1
+  lines:
+  - Jesus Cristo é meu Senhor
+  - Dá-me paz ao coração;
+  - Livra este sofredor
+  - Das tormentas, da aflição
+  - É Jesus, meu Redentor,
+  - Nele a alma se compraz
+  - E bem sei que seu amor
+  - Me dará celeste paz!
+- number: 2
+  lines:
+  - De outro amparo eu não sei.
+  - Pois confio no Senhor
+  - Que é meu pai, meu Deus, meu Rei,
+  - Meu sublime protetor.
+  - Eu espero em Jesus,
+  - Outro ser não há igual;
+  - Que me guia em sua luz
+  - E afasta-me do mal.
+credits:
+  text: Charles Wesley, 1707–1788
+  music: Joseph P. Holbrook, 1822–1888
+meta:
+  slug: jesus-lover-of-my-soul
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/jesus-lover-of-my-soul?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/jesus-lover-of-my-soul.yaml

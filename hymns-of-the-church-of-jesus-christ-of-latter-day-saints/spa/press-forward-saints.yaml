@@ -1,0 +1,30 @@
+---
+number: 38
+title: Santos, avanzad
+marking: Con resolución
+verses:
+- number: 1
+  lines:
+  - Santos, avanzad con fe en el Señor,
+  - con esperanza en el corazón.
+  - Amad a Dios y a la humanidad.
+  - ¡Aleluya, aleluya, aleluya!
+- number: 2
+  lines:
+  - En la palabra de Jesús gozad.
+  - Su nombre recibid y alabad.
+  - La luz eterna Él a todos da.
+  - ¡Aleluya, aleluya, aleluya!
+- number: 3
+  lines:
+  - Sed firmes en las vías del Señor.
+  - Perseverad, pues Él os da Su amor.
+  - La vida eterna Él nos brindará.
+  - ¡Aleluya, aleluya, aleluya!
+credits:
+  text: Marvin K. Gardner, n. 1952; basada en 2 Nefi 31
+  music: Vanya Y. Watkins, n. 1938. © 1985 IRI
+meta:
+  slug: press-forward-saints
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/press-forward-saints?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/press-forward-saints.yaml

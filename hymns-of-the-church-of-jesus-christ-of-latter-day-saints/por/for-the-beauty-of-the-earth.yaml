@@ -1,0 +1,36 @@
+---
+number: 49
+title: Pela Beleza do Mundo
+marking: Alegre
+verses:
+- number: 1
+  lines:
+  - Pela beleza que há no chão
+  - E a beleza que há no céu,
+  - Pelo amor que em profusão,
+  - Recebemos a granel.
+  - Ouve, hoje, ó Deus de amor,
+  - Este hino de louvor.
+- number: 2
+  lines:
+  - Pelas surpresas que contém
+  - Cada dia que nos dás
+  - Pássaros, flores, rios também,
+  - Chuva estrelas, sol e mar.
+  - Ouve, hoje, ó Deus de amor,
+  - Este hino de louvor.
+- number: 3
+  lines:
+  - Pela alegria do amor
+  - Que os pais e irmãos nos dão
+  - Pelos amigos que ao redor,
+  - Tão gentis e amáveis são.
+  - Ouve, hoje, ó Deus de amor,
+  - Este hino de louvor.
+credits:
+  text: Folliot S. Pierpoint, 1835–1917
+  music: Conrad Kocher, 1786–1872
+meta:
+  slug: for-the-beauty-of-the-earth
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/for-the-beauty-of-the-earth?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/for-the-beauty-of-the-earth.yaml

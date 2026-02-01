@@ -1,0 +1,36 @@
+---
+number: 126
+title: Cantan santos ángeles
+marking: Con júbilo
+verses:
+- number: 1
+  lines:
+  - Cantan santos ángeles
+  - con celeste entonación;
+  - las montañas eco dan
+  - como fiel contestación.
+  - Gloria a Dios en lo alto.
+  - Gloria a Dios en lo alto.
+- number: 2
+  lines:
+  - Los pastores sin cesar
+  - sus loores dan a Dios;
+  - cuán glorioso es el son
+  - de su melodiosa voz.
+  - Gloria a Dios en lo alto.
+  - Gloria a Dios en lo alto.
+- number: 3
+  lines:
+  - A Belén venid y ved
+  - al que anunciado fue,
+  - a Jesús el Salvador,
+  - al recién nacido Rey.
+  - Gloria a Dios en lo alto.
+  - Gloria a Dios en lo alto.
+credits:
+  text: Villancico francés; apr. 1862.
+  music: Villancico francés.
+meta:
+  slug: angels-we-have-heard-on-high
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/angels-we-have-heard-on-high?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/angels-we-have-heard-on-high.yaml

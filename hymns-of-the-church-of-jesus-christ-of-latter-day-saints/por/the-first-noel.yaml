@@ -1,0 +1,27 @@
+---
+number: 133
+title: Quando o Anjo Proclamou
+marking: Com júbilo
+verses:
+- number: 1
+  lines:
+  - Quando o anjo proclamou o primeiro Natal,
+  - Dirigiu-se aos pastores ao pé de Belém
+  - Lá nos campos a guardar seus rebanhos do mal,
+  - Contemplando as estrelas distantes no além
+  - Natal, Natal, Natal, Natal,
+  - A Israel nasce o Rei, afinal!
+- number: 2
+  lines:
+  - E de súbito, no céu, linda estrela surgiu,
+  - No oriente brilhou com estranho fulgor
+  - E na terra, sem rival, jubilosa luziu
+  - Muitas noites ainda, em grande esplendor!
+  - Natal, Natal, Natal, Natal,
+  - A Israel nasce o Rei, afinal!
+credits:
+  text and music: Tradicional canção de Natal inglesa do século XVII
+meta:
+  slug: the-first-noel
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/the-first-noel?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/the-first-noel.yaml

@@ -1,0 +1,26 @@
+---
+number: 130
+title: Escuchad el son triunfal
+marking: Con entusiasmo
+verses:
+- number: 1
+  lines:
+  - Escuchad el son triunfal de la hueste celestial:
+  - Paz y buena voluntad; salvación Dios os dará.
+  - Cante hoy toda nación la angelical canción;
+  - estas nuevas todos den: Nació Cristo en Belén.
+  - Escuchad el son triunfal de la hueste celestial.
+- number: 2
+  lines:
+  - ¡Salve, Príncipe de Paz! Redención traído has,
+  - luz y vida con virtud, en tus alas la salud.
+  - De Tu trono has bajado y la muerte conquistado
+  - para dar al ser mortal nacimiento celestial.
+  - Escuchad el son triunfal de la hueste celestial.
+credits:
+  text: Charles Wesley, 1707–1788.
+  music: Felix Mendelssohn, 1809–1847.
+meta:
+  slug: hark-the-herald-angels-sing
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/hark-the-herald-angels-sing?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/hark-the-herald-angels-sing.yaml

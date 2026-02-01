@@ -1,0 +1,36 @@
+---
+number: 126
+title: Noite Feliz
+marking: Calmo
+verses:
+- number: 1
+  lines:
+  - Noite feliz! Noite feliz!
+  - Ó Senhor, Deus de amor
+  - Pobrezinho nasceu em Belém;
+  - Eis na lapa Jesus, nosso bem;
+  - Dorme em paz, Ó Jesus!
+  - Dorme em paz, Ó Jesus!
+- number: 2
+  lines:
+  - Noite feliz! Noite feliz!
+  - Ó Jesus, Deus da luz,
+  - Quão afável é teu coração
+  - Pois quiseste nascer nosso irmão
+  - E a nós todos salvar!
+  - E a nós todos salvar!
+- number: 3
+  lines:
+  - Noite feliz! Noite feliz!
+  - Eis no ar, vêm cantar
+  - Aos pastores os anjos do céu,
+  - Anunciando a vinda de Deus
+  - De Jesus Salvador!
+  - De Jesus Salvador!
+credits:
+  text: Joseph Mohr, 1792–1848
+  music: Franz Gruber, 1787–1863
+meta:
+  slug: silent-night
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/silent-night?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/silent-night.yaml

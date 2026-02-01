@@ -1,0 +1,42 @@
+---
+number: 3
+title: Ya regocijemos
+marking: Con alegría
+verses:
+- number: 1
+  lines:
+  - Ya regocijemos; es día bendito;
+  - ya no sufriremos pesar y aflicción.
+  - El gran Evangelio se está proclamando
+  - y viene la hora de la redención,
+  - en que las promesas los santos reciban,
+  - y libres de persecuciones estén.
+  - La tierra tal como Edén será vista;
+  - por Cristo reunido será Israel.
+- number: 2
+  lines:
+  - Amémonos siempre y no contendamos;
+  - seamos unidos, dejando el error.
+  - Y entre el temor y clamor de los malos
+  - veremos el día de nuestro Señor,
+  - en que las promesas los santos reciban,
+  - y libres de persecuciones estén.
+  - La tierra tal como Edén será vista;
+  - por Cristo reunido será Israel.
+- number: 3
+  lines:
+  - Tenemos confianza en que Jesucristo
+  - nos guíe en nuestro pesar y dolor,
+  - y cuando la siega y prueba pasemos,
+  - ¡qué gozo habrá cuando venga el Señor!
+  - Y toda promesa ya recibiremos;
+  - con ángeles santos nos coronará.
+  - La tierra tal como Edén será vista,
+  - y Cristo y Su pueblo aquí morarán.
+credits:
+  text: William W. Phelps, 1792–1872.
+  music: Henry Tucker; apr. 1863.
+meta:
+  slug: now-let-us-rejoice
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/now-let-us-rejoice?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/now-let-us-rejoice.yaml

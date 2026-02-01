@@ -1,0 +1,33 @@
+---
+number: 56
+title: Jehová mi Pastor es
+marking: Con serenidad
+verses:
+- number: 1
+  lines:
+  - Jehová mi Pastor es; no me faltará.
+  - En verdes praderas descanso me da.
+  - Por Aguas tranquilas me conducirá.
+  - Si ando errante, me rescatará.
+  - Si ando errante, me rescatará.
+- number: 2
+  lines:
+  - Y cuando por valles de muerte iré,
+  - si tú me amparas, temor no tendré.
+  - Tu vara y cayado me confortarán.
+  - El mal no me hiere, ni penas habrá.
+  - El mal no me hiere, ni penas habrá.
+- number: 3
+  lines:
+  - Mi mesa la colmas donde hay aflicción.
+  - Mi copa rebosa de gran bendición.
+  - Unción con aceite costoso me das.
+  - Tu mano me cubre; no pido yo más.
+  - Tu mano me cubre; no pido yo más.
+credits:
+  text: James Montgomery, 1771–1854; basada en el Salmo 23
+  music: Thomas Koschat, 1845–1914.
+meta:
+  slug: the-lord-is-my-shepherd
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/the-lord-is-my-shepherd?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/the-lord-is-my-shepherd.yaml

@@ -1,0 +1,36 @@
+---
+number: 124
+title: Anjos Descem a Cantar
+marking: Com júbilo
+verses:
+- number: 1
+  lines:
+  - Anjos descem a cantar:
+  - “Paz na terra, glória a Deus”.
+  - Nas montanhas, a ecoar.
+  - Escutai os cantos seus:
+  - “Glória, glória a Deus nas alturas!
+  - Glória Glória a Deus nas alturas!”
+- number: 2
+  lines:
+  - Os pastores lá se vão
+  - Ver o infante celestial,
+  - Repetindo o refrão
+  - Do louvor angelical:
+  - “Glória, glória a Deus nas alturas!
+  - Glória Glória a Deus nas alturas!”
+- number: 3
+  lines:
+  - A Belém vinde adorar
+  - Cristo, Salvador e Rei
+  - Adorai-o a cantar
+  - O refrão da excelsa grei:
+  - “Glória, glória a Deus nas alturas!
+  - Glória Glória a Deus nas alturas!”
+credits:
+  text: Canção Natalina Francesa, aprox. 1862
+  music: Canção Natalina Francesa
+meta:
+  slug: angels-we-have-heard-on-high
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/angels-we-have-heard-on-high?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/angels-we-have-heard-on-high.yaml

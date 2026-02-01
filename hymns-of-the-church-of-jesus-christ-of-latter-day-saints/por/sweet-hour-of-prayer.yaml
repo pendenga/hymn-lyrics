@@ -1,0 +1,36 @@
+---
+number: 79
+title: Ó Doce, Grata Oração
+marking: Serenamente
+verses:
+- number: 1
+  lines:
+  - Ó doce, grata oração,
+  - Que calmas toda aflição,
+  - Ao Pai Eterno vais subir
+  - E vais também por mim pedir.
+  - Nas horas tristes de pesar,
+  - Minh’alma pode descansar
+  - E se livrar da tentação,
+  - Em doce, grata oração;
+  - E se livrar da tentação,
+  - Em doce, grata oração!
+- number: 2
+  lines:
+  - Ó doce, grata oração,
+  - Tu levas minha petição;
+  - Ao Rei Eterno chegarás
+  - E sua bênção pedirás.
+  - Ao invocar o meu Senhor,
+  - Ao dar-lhe todo o meu amor,
+  - Eu abrirei meu coração,
+  - Em doce, grata oração;
+  - Eu abrirei meu coração,
+  - Em doce, grata oração!
+credits:
+  text: Atr. a William W. Walford, 1772–1850, alt.
+  music: William B. Bradbury, 1816–1868, alt,
+meta:
+  slug: sweet-hour-of-prayer
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/sweet-hour-of-prayer?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/sweet-hour-of-prayer.yaml

@@ -1,0 +1,30 @@
+---
+number: 51
+title: Oração de Graças
+marking: Jubiloso
+verses:
+- number: 1
+  lines:
+  - Unidos, ó Pai, tuas bênçãos rogamos
+  - A tua vontade nos fazes saber
+  - Dos perseguidores já livres estamos
+  - Cantemos louvores por Deus nos valer.
+- number: 2
+  lines:
+  - Sempre a nosso lado, Senhor, nosso guia,
+  - Diriges comandas domínios só teus.
+  - É nossa a vitória, desde o primeiro dia,
+  - Que tua seja a glória, Senhor nosso Deus.
+- number: 3
+  lines:
+  - Ó Deus triunfante, nós damos-te graças
+  - Rogamos que sempre nos dês proteção.
+  - Que prósperos, fortes e livres nos faças
+  - E poupe-nos da dor e da tribulação.
+credits:
+  text: Anônimo, Holandesa, aprox, 1626; traduzido para o inglês por Theodore Baker, 1851–1934
+  music: Anônimo, Holandesa, aprox. 1625, arr, por Edward Kremser, 1838–1914
+meta:
+  slug: prayer-of-thanksgiving
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/prayer-of-thanksgiving?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/prayer-of-thanksgiving.yaml

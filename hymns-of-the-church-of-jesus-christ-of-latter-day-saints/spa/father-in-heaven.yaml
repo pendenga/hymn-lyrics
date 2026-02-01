@@ -1,0 +1,30 @@
+---
+number: 82
+title: Padre en los cielos
+marking: Con devoción
+verses:
+- number: 1
+  lines:
+  - Padre en los cielos, con amor eterno,
+  - oye a Tus hijos con loor cantado.
+  - Te alabamos por la paz que brindas:
+  - Tu paz nos brindas.
+- number: 2
+  lines:
+  - Llénanos siempre de Tu amor divino;
+  - paz y consuelo da al afligido.
+  - En Ti confiamos; siempre nos amparas:
+  - Tú nos amparas.
+- number: 3
+  lines:
+  - Padre, bendice todas las naciones;
+  - dales tu paz con Tus eternos dones.
+  - Han de cantarte grandes alabanzas:
+  - Tus alabanzas.
+credits:
+  text: Angus S. Hibbard.
+  music: Friedrich F. Flemming, 1778–1813; arreglo de Edwin P. Parker, 1836–1925.
+meta:
+  slug: father-in-heaven
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/father-in-heaven?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/father-in-heaven.yaml

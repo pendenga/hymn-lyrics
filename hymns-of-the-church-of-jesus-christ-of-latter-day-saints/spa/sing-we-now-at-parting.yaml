@@ -1,0 +1,30 @@
+---
+number: 91
+title: Al partir cantemos
+marking: Con reverencia
+verses:
+- number: 1
+  lines:
+  - Al partir cantemos himnos de loor
+  - al Eterno Padre por Su gran amor.
+  - Por Sus gratos dones, por cuidado fiel,
+  - suban nuestros himnos siempre hacia El.
+- number: 2
+  lines:
+  - Por misericordia, gracia, y amor,
+  - cánticos alegres lleguen al Señor.
+  - Por las bendiciones que nos manda Dios
+  - demos alabanzas con alegre voz.
+- number: 3
+  lines:
+  - Redentor, oídnos himnos elevar;
+  - a tus fieles santos dígnate mirar.
+  - Sálvanos, oh Cristo; guárdanos de error.
+  - Vamos a servirte y mostrar amor.
+credits:
+  text: George Manwaring, 1854–1889.
+  music: Ebenezer Beesley, 1840–1906.
+meta:
+  slug: sing-we-now-at-parting
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/sing-we-now-at-parting?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/sing-we-now-at-parting.yaml

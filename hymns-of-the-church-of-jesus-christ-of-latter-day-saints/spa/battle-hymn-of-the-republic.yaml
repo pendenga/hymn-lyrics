@@ -1,0 +1,52 @@
+---
+number: 28
+title: Himno de batalla de la República
+marking: Con energía
+verses:
+- number: 1
+  lines:
+  - Mis ojos ya perciben la gran gloria del Señor,
+  - cuando Él esté venciendo la maldad y el error.
+  - Ya desnuda Su espada cual un rayo de furor;
+  - avanza Su verdad.
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - Avanza Su verdad.
+- number: 2
+  lines:
+  - He leído la palabra que enseña la verdad
+  - que según el hombre siembre, eso mismo segará,
+  - y Jesús a la serpiente la cabeza herirá,
+  - y Dios avanzará.
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - Avanza Su verdad.
+- number: 3
+  lines:
+  - Ha llamado a la carga y no retrocederá.
+  - A los hombres que lo siguen Jesucristo probará.
+  - ¡Oh, sé presta, pues, mi alma a seguirle donde va!
+  - Pues Dios avanza ya.
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - Avanza Su verdad.
+- number: 4
+  lines:
+  - Fue allende de los mares que el Rey Jesús nació,
+  - y con perfección sublime Él la luz a todos dio.
+  - Sed valientes, pues, vosotros y luchad cual Él luchó.
+  - Pues Dios avanza ya.
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - ¡Gloria, gloria, aleluya!
+  - Avanza Su verdad.
+credits:
+  text: Julia Ward Howe, 1819–1910.
+  music: Compositor anónimo; apr. 1861.
+meta:
+  slug: battle-hymn-of-the-republic
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/battle-hymn-of-the-republic?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/battle-hymn-of-the-republic.yaml

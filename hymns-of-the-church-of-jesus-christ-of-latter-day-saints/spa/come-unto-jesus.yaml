@@ -1,0 +1,35 @@
+---
+number: 60
+title: Venid a Cristo
+marking: Con suavidad
+verses:
+- number: 1
+  lines:
+  - Venid a Cristo, desconsolados;
+  - vuestros pesares El llevará.
+  - El os invita al bello puerto
+  - donde descanso habrá, habrá.
+- number: 2
+  lines:
+  - Venid a Cristo; El os atiende,
+  - aun en sendas de la maldad.
+  - Con infinito amor El os busca
+  - y os dará Su verdad, verdad.
+- number: 3
+  lines:
+  - Venid a Cristo, El os escucha,
+  - y suplicadle en oración.
+  - El os envía ángeles santos
+  - de Su eterna mansión, mansión.
+- number: 4
+  lines:
+  - Venid a Cristo de toda tierra
+  - y de lejanas islas del mar.
+  - A todos llama Su voz divina:
+  - “Venid a mí a morar, morar.”
+credits:
+  text and music: Orson Pratt Huish, 1851–1932.
+meta:
+  slug: come-unto-jesus
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/come-unto-jesus?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/come-unto-jesus.yaml

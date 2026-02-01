@@ -1,0 +1,36 @@
+---
+number: 127
+title: Noche de luz
+marking: Con calma
+verses:
+- number: 1
+  lines:
+  - Noche de luz, noche de paz;
+  - reina ya gran solaz
+  - do el niño dormido está,
+  - mensajero del Dios de verdad.
+  - Duerme, niño, en paz;
+  - duerme, niño, en paz.
+- number: 2
+  lines:
+  - Noche de luz, noche de paz;
+  - al pastor mostrarás
+  - luz celeste en gran plenitud,
+  - santos coros que cantan salud.
+  - Hoy nació el Señor;
+  - hoy nació el Señor.
+- number: 3
+  lines:
+  - Noche de luz, noche de paz;
+  - Ved la luz de Su faz.
+  - Es el alba de la redención;
+  - Dios, por Él, nos dará salvación.
+  - ¡Oh bendito Jesús!
+  - ¡Oh bendito Jesús!
+credits:
+  text: Joseph Mohr, 1792–1848.
+  music: Franz Xaver Gruber, 1787–1863.
+meta:
+  slug: silent-night
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/silent-night?lang=spa
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/spa/silent-night.yaml

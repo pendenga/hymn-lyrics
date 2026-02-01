@@ -1,0 +1,42 @@
+---
+number: 3
+title: Alegres Cantemos
+marking: Brilhante
+verses:
+- number: 1
+  lines:
+  - Alegres cantemos, não somos estranhos,
+  - Podemos na terra encontrar salvação;
+  - Alegres notícias os povos recebem:
+  - Em breve virá a final redenção.
+  - E tantas promessas nós, santos, teremos—
+  - A paz reinará para sempre e, assim,
+  - O mundo vai ser como um Édem alegre;
+  - Jesus falará: “Israel, vem a mim.”
+- number: 2
+  lines:
+  - Então viveremos sem ódio ou pecado,
+  - Bem longe de nós se afastou o rancor.
+  - E quando os ímpios tremerem de medo
+  - Teremos a crença no bom Salvador.
+  - E tantas promessas nós, santos, teremos—
+  - A paz reinará para sempre e, assim,
+  - O mundo vai ser como um Édem alegre;
+  - Jesus falará: “Israel, vem a mim.”
+- number: 3
+  lines:
+  - Se nos encontrarmos nas trevas perdidos,
+  - Confiemos no braço potente de Deus.
+  - Depois do juízo, da hora extrema
+  - Seremos guiados aos domínios seus.
+  - E receberemos de Deus as promessas,
+  - Os anjos do céu nos virão coroar;
+  - O mundo vai ser como um Édem celeste;
+  - E o povo de Cristo irá paz gozar.
+credits:
+  text: William W. Phelps, 1792–1872.
+  music: Henry Tucker, aprox. 1863
+meta:
+  slug: now-let-us-rejoice
+  weblink: https://www.churchofjesuschrist.org/study/manual/hymns/now-let-us-rejoice?lang=por
+  permalink: https://raw.githubusercontent.com/pendenga/hymn-lyrics/hymns-of-the-church-of-jesus-christ-of-latter-day-saints/por/now-let-us-rejoice.yaml
